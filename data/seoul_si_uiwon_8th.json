@@ -1,0 +1,658 @@
+{
+  "강남구": [
+    {
+      "name": "국민의힘",
+      "party": "강남구제1선거구",
+      "district": "강남구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강남구제2선거구",
+      "district": "강남구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강남구제3선거구",
+      "district": "강남구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강남구제4선거구",
+      "district": "강남구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강남구제5선거구",
+      "district": "강남구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강남구제6선거구",
+      "district": "강남구",
+      "position": "서울시의원"
+    }
+  ],
+  "강동구": [
+    {
+      "name": "국민의힘",
+      "party": "강동구제1선거구",
+      "district": "강동구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강동구제2선거구",
+      "district": "강동구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강동구제3선거구",
+      "district": "강동구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강동구제4선거구",
+      "district": "강동구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강동구제5선거구",
+      "district": "강동구",
+      "position": "서울시의원"
+    }
+  ],
+  "강북구": [
+    {
+      "name": "국민의힘",
+      "party": "강북구제1선거구",
+      "district": "강북구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "강북구제2선거구",
+      "district": "강북구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "강북구제3선거구",
+      "district": "강북구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "강북구제4선거구",
+      "district": "강북구",
+      "position": "서울시의원"
+    }
+  ],
+  "강서구": [
+    {
+      "name": "더불어민주당",
+      "party": "강서구제1선거구",
+      "district": "강서구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강서구제2선거구",
+      "district": "강서구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강서구제3선거구",
+      "district": "강서구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강서구제4선거구",
+      "district": "강서구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강서구제5선거구",
+      "district": "강서구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "강서구제6선거구",
+      "district": "강서구",
+      "position": "서울시의원"
+    }
+  ],
+  "관악구": [
+    {
+      "name": "더불어민주당",
+      "party": "관악구제1선거구",
+      "district": "관악구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "관악구제2선거구",
+      "district": "관악구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "관악구제3선거구",
+      "district": "관악구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "관악구제4선거구",
+      "district": "관악구",
+      "position": "서울시의원"
+    }
+  ],
+  "광진구": [
+    {
+      "name": "더불어민주당",
+      "party": "광진구제1선거구",
+      "district": "광진구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "광진구제2선거구",
+      "district": "광진구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "광진구제3선거구",
+      "district": "광진구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "광진구제4선거구",
+      "district": "광진구",
+      "position": "서울시의원"
+    }
+  ],
+  "구로구": [
+    {
+      "name": "국민의힘",
+      "party": "구로구제1선거구",
+      "district": "구로구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "구로구제2선거구",
+      "district": "구로구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "구로구제3선거구",
+      "district": "구로구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "구로구제4선거구",
+      "district": "구로구",
+      "position": "서울시의원"
+    }
+  ],
+  "금천구": [
+    {
+      "name": "더불어민주당",
+      "party": "금천구제1선거구",
+      "district": "금천구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "금천구제2선거구",
+      "district": "금천구",
+      "position": "서울시의원"
+    }
+  ],
+  "노원구": [
+    {
+      "name": "국민의힘",
+      "party": "노원구제1선거구",
+      "district": "노원구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "노원구제2선거구",
+      "district": "노원구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "노원구제3선거구",
+      "district": "노원구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "노원구제4선거구",
+      "district": "노원구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "노원구제5선거구",
+      "district": "노원구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "노원구제6선거구",
+      "district": "노원구",
+      "position": "서울시의원"
+    }
+  ],
+  "도봉구": [
+    {
+      "name": "국민의힘",
+      "party": "도봉구제1선거구",
+      "district": "도봉구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "도봉구제2선거구",
+      "district": "도봉구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "도봉구제3선거구",
+      "district": "도봉구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "도봉구제4선거구",
+      "district": "도봉구",
+      "position": "서울시의원"
+    }
+  ],
+  "동대문구": [
+    {
+      "name": "국민의힘",
+      "party": "동대문구제1선거구",
+      "district": "동대문구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "동대문구제2선거구",
+      "district": "동대문구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "동대문구제3선거구",
+      "district": "동대문구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "동대문구제4선거구",
+      "district": "동대문구",
+      "position": "서울시의원"
+    }
+  ],
+  "동작구": [
+    {
+      "name": "국민의힘",
+      "party": "동작구제1선거구",
+      "district": "동작구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "동작구제2선거구",
+      "district": "동작구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "동작구제3선거구",
+      "district": "동작구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "동작구제4선거구",
+      "district": "동작구",
+      "position": "서울시의원"
+    }
+  ],
+  "마포구": [
+    {
+      "name": "국민의힘",
+      "party": "마포구제1선거구",
+      "district": "마포구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "마포구제2선거구",
+      "district": "마포구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "마포구제3선거구",
+      "district": "마포구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "마포구제4선거구",
+      "district": "마포구",
+      "position": "서울시의원"
+    }
+  ],
+  "서대문구": [
+    {
+      "name": "국민의힘",
+      "party": "서대문구제1선거구",
+      "district": "서대문구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "서대문구제2선거구",
+      "district": "서대문구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "서대문구제3선거구",
+      "district": "서대문구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "서대문구제4선거구",
+      "district": "서대문구",
+      "position": "서울시의원"
+    }
+  ],
+  "서초구": [
+    {
+      "name": "국민의힘",
+      "party": "서초구제1선거구",
+      "district": "서초구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "서초구제2선거구",
+      "district": "서초구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "서초구제3선거구",
+      "district": "서초구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "서초구제4선거구",
+      "district": "서초구",
+      "position": "서울시의원"
+    }
+  ],
+  "성동구": [
+    {
+      "name": "국민의힘",
+      "party": "성동구제1선거구",
+      "district": "성동구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "성동구제2선거구",
+      "district": "성동구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "성동구제3선거구",
+      "district": "성동구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "성동구제4선거구",
+      "district": "성동구",
+      "position": "서울시의원"
+    }
+  ],
+  "성북구": [
+    {
+      "name": "더불어민주당",
+      "party": "성북구제1선거구",
+      "district": "성북구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "성북구제2선거구",
+      "district": "성북구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "성북구제3선거구",
+      "district": "성북구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "성북구제4선거구",
+      "district": "성북구",
+      "position": "서울시의원"
+    }
+  ],
+  "송파구": [
+    {
+      "name": "국민의힘",
+      "party": "송파구제1선거구",
+      "district": "송파구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "송파구제2선거구",
+      "district": "송파구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "송파구제3선거구",
+      "district": "송파구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "송파구제4선거구",
+      "district": "송파구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "송파구제5선거구",
+      "district": "송파구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "송파구제6선거구",
+      "district": "송파구",
+      "position": "서울시의원"
+    }
+  ],
+  "양천구": [
+    {
+      "name": "국민의힘",
+      "party": "양천구제1선거구",
+      "district": "양천구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "양천구제2선거구",
+      "district": "양천구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "양천구제3선거구",
+      "district": "양천구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "양천구제4선거구",
+      "district": "양천구",
+      "position": "서울시의원"
+    }
+  ],
+  "영등포구": [
+    {
+      "name": "국민의힘",
+      "party": "영등포구제1선거구",
+      "district": "영등포구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "영등포구제2선거구",
+      "district": "영등포구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "영등포구제3선거구",
+      "district": "영등포구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "영등포구제4선거구",
+      "district": "영등포구",
+      "position": "서울시의원"
+    }
+  ],
+  "용산구": [
+    {
+      "name": "국민의힘",
+      "party": "용산구제1선거구",
+      "district": "용산구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "용산구제2선거구",
+      "district": "용산구",
+      "position": "서울시의원"
+    }
+  ],
+  "은평구": [
+    {
+      "name": "더불어민주당",
+      "party": "은평구제1선거구",
+      "district": "은평구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "은평구제2선거구",
+      "district": "은평구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "은평구제3선거구",
+      "district": "은평구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "은평구제4선거구",
+      "district": "은평구",
+      "position": "서울시의원"
+    }
+  ],
+  "종로구": [
+    {
+      "name": "국민의힘",
+      "party": "종로구제1선거구",
+      "district": "종로구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "종로구제2선거구",
+      "district": "종로구",
+      "position": "서울시의원"
+    }
+  ],
+  "중구": [
+    {
+      "name": "국민의힘",
+      "party": "중구제1선거구",
+      "district": "중구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "중구제2선거구",
+      "district": "중구",
+      "position": "서울시의원"
+    }
+  ],
+  "중랑구": [
+    {
+      "name": "더불어민주당",
+      "party": "중랑구제1선거구",
+      "district": "중랑구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "중랑구제2선거구",
+      "district": "중랑구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "더불어민주당",
+      "party": "중랑구제3선거구",
+      "district": "중랑구",
+      "position": "서울시의원"
+    },
+    {
+      "name": "국민의힘",
+      "party": "중랑구제4선거구",
+      "district": "중랑구",
+      "position": "서울시의원"
+    }
+  ]
+}

@@ -1,0 +1,2290 @@
+{
+  "강남구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "강남구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "강남구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "강남구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "강남구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "강남구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "강남구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "국민의힘",
+      "district": "강남구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "강남구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "강남구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "더불어민주당",
+      "district": "강남구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "국민의힘",
+      "district": "강남구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "더불어민주당",
+      "district": "강남구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "국민의힘",
+      "district": "강남구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "더불어민주당",
+      "district": "강남구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "강남구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "국민의힘",
+      "district": "강남구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원17",
+      "party": "국민의힘",
+      "district": "강남구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원18",
+      "party": "더불어민주당",
+      "district": "강남구자선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원19",
+      "party": "국민의힘",
+      "district": "강남구자선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원20",
+      "party": "국민의힘",
+      "district": "강남구자선거구",
+      "position": "구의원"
+    }
+  ],
+  "강동구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "강동구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "더불어민주당",
+      "district": "강동구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "강동구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "강동구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "강동구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "강동구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "강동구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "강동구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "강동구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "더불어민주당",
+      "district": "강동구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "국민의힘",
+      "district": "강동구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "더불어민주당",
+      "district": "강동구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "국민의힘",
+      "district": "강동구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "더불어민주당",
+      "district": "강동구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "강동구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "국민의힘",
+      "district": "강동구바선거구",
+      "position": "구의원"
+    }
+  ],
+  "강북구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "강북구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "더불어민주당",
+      "district": "강북구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "강북구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "강북구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "강북구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "강북구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "강북구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "강북구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "강북구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "더불어민주당",
+      "district": "강북구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "강북구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "강북구라선거구",
+      "position": "구의원"
+    }
+  ],
+  "강서구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "강서구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "더불어민주당",
+      "district": "강서구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "강서구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "강서구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "강서구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "더불어민주당",
+      "district": "강서구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "국민의힘",
+      "district": "강서구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "강서구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "강서구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "강서구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "강서구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "더불어민주당",
+      "district": "강서구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "국민의힘",
+      "district": "강서구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "국민의힘",
+      "district": "강서구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "더불어민주당",
+      "district": "강서구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "국민의힘",
+      "district": "강서구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원17",
+      "party": "더불어민주당",
+      "district": "강서구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원18",
+      "party": "국민의힘",
+      "district": "강서구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원19",
+      "party": "더불어민주당",
+      "district": "강서구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원20",
+      "party": "국민의힘",
+      "district": "강서구아선거구",
+      "position": "구의원"
+    }
+  ],
+  "관악구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "관악구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "더불어민주당",
+      "district": "관악구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "관악구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "관악구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "관악구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "더불어민주당",
+      "district": "관악구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "관악구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "관악구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "관악구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "관악구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "관악구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "더불어민주당",
+      "district": "관악구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "국민의힘",
+      "district": "관악구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "더불어민주당",
+      "district": "관악구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "관악구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "더불어민주당",
+      "district": "관악구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원17",
+      "party": "국민의힘",
+      "district": "관악구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원18",
+      "party": "더불어민주당",
+      "district": "관악구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원19",
+      "party": "국민의힘",
+      "district": "관악구아선거구",
+      "position": "구의원"
+    }
+  ],
+  "광진구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "광진구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "광진구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "무소속",
+      "district": "광진구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "광진구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "광진구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "광진구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "광진구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "광진구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "광진구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "더불어민주당",
+      "district": "광진구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "국민의힘",
+      "district": "광진구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "광진구라선거구",
+      "position": "구의원"
+    }
+  ],
+  "구로구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "구로구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "구로구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "구로구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "구로구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "구로구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "더불어민주당",
+      "district": "구로구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "국민의힘",
+      "district": "구로구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "구로구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "구로구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "구로구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "구로구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "구로구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "더불어민주당",
+      "district": "구로구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "국민의힘",
+      "district": "구로구바선거구",
+      "position": "구의원"
+    }
+  ],
+  "금천구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "금천구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "금천구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "금천구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "금천구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "금천구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "더불어민주당",
+      "district": "금천구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "국민의힘",
+      "district": "금천구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "금천구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "금천구라선거구",
+      "position": "구의원"
+    }
+  ],
+  "노원구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "노원구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "더불어민주당",
+      "district": "노원구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "노원구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "노원구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "노원구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "진보당",
+      "district": "노원구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "노원구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "노원구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "노원구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "더불어민주당",
+      "district": "노원구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "노원구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "노원구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "더불어민주당",
+      "district": "노원구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "국민의힘",
+      "district": "노원구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "노원구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "더불어민주당",
+      "district": "노원구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원17",
+      "party": "더불어민주당",
+      "district": "노원구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원18",
+      "party": "국민의힘",
+      "district": "노원구바선거구",
+      "position": "구의원"
+    }
+  ],
+  "도봉구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "도봉구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "도봉구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "도봉구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "도봉구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "도봉구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "도봉구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "도봉구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "도봉구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "도봉구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "도봉구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "도봉구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "도봉구마선거구",
+      "position": "구의원"
+    }
+  ],
+  "동대문구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "동대문구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "동대문구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "동대문구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "동대문구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "동대문구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "동대문구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "동대문구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "동대문구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "동대문구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "더불어민주당",
+      "district": "동대문구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "국민의힘",
+      "district": "동대문구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "동대문구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "더불어민주당",
+      "district": "동대문구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "더불어민주당",
+      "district": "동대문구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "더불어민주당",
+      "district": "동대문구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "국민의힘",
+      "district": "동대문구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원17",
+      "party": "국민의힘",
+      "district": "동대문구바선거구",
+      "position": "구의원"
+    }
+  ],
+  "동작구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "동작구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "동작구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "동작구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "동작구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "동작구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "동작구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "동작구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "동작구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "동작구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "동작구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "동작구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "동작구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "더불어민주당",
+      "district": "동작구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "국민의힘",
+      "district": "동작구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "동작구사선거구",
+      "position": "구의원"
+    }
+  ],
+  "마포구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "마포구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "마포구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "마포구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "마포구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "마포구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "마포구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "마포구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "마포구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "마포구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "마포구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "마포구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "마포구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "더불어민주당",
+      "district": "마포구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "국민의힘",
+      "district": "마포구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "더불어민주당",
+      "district": "마포구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "더불어민주당",
+      "district": "마포구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원17",
+      "party": "국민의힘",
+      "district": "마포구아선거구",
+      "position": "구의원"
+    }
+  ],
+  "서대문구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "서대문구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "서대문구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "서대문구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "서대문구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "서대문구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "더불어민주당",
+      "district": "서대문구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "국민의힘",
+      "district": "서대문구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "서대문구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "서대문구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "서대문구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "서대문구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "더불어민주당",
+      "district": "서대문구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "국민의힘",
+      "district": "서대문구마선거구",
+      "position": "구의원"
+    }
+  ],
+  "서초구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "서초구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "서초구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "서초구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "서초구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "서초구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "서초구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "국민의힘",
+      "district": "서초구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "서초구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "서초구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "서초구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "국민의힘",
+      "district": "서초구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "서초구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "더불어민주당",
+      "district": "서초구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "국민의힘",
+      "district": "서초구마선거구",
+      "position": "구의원"
+    }
+  ],
+  "성동구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "성동구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "더불어민주당",
+      "district": "성동구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "성동구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "성동구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "성동구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "성동구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "성동구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "성동구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "성동구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "더불어민주당",
+      "district": "성동구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "성동구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "성동구라선거구",
+      "position": "구의원"
+    }
+  ],
+  "성북구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "성북구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "더불어민주당",
+      "district": "성북구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "성북구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "성북구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "성북구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "더불어민주당",
+      "district": "성북구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "성북구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "성북구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "성북구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "성북구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "성북구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "성북구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "더불어민주당",
+      "district": "성북구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "더불어민주당",
+      "district": "성북구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "성북구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "더불어민주당",
+      "district": "성북구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원17",
+      "party": "국민의힘",
+      "district": "성북구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원18",
+      "party": "더불어민주당",
+      "district": "성북구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원19",
+      "party": "국민의힘",
+      "district": "성북구바선거구",
+      "position": "구의원"
+    }
+  ],
+  "송파구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "송파구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "송파구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "국민의힘",
+      "district": "송파구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "더불어민주당",
+      "district": "송파구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "국민의힘",
+      "district": "송파구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "더불어민주당",
+      "district": "송파구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "국민의힘",
+      "district": "송파구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "송파구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "송파구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "송파구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "송파구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "송파구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "국민의힘",
+      "district": "송파구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "더불어민주당",
+      "district": "송파구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "송파구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "더불어민주당",
+      "district": "송파구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원17",
+      "party": "국민의힘",
+      "district": "송파구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원18",
+      "party": "더불어민주당",
+      "district": "송파구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원19",
+      "party": "국민의힘",
+      "district": "송파구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원20",
+      "party": "더불어민주당",
+      "district": "송파구자선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원21",
+      "party": "국민의힘",
+      "district": "송파구자선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원22",
+      "party": "더불어민주당",
+      "district": "송파구차선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원23",
+      "party": "국민의힘",
+      "district": "송파구차선거구",
+      "position": "구의원"
+    }
+  ],
+  "양천구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "양천구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "양천구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "양천구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "양천구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "양천구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "양천구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "양천구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "양천구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "양천구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "양천구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "양천구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "양천구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "더불어민주당",
+      "district": "양천구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "국민의힘",
+      "district": "양천구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "더불어민주당",
+      "district": "양천구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "국민의힘",
+      "district": "양천구아선거구",
+      "position": "구의원"
+    }
+  ],
+  "영등포구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "영등포구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "영등포구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "영등포구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "영등포구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "영등포구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "영등포구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "영등포구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "영등포구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "영등포구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "영등포구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "더불어민주당",
+      "district": "영등포구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "국민의힘",
+      "district": "영등포구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "더불어민주당",
+      "district": "영등포구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "더불어민주당",
+      "district": "영등포구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "영등포구사선거구",
+      "position": "구의원"
+    }
+  ],
+  "용산구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "용산구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "용산구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "용산구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "용산구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "용산구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "용산구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "용산구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "용산구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "더불어민주당",
+      "district": "용산구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "국민의힘",
+      "district": "용산구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "국민의힘",
+      "district": "용산구마선거구",
+      "position": "구의원"
+    }
+  ],
+  "은평구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "은평구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "은평구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "은평구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "은평구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "은평구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "은평구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "은평구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "은평구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "은평구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "더불어민주당",
+      "district": "은평구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "국민의힘",
+      "district": "은평구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "더불어민주당",
+      "district": "은평구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "국민의힘",
+      "district": "은평구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "더불어민주당",
+      "district": "은평구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "은평구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원16",
+      "party": "더불어민주당",
+      "district": "은평구아선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원17",
+      "party": "국민의힘",
+      "district": "은평구아선거구",
+      "position": "구의원"
+    }
+  ],
+  "종로구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "종로구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "종로구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "종로구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "종로구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "종로구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "종로구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "종로구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "종로구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "종로구라선거구",
+      "position": "구의원"
+    }
+  ],
+  "중구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "중구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "중구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "중구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "중구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "중구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "중구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "더불어민주당",
+      "district": "중구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "국민의힘",
+      "district": "중구라선거구",
+      "position": "구의원"
+    }
+  ],
+  "중랑구": [
+    {
+      "name": "구의원1",
+      "party": "더불어민주당",
+      "district": "중랑구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원2",
+      "party": "국민의힘",
+      "district": "중랑구가선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원3",
+      "party": "더불어민주당",
+      "district": "중랑구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원4",
+      "party": "국민의힘",
+      "district": "중랑구나선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원5",
+      "party": "더불어민주당",
+      "district": "중랑구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원6",
+      "party": "국민의힘",
+      "district": "중랑구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원7",
+      "party": "국민의힘",
+      "district": "중랑구다선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원8",
+      "party": "더불어민주당",
+      "district": "중랑구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원9",
+      "party": "국민의힘",
+      "district": "중랑구라선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원10",
+      "party": "더불어민주당",
+      "district": "중랑구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원11",
+      "party": "국민의힘",
+      "district": "중랑구마선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원12",
+      "party": "더불어민주당",
+      "district": "중랑구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원13",
+      "party": "국민의힘",
+      "district": "중랑구바선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원14",
+      "party": "더불어민주당",
+      "district": "중랑구사선거구",
+      "position": "구의원"
+    },
+    {
+      "name": "구의원15",
+      "party": "국민의힘",
+      "district": "중랑구사선거구",
+      "position": "구의원"
+    }
+  ]
+}

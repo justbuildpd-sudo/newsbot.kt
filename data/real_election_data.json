@@ -1,0 +1,3246 @@
+{
+  "nationalAssembly": {
+    "종로구": {
+      "name": "곽상언\n(郭相彦)",
+      "party": "더불어민주당",
+      "district": "종로구",
+      "position": "국회의원"
+    },
+    "중구성동구갑": {
+      "name": "전현희\n(全賢姬)",
+      "party": "더불어민주당",
+      "district": "중구성동구갑",
+      "position": "국회의원"
+    },
+    "중구성동구을": {
+      "name": "박성준\n(朴省俊)",
+      "party": "더불어민주당",
+      "district": "중구성동구을",
+      "position": "국회의원"
+    },
+    "용산구": {
+      "name": "권영세\n(權寧世)",
+      "party": "국민의힘",
+      "district": "용산구",
+      "position": "국회의원"
+    },
+    "광진구갑": {
+      "name": "이정헌\n(李政憲)",
+      "party": "더불어민주당",
+      "district": "광진구갑",
+      "position": "국회의원"
+    },
+    "광진구을": {
+      "name": "고민정\n(高旼廷)",
+      "party": "더불어민주당",
+      "district": "광진구을",
+      "position": "국회의원"
+    },
+    "동대문구갑": {
+      "name": "안규백\n(安圭伯)",
+      "party": "더불어민주당",
+      "district": "동대문구갑",
+      "position": "국회의원"
+    },
+    "동대문구을": {
+      "name": "장경태\n(張耿態)",
+      "party": "더불어민주당",
+      "district": "동대문구을",
+      "position": "국회의원"
+    },
+    "중랑구갑": {
+      "name": "서영교\n(徐瑛敎)",
+      "party": "더불어민주당",
+      "district": "중랑구갑",
+      "position": "국회의원"
+    },
+    "중랑구을": {
+      "name": "박홍근\n(朴洪根)",
+      "party": "더불어민주당",
+      "district": "중랑구을",
+      "position": "국회의원"
+    },
+    "성북구갑": {
+      "name": "김영배\n(金永培)",
+      "party": "더불어민주당",
+      "district": "성북구갑",
+      "position": "국회의원"
+    },
+    "성북구을": {
+      "name": "김남근\n(金南槿)",
+      "party": "더불어민주당",
+      "district": "성북구을",
+      "position": "국회의원"
+    },
+    "강북구갑": {
+      "name": "천준호\n(千俊鎬)",
+      "party": "더불어민주당",
+      "district": "강북구갑",
+      "position": "국회의원"
+    },
+    "강북구을": {
+      "name": "한민수\n(韓玟洙)",
+      "party": "더불어민주당",
+      "district": "강북구을",
+      "position": "국회의원"
+    },
+    "도봉구갑": {
+      "name": "김재섭\n(金宰燮)",
+      "party": "국민의힘",
+      "district": "도봉구갑",
+      "position": "국회의원"
+    },
+    "도봉구을": {
+      "name": "오기형\n(吳奇炯)",
+      "party": "더불어민주당",
+      "district": "도봉구을",
+      "position": "국회의원"
+    },
+    "노원구갑": {
+      "name": "우원식\n(禹元植)",
+      "party": "더불어민주당",
+      "district": "노원구갑",
+      "position": "국회의원"
+    },
+    "노원구을": {
+      "name": "김성환\n(金星煥)",
+      "party": "더불어민주당",
+      "district": "노원구을",
+      "position": "국회의원"
+    },
+    "은평구갑": {
+      "name": "박주민\n(朴柱民)",
+      "party": "더불어민주당",
+      "district": "은평구갑",
+      "position": "국회의원"
+    },
+    "은평구을": {
+      "name": "김우영\n(金宇榮)",
+      "party": "더불어민주당",
+      "district": "은평구을",
+      "position": "국회의원"
+    },
+    "서대문구갑": {
+      "name": "김동아\n(金東我)",
+      "party": "더불어민주당",
+      "district": "서대문구갑",
+      "position": "국회의원"
+    },
+    "서대문구을": {
+      "name": "김영호\n(金映豪)",
+      "party": "더불어민주당",
+      "district": "서대문구을",
+      "position": "국회의원"
+    },
+    "마포구갑": {
+      "name": "조정훈\n(趙廷訓)",
+      "party": "국민의힘",
+      "district": "마포구갑",
+      "position": "국회의원"
+    },
+    "마포구을": {
+      "name": "정청래\n(鄭淸來)",
+      "party": "더불어민주당",
+      "district": "마포구을",
+      "position": "국회의원"
+    },
+    "양천구갑": {
+      "name": "황희\n(黃熙)",
+      "party": "더불어민주당",
+      "district": "양천구갑",
+      "position": "국회의원"
+    },
+    "양천구을": {
+      "name": "이용선\n(李庸瑄)",
+      "party": "더불어민주당",
+      "district": "양천구을",
+      "position": "국회의원"
+    },
+    "강서구갑": {
+      "name": "강선우\n(姜仙祐)",
+      "party": "더불어민주당",
+      "district": "강서구갑",
+      "position": "국회의원"
+    },
+    "강서구을": {
+      "name": "진성준\n(陳聲準)",
+      "party": "더불어민주당",
+      "district": "강서구을",
+      "position": "국회의원"
+    },
+    "강서구병": {
+      "name": "한정애\n(韓貞愛)",
+      "party": "더불어민주당",
+      "district": "강서구병",
+      "position": "국회의원"
+    },
+    "구로구갑": {
+      "name": "이인영\n(李仁榮)",
+      "party": "더불어민주당",
+      "district": "구로구갑",
+      "position": "국회의원"
+    },
+    "구로구을": {
+      "name": "윤건영\n(尹建永)",
+      "party": "더불어민주당",
+      "district": "구로구을",
+      "position": "국회의원"
+    },
+    "금천구": {
+      "name": "최기상\n(崔基相)",
+      "party": "더불어민주당",
+      "district": "금천구",
+      "position": "국회의원"
+    },
+    "영등포구갑": {
+      "name": "채현일\n(蔡鉉一)",
+      "party": "더불어민주당",
+      "district": "영등포구갑",
+      "position": "국회의원"
+    },
+    "영등포구을": {
+      "name": "김민석\n(金民錫)",
+      "party": "더불어민주당",
+      "district": "영등포구을",
+      "position": "국회의원"
+    },
+    "동작구갑": {
+      "name": "김병기\n(金炳基)",
+      "party": "더불어민주당",
+      "district": "동작구갑",
+      "position": "국회의원"
+    },
+    "동작구을": {
+      "name": "나경원\n(羅景垣)",
+      "party": "국민의힘",
+      "district": "동작구을",
+      "position": "국회의원"
+    },
+    "관악구갑": {
+      "name": "박민규\n(朴珉奎)",
+      "party": "더불어민주당",
+      "district": "관악구갑",
+      "position": "국회의원"
+    },
+    "관악구을": {
+      "name": "정태호\n(鄭泰浩)",
+      "party": "더불어민주당",
+      "district": "관악구을",
+      "position": "국회의원"
+    },
+    "서초구갑": {
+      "name": "조은희\n(趙恩禧)",
+      "party": "국민의힘",
+      "district": "서초구갑",
+      "position": "국회의원"
+    },
+    "서초구을": {
+      "name": "신동욱\n(申東旭)",
+      "party": "국민의힘",
+      "district": "서초구을",
+      "position": "국회의원"
+    },
+    "강남구갑": {
+      "name": "서명옥\n(徐明玉)",
+      "party": "국민의힘",
+      "district": "강남구갑",
+      "position": "국회의원"
+    },
+    "강남구을": {
+      "name": "박수민\n(朴琇民)",
+      "party": "국민의힘",
+      "district": "강남구을",
+      "position": "국회의원"
+    },
+    "강남구병": {
+      "name": "고동진\n(高東眞)",
+      "party": "국민의힘",
+      "district": "강남구병",
+      "position": "국회의원"
+    },
+    "송파구갑": {
+      "name": "박정훈\n(朴庭勳)",
+      "party": "국민의힘",
+      "district": "송파구갑",
+      "position": "국회의원"
+    },
+    "송파구을": {
+      "name": "배현진\n(裵賢鎭)",
+      "party": "국민의힘",
+      "district": "송파구을",
+      "position": "국회의원"
+    },
+    "송파구병": {
+      "name": "남인순\n(南仁順)",
+      "party": "더불어민주당",
+      "district": "송파구병",
+      "position": "국회의원"
+    },
+    "강동구갑": {
+      "name": "진선미\n(陣善美)",
+      "party": "더불어민주당",
+      "district": "강동구갑",
+      "position": "국회의원"
+    },
+    "강동구을": {
+      "name": "이해식\n(李海植)",
+      "party": "더불어민주당",
+      "district": "강동구을",
+      "position": "국회의원"
+    }
+  },
+  "mayor": {
+    "name": "오세훈\n(吳世勲)",
+    "party": "국민의힘",
+    "district": "서울특별시",
+    "position": "시장"
+  },
+  "siUiwon": {
+    "종로구": [
+      {
+        "name": "윤종복\n(尹鍾福)",
+        "party": "국민의힘",
+        "district": "종로구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "임종국\n(林鍾國)",
+        "party": "더불어민주당",
+        "district": "종로구제2선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "중구": [
+      {
+        "name": "박영한\n(朴榮漢)",
+        "party": "국민의힘",
+        "district": "중구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "옥재은\n(玉在恩)",
+        "party": "국민의힘",
+        "district": "중구제2선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "용산구": [
+      {
+        "name": "김용호\n(金容鎬)",
+        "party": "국민의힘",
+        "district": "용산구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "최유희\n(崔有姬)",
+        "party": "국민의힘",
+        "district": "용산구제2선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "성동구": [
+      {
+        "name": "박중화\n(朴重華)",
+        "party": "국민의힘",
+        "district": "성동구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "구미경\n(具美慶)",
+        "party": "국민의힘",
+        "district": "성동구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이민옥\n(李敏玉)",
+        "party": "더불어민주당",
+        "district": "성동구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "황철규\n(黃喆奎)",
+        "party": "국민의힘",
+        "district": "성동구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "광진구": [
+      {
+        "name": "전병주\n(全炳宙)",
+        "party": "더불어민주당",
+        "district": "광진구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "박성연\n(朴成蓮)",
+        "party": "국민의힘",
+        "district": "광진구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김영옥\n(金榮玉)",
+        "party": "국민의힘",
+        "district": "광진구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김혜영\n(金惠英)",
+        "party": "국민의힘",
+        "district": "광진구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "동대문구": [
+      {
+        "name": "이병윤\n(李秉潤)",
+        "party": "국민의힘",
+        "district": "동대문구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "심미경\n(沈美慶)",
+        "party": "국민의힘",
+        "district": "동대문구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "남궁역\n(南宮墿)",
+        "party": "국민의힘",
+        "district": "동대문구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "신복자\n(申福子)",
+        "party": "국민의힘",
+        "district": "동대문구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "중랑구": [
+      {
+        "name": "이영실\n(李英實)",
+        "party": "더불어민주당",
+        "district": "중랑구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "임규호\n(林圭湖)",
+        "party": "더불어민주당",
+        "district": "중랑구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "박승진\n(朴承鎭)",
+        "party": "더불어민주당",
+        "district": "중랑구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "민병주\n(閔丙周)",
+        "party": "국민의힘",
+        "district": "중랑구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "성북구": [
+      {
+        "name": "한신\n(韓信)",
+        "party": "더불어민주당",
+        "district": "성북구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김원중\n(金元中)",
+        "party": "국민의힘",
+        "district": "성북구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "강동길\n(姜東佶)",
+        "party": "더불어민주당",
+        "district": "성북구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김태수\n(金泰洙)",
+        "party": "국민의힘",
+        "district": "성북구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "강북구": [
+      {
+        "name": "이종환\n(李鍾桓)",
+        "party": "국민의힘",
+        "district": "강북구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이상훈\n(李尙勳)",
+        "party": "더불어민주당",
+        "district": "강북구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이용균\n(李龍均)",
+        "party": "더불어민주당",
+        "district": "강북구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "박수빈\n(朴秀彬)",
+        "party": "더불어민주당",
+        "district": "강북구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "도봉구": [
+      {
+        "name": "이경숙\n(李京淑)",
+        "party": "국민의힘",
+        "district": "도봉구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "홍국표\n(洪國杓)",
+        "party": "국민의힘",
+        "district": "도봉구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "박석\n(朴錫)",
+        "party": "국민의힘",
+        "district": "도봉구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이은림\n(李垠林)",
+        "party": "국민의힘",
+        "district": "도봉구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "노원구": [
+      {
+        "name": "신동원\n(申東元)",
+        "party": "국민의힘",
+        "district": "노원구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "박환희\n(朴煥熙)",
+        "party": "국민의힘",
+        "district": "노원구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "봉양순\n(奉良順)",
+        "party": "더불어민주당",
+        "district": "노원구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "서준오\n(徐濬旿)",
+        "party": "더불어민주당",
+        "district": "노원구제4선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "윤기섭\n(尹箕燮)",
+        "party": "국민의힘",
+        "district": "노원구제5선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "송재혁\n(宋在爀)",
+        "party": "더불어민주당",
+        "district": "노원구제6선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "은평구": [
+      {
+        "name": "성흠제\n(成欽濟)",
+        "party": "더불어민주당",
+        "district": "은평구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이병도\n(李秉道)",
+        "party": "더불어민주당",
+        "district": "은평구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "박유진\n(朴裕眞)",
+        "party": "더불어민주당",
+        "district": "은평구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "정준호\n(鄭俊鎬)",
+        "party": "더불어민주당",
+        "district": "은평구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "서대문구": [
+      {
+        "name": "정지웅\n(鄭知雄)",
+        "party": "국민의힘",
+        "district": "서대문구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "문성호\n(文聖皓)",
+        "party": "국민의힘",
+        "district": "서대문구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이승미\n(李承美)",
+        "party": "더불어민주당",
+        "district": "서대문구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김용일\n(金容日)",
+        "party": "국민의힘",
+        "district": "서대문구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "마포구": [
+      {
+        "name": "이민석\n(李旼錫)",
+        "party": "국민의힘",
+        "district": "마포구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "소영철\n(蘇永哲)",
+        "party": "국민의힘",
+        "district": "마포구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "정진술\n(鄭鎭述)",
+        "party": "더불어민주당",
+        "district": "마포구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김기덕\n(金奇德)",
+        "party": "더불어민주당",
+        "district": "마포구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "양천구": [
+      {
+        "name": "채수지\n(蔡秀智)",
+        "party": "국민의힘",
+        "district": "양천구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "허훈\n(許鑂)",
+        "party": "국민의힘",
+        "district": "양천구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "우형찬\n(禹炯贊)",
+        "party": "더불어민주당",
+        "district": "양천구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이승복\n(李昇馥)",
+        "party": "국민의힘",
+        "district": "양천구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "강서구": [
+      {
+        "name": "김경\n(金景)",
+        "party": "더불어민주당",
+        "district": "강서구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "강석주\n(姜錫周)",
+        "party": "국민의힘",
+        "district": "강서구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "최진혁\n(崔振赫)",
+        "party": "국민의힘",
+        "district": "강서구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김춘곤\n(金春坤)",
+        "party": "국민의힘",
+        "district": "강서구제4선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김경훈\n(金熲勳)",
+        "party": "국민의힘",
+        "district": "강서구제5선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "경기문\n(景琦文)",
+        "party": "국민의힘",
+        "district": "강서구제6선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "구로구": [
+      {
+        "name": "서상열\n(徐相烈)",
+        "party": "국민의힘",
+        "district": "구로구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김인제\n(金仁濟)",
+        "party": "더불어민주당",
+        "district": "구로구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "서호연\n(徐豪延)",
+        "party": "국민의힘",
+        "district": "구로구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "박칠성\n(朴七星)",
+        "party": "더불어민주당",
+        "district": "구로구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "금천구": [
+      {
+        "name": "김성준\n(金誠俊)",
+        "party": "더불어민주당",
+        "district": "금천구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "최기찬\n(崔基讚)",
+        "party": "더불어민주당",
+        "district": "금천구제2선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "영등포구": [
+      {
+        "name": "김재진\n(金載鎭)",
+        "party": "국민의힘",
+        "district": "영등포구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김종길\n(金鍾吉)",
+        "party": "국민의힘",
+        "district": "영등포구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "도문열\n(都文烈)",
+        "party": "국민의힘",
+        "district": "영등포구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김지향\n(金志享)",
+        "party": "국민의힘",
+        "district": "영등포구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "동작구": [
+      {
+        "name": "이봉준\n(李奉俊)",
+        "party": "국민의힘",
+        "district": "동작구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "최민규\n(崔慜圭)",
+        "party": "국민의힘",
+        "district": "동작구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "곽향기\n(郭香基)",
+        "party": "국민의힘",
+        "district": "동작구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이희원\n(李熙元)",
+        "party": "국민의힘",
+        "district": "동작구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "관악구": [
+      {
+        "name": "송도호\n(宋棹鎬)",
+        "party": "더불어민주당",
+        "district": "관악구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "왕정순\n(王井順)",
+        "party": "더불어민주당",
+        "district": "관악구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "임만균\n(任萬均)",
+        "party": "더불어민주당",
+        "district": "관악구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "유정희\n(劉貞姬)",
+        "party": "더불어민주당",
+        "district": "관악구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "서초구": [
+      {
+        "name": "박상혁\n(朴商爀)",
+        "party": "국민의힘",
+        "district": "서초구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이숙자\n(李淑子)",
+        "party": "국민의힘",
+        "district": "서초구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "고광민\n(高光敏)",
+        "party": "국민의힘",
+        "district": "서초구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "최호정\n(崔好廷)",
+        "party": "국민의힘",
+        "district": "서초구제4선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "강남구": [
+      {
+        "name": "이새날\n(李새날)",
+        "party": "국민의힘",
+        "district": "강남구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김형재\n(金炯材)",
+        "party": "국민의힘",
+        "district": "강남구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김현기\n(金顯基)",
+        "party": "국민의힘",
+        "district": "강남구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "유만희\n(柳萬熙)",
+        "party": "국민의힘",
+        "district": "강남구제4선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김동욱\n(金東昱)",
+        "party": "국민의힘",
+        "district": "강남구제5선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김길영\n(金吉永)",
+        "party": "국민의힘",
+        "district": "강남구제6선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "송파구": [
+      {
+        "name": "김규남\n(金奎男)",
+        "party": "국민의힘",
+        "district": "송파구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "남창진\n(南昌鎭)",
+        "party": "국민의힘",
+        "district": "송파구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "임춘대\n(林春大)",
+        "party": "국민의힘",
+        "district": "송파구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이성배\n(李誠培)",
+        "party": "국민의힘",
+        "district": "송파구제4선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "유정인\n(劉正仁)",
+        "party": "국민의힘",
+        "district": "송파구제5선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김원태\n(金元泰)",
+        "party": "국민의힘",
+        "district": "송파구제6선거구",
+        "position": "서울시의원"
+      }
+    ],
+    "강동구": [
+      {
+        "name": "김혜지\n(金慧智)",
+        "party": "국민의힘",
+        "district": "강동구제1선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "이종태\n(李鍾泰)",
+        "party": "국민의힘",
+        "district": "강동구제2선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "박춘선\n(朴春仙)",
+        "party": "국민의힘",
+        "district": "강동구제3선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "장태용\n(張泰龍)",
+        "party": "국민의힘",
+        "district": "강동구제4선거구",
+        "position": "서울시의원"
+      },
+      {
+        "name": "김영철\n(金榮哲)",
+        "party": "국민의힘",
+        "district": "강동구제5선거구",
+        "position": "서울시의원"
+      }
+    ]
+  },
+  "guUiwon": {
+    "종로구": [
+      {
+        "name": "여봉무\n(呂捧戊)",
+        "party": "더불어민주당",
+        "district": "종로구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이응주\n(李應周)",
+        "party": "국민의힘",
+        "district": "종로구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정재호\n(鄭載鎬)",
+        "party": "더불어민주당",
+        "district": "종로구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김하영\n(金河永)",
+        "party": "국민의힘",
+        "district": "종로구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이륜구\n(李倫求)",
+        "party": "더불어민주당",
+        "district": "종로구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이광규\n(李光珪)",
+        "party": "국민의힘",
+        "district": "종로구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "라도균\n(羅道均)",
+        "party": "더불어민주당",
+        "district": "종로구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김종보\n(金鍾甫)",
+        "party": "더불어민주당",
+        "district": "종로구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이시훈\n(李始勳)",
+        "party": "국민의힘",
+        "district": "종로구라선거구",
+        "position": "구의원"
+      }
+    ],
+    "중구": [
+      {
+        "name": "윤판오\n(尹鈑塢)",
+        "party": "더불어민주당",
+        "district": "중구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "손주하\n(孫宙荷)",
+        "party": "국민의힘",
+        "district": "중구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이정미\n(李正美)",
+        "party": "더불어민주당",
+        "district": "중구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "소재권\n(蘇在權)",
+        "party": "국민의힘",
+        "district": "중구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "조미정\n(趙美正)",
+        "party": "더불어민주당",
+        "district": "중구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "길기영\n(吉基永)",
+        "party": "국민의힘",
+        "district": "중구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "송재천\n(宋在千)",
+        "party": "더불어민주당",
+        "district": "중구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "허상욱\n(許相旭)",
+        "party": "국민의힘",
+        "district": "중구라선거구",
+        "position": "구의원"
+      }
+    ],
+    "용산구": [
+      {
+        "name": "황금선\n(黃琴善)",
+        "party": "더불어민주당",
+        "district": "용산구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김송환\n(金松煥)",
+        "party": "국민의힘",
+        "district": "용산구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "함대건\n(咸大建)",
+        "party": "더불어민주당",
+        "district": "용산구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "오천진\n(吳千鎭)",
+        "party": "국민의힘",
+        "district": "용산구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "백준석\n(白峻夕)",
+        "party": "더불어민주당",
+        "district": "용산구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김성철\n(金聖喆)",
+        "party": "국민의힘",
+        "district": "용산구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장정호\n(張正鎬)",
+        "party": "더불어민주당",
+        "district": "용산구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김선영\n(金善英)",
+        "party": "국민의힘",
+        "district": "용산구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김형원\n(金亨元)",
+        "party": "더불어민주당",
+        "district": "용산구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이미재\n(李美宰)",
+        "party": "국민의힘",
+        "district": "용산구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "권두성\n(權斗星)",
+        "party": "국민의힘",
+        "district": "용산구마선거구",
+        "position": "구의원"
+      }
+    ],
+    "성동구": [
+      {
+        "name": "박성근\n(朴成根)",
+        "party": "더불어민주당",
+        "district": "성동구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "양옥희\n(梁玉姬)",
+        "party": "더불어민주당",
+        "district": "성동구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "엄경석\n(嚴京錫)",
+        "party": "국민의힘",
+        "district": "성동구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "전종균\n(全鍾均)",
+        "party": "더불어민주당",
+        "district": "성동구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "남연희\n(南蓮姬)",
+        "party": "더불어민주당",
+        "district": "성동구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정교진\n(丁敎眞)",
+        "party": "국민의힘",
+        "district": "성동구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장지만\n(張志萬)",
+        "party": "더불어민주당",
+        "district": "성동구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "오천수\n(吳千洙)",
+        "party": "더불어민주당",
+        "district": "성동구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박영희\n(朴英姬)",
+        "party": "국민의힘",
+        "district": "성동구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "고용필\n(高庸弼)",
+        "party": "더불어민주당",
+        "district": "성동구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김현주\n(金賢紂)",
+        "party": "더불어민주당",
+        "district": "성동구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "주복중\n(朱福中)",
+        "party": "국민의힘",
+        "district": "성동구라선거구",
+        "position": "구의원"
+      }
+    ],
+    "광진구": [
+      {
+        "name": "고양석\n(高梁錫)",
+        "party": "더불어민주당",
+        "district": "광진구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최일환\n(崔日煥)",
+        "party": "국민의힘",
+        "district": "광진구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "추윤구\n(秋潤求)",
+        "party": "무소속",
+        "district": "광진구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "허은\n(許銀)",
+        "party": "더불어민주당",
+        "district": "광진구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "신진호\n(申珍浩)",
+        "party": "국민의힘",
+        "district": "광진구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김상희\n(金尙姬)",
+        "party": "국민의힘",
+        "district": "광진구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이동길\n(李東吉)",
+        "party": "더불어민주당",
+        "district": "광진구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김미영\n(金美英)",
+        "party": "더불어민주당",
+        "district": "광진구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김강산\n(金剛山)",
+        "party": "국민의힘",
+        "district": "광진구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장길천\n(張吉天)",
+        "party": "더불어민주당",
+        "district": "광진구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김상배\n(金相培)",
+        "party": "국민의힘",
+        "district": "광진구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "전은혜\n(全恩惠)",
+        "party": "국민의힘",
+        "district": "광진구라선거구",
+        "position": "구의원"
+      }
+    ],
+    "동대문구": [
+      {
+        "name": "서정인\n(徐廷印)",
+        "party": "더불어민주당",
+        "district": "동대문구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최영숙\n(崔永淑)",
+        "party": "국민의힘",
+        "district": "동대문구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "손세영\n(孫세영)",
+        "party": "더불어민주당",
+        "district": "동대문구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "한지엽\n(韓枝燁)",
+        "party": "국민의힘",
+        "district": "동대문구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박남규\n(朴南圭)",
+        "party": "더불어민주당",
+        "district": "동대문구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김세종\n(金世鐘)",
+        "party": "국민의힘",
+        "district": "동대문구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김창규\n(金昌珪)",
+        "party": "더불어민주당",
+        "district": "동대문구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김학두\n(金學杜)",
+        "party": "국민의힘",
+        "district": "동대문구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장성운\n(張成雲)",
+        "party": "더불어민주당",
+        "district": "동대문구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김용호\n(金龍鎬)",
+        "party": "더불어민주당",
+        "district": "동대문구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이재선\n(李在宣)",
+        "party": "국민의힘",
+        "district": "동대문구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정성영\n(鄭成泳)",
+        "party": "국민의힘",
+        "district": "동대문구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이태인\n(李泰仁)",
+        "party": "더불어민주당",
+        "district": "동대문구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "노연우\n(盧延玗)",
+        "party": "더불어민주당",
+        "district": "동대문구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정서윤\n(鄭舒允)",
+        "party": "더불어민주당",
+        "district": "동대문구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이규서\n(李圭瑞)",
+        "party": "국민의힘",
+        "district": "동대문구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "안태민\n(安泰民)",
+        "party": "국민의힘",
+        "district": "동대문구바선거구",
+        "position": "구의원"
+      }
+    ],
+    "중랑구": [
+      {
+        "name": "박열완\n(朴烈完)",
+        "party": "더불어민주당",
+        "district": "중랑구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "주덕성\n(朱德成)",
+        "party": "국민의힘",
+        "district": "중랑구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "나은하\n(羅銀河)",
+        "party": "더불어민주당",
+        "district": "중랑구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "조성연\n(趙成衍)",
+        "party": "국민의힘",
+        "district": "중랑구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최은주\n(崔銀珠)",
+        "party": "더불어민주당",
+        "district": "중랑구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "신예진\n(申藝眞)",
+        "party": "국민의힘",
+        "district": "중랑구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "조현우\n(趙賢宇)",
+        "party": "국민의힘",
+        "district": "중랑구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이윤재\n(李允宰)",
+        "party": "더불어민주당",
+        "district": "중랑구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이은경\n(李垠京)",
+        "party": "국민의힘",
+        "district": "중랑구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "고강섭\n(高康燮)",
+        "party": "더불어민주당",
+        "district": "중랑구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "전경구\n(全景求)",
+        "party": "국민의힘",
+        "district": "중랑구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김미애\n(金美愛)",
+        "party": "더불어민주당",
+        "district": "중랑구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "한성수\n(韓聖洙)",
+        "party": "국민의힘",
+        "district": "중랑구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최경보\n(崔京甫)",
+        "party": "더불어민주당",
+        "district": "중랑구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최윤찬\n(崔允燦)",
+        "party": "국민의힘",
+        "district": "중랑구사선거구",
+        "position": "구의원"
+      }
+    ],
+    "성북구": [
+      {
+        "name": "소형준\n(蘇亨峻)",
+        "party": "더불어민주당",
+        "district": "성북구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김육영\n(金六榮)",
+        "party": "더불어민주당",
+        "district": "성북구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "임태근\n(任泰根)",
+        "party": "더불어민주당",
+        "district": "성북구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이관우\n(李官雨)",
+        "party": "국민의힘",
+        "district": "성북구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정병기\n(鄭丙琪)",
+        "party": "국민의힘",
+        "district": "성북구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정윤주\n(鄭允珠)",
+        "party": "더불어민주당",
+        "district": "성북구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "양순임\n(梁順任)",
+        "party": "더불어민주당",
+        "district": "성북구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이용진\n(李用珍)",
+        "party": "더불어민주당",
+        "district": "성북구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "임현주\n(林賢珠)",
+        "party": "국민의힘",
+        "district": "성북구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박영섭\n(朴永燮)",
+        "party": "국민의힘",
+        "district": "성북구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "오중균\n(吳仲均)",
+        "party": "더불어민주당",
+        "district": "성북구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "권영애\n(權英愛)",
+        "party": "국민의힘",
+        "district": "성북구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이인순\n(李仁順)",
+        "party": "더불어민주당",
+        "district": "성북구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정해숙\n(鄭海淑)",
+        "party": "더불어민주당",
+        "district": "성북구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이일준\n(李日準)",
+        "party": "국민의힘",
+        "district": "성북구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김경이\n(金炅柅)",
+        "party": "더불어민주당",
+        "district": "성북구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "진선아\n(陳善雅)",
+        "party": "국민의힘",
+        "district": "성북구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이호건\n(李鎬建)",
+        "party": "더불어민주당",
+        "district": "성북구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정기혁\n(丁基爀)",
+        "party": "국민의힘",
+        "district": "성북구바선거구",
+        "position": "구의원"
+      }
+    ],
+    "강북구": [
+      {
+        "name": "박철우\n(朴喆雨)",
+        "party": "더불어민주당",
+        "district": "강북구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김명희\n(金明熙)",
+        "party": "더불어민주당",
+        "district": "강북구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "유인애\n(柳寅愛)",
+        "party": "국민의힘",
+        "district": "강북구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최미경\n(崔美敬)",
+        "party": "더불어민주당",
+        "district": "강북구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이상수\n(李相洙)",
+        "party": "더불어민주당",
+        "district": "강북구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "조윤섭\n(曺允燮)",
+        "party": "국민의힘",
+        "district": "강북구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최인준\n(崔仁儁)",
+        "party": "더불어민주당",
+        "district": "강북구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "심재억\n(沈在億)",
+        "party": "더불어민주당",
+        "district": "강북구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "노윤상\n(盧允相)",
+        "party": "국민의힘",
+        "district": "강북구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최치효\n(崔致孝)",
+        "party": "더불어민주당",
+        "district": "강북구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "허광행\n(許光行)",
+        "party": "더불어민주당",
+        "district": "강북구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정초립\n(鄭초립)",
+        "party": "국민의힘",
+        "district": "강북구라선거구",
+        "position": "구의원"
+      }
+    ],
+    "도봉구": [
+      {
+        "name": "강철웅\n(姜鐵雄)",
+        "party": "더불어민주당",
+        "district": "도봉구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이호석\n(李澔錫)",
+        "party": "국민의힘",
+        "district": "도봉구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "안병건\n(安秉建)",
+        "party": "국민의힘",
+        "district": "도봉구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박상근\n(朴相槿)",
+        "party": "더불어민주당",
+        "district": "도봉구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "황수빈\n(黃收彬)",
+        "party": "국민의힘",
+        "district": "도봉구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정승구\n(鄭丞俱)",
+        "party": "국민의힘",
+        "district": "도봉구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "손혜영\n(孫惠永)",
+        "party": "더불어민주당",
+        "district": "도봉구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "고금숙\n(高今淑)",
+        "party": "국민의힘",
+        "district": "도봉구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이성민\n(李聖珉)",
+        "party": "더불어민주당",
+        "district": "도봉구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이강주\n(李康柱)",
+        "party": "국민의힘",
+        "district": "도봉구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이태용\n(李泰勇)",
+        "party": "더불어민주당",
+        "district": "도봉구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "강신만\n(姜信晩)",
+        "party": "국민의힘",
+        "district": "도봉구마선거구",
+        "position": "구의원"
+      }
+    ],
+    "노원구": [
+      {
+        "name": "부준혁\n(夫晙赫)",
+        "party": "더불어민주당",
+        "district": "노원구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "차미중\n(車美中)",
+        "party": "더불어민주당",
+        "district": "노원구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "배준경\n(裴俊瓊)",
+        "party": "국민의힘",
+        "district": "노원구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "윤선희\n(尹善熙)",
+        "party": "더불어민주당",
+        "district": "노원구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김기범\n(金紀範)",
+        "party": "국민의힘",
+        "district": "노원구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최나영\n(崔娜英)",
+        "party": "진보당",
+        "district": "노원구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "손영준\n(孫永俊)",
+        "party": "더불어민주당",
+        "district": "노원구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "강금희\n(姜琴姬)",
+        "party": "더불어민주당",
+        "district": "노원구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김경태\n(金京泰)",
+        "party": "국민의힘",
+        "district": "노원구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박이강\n(朴利剛)",
+        "party": "더불어민주당",
+        "district": "노원구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김소라\n(金소라)",
+        "party": "더불어민주당",
+        "district": "노원구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "조윤도\n(趙奫度)",
+        "party": "국민의힘",
+        "district": "노원구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "안복동\n(安福童)",
+        "party": "더불어민주당",
+        "district": "노원구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정영기\n(鄭永基)",
+        "party": "국민의힘",
+        "district": "노원구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "손명영\n(孫明榮)",
+        "party": "국민의힘",
+        "district": "노원구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "노연수\n(盧姸秀)",
+        "party": "더불어민주당",
+        "district": "노원구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김준성\n(金埈聖)",
+        "party": "더불어민주당",
+        "district": "노원구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "어정화\n(魚正和)",
+        "party": "국민의힘",
+        "district": "노원구바선거구",
+        "position": "구의원"
+      }
+    ],
+    "은평구": [
+      {
+        "name": "신현일\n(申鉉一)",
+        "party": "더불어민주당",
+        "district": "은평구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박성도\n(朴成道)",
+        "party": "국민의힘",
+        "district": "은평구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "송영창\n(宋泳昌)",
+        "party": "더불어민주당",
+        "district": "은평구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김승엽\n(金昇燁)",
+        "party": "국민의힘",
+        "district": "은평구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이미경\n(李美敬)",
+        "party": "더불어민주당",
+        "district": "은평구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이경술\n(李慶術)",
+        "party": "국민의힘",
+        "district": "은평구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이동식\n(李東植)",
+        "party": "더불어민주당",
+        "district": "은평구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김윤희\n(金玧希)",
+        "party": "더불어민주당",
+        "district": "은평구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "황재원\n(黃載元)",
+        "party": "국민의힘",
+        "district": "은평구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "권인경\n(權仁敬)",
+        "party": "더불어민주당",
+        "district": "은평구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "양기열\n(梁琪烈)",
+        "party": "국민의힘",
+        "district": "은평구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "오영열\n(吳榮烈)",
+        "party": "더불어민주당",
+        "district": "은평구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최락의\n(崔洛宜)",
+        "party": "국민의힘",
+        "district": "은평구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이경구\n(李慶九)",
+        "party": "더불어민주당",
+        "district": "은평구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "신봉규\n(申俸圭)",
+        "party": "국민의힘",
+        "district": "은평구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "기노만\n(奇老萬)",
+        "party": "더불어민주당",
+        "district": "은평구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박세은\n(朴世恩)",
+        "party": "국민의힘",
+        "district": "은평구아선거구",
+        "position": "구의원"
+      }
+    ],
+    "서대문구": [
+      {
+        "name": "이동화\n(李同和)",
+        "party": "더불어민주당",
+        "district": "서대문구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이진삼\n(李振三)",
+        "party": "국민의힘",
+        "district": "서대문구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "주이삭\n(朱이삭)",
+        "party": "국민의힘",
+        "district": "서대문구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김덕현\n(金德顯)",
+        "party": "더불어민주당",
+        "district": "서대문구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이경선\n(李京宣)",
+        "party": "국민의힘",
+        "district": "서대문구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박경희\n(朴景姬)",
+        "party": "더불어민주당",
+        "district": "서대문구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "강민하\n(姜旻河)",
+        "party": "국민의힘",
+        "district": "서대문구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이종석\n(李鍾碩)",
+        "party": "더불어민주당",
+        "district": "서대문구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "서호성\n(徐昊成)",
+        "party": "더불어민주당",
+        "district": "서대문구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이용준\n(李鎔準)",
+        "party": "국민의힘",
+        "district": "서대문구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김양희\n(金良熙)",
+        "party": "더불어민주당",
+        "district": "서대문구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "윤유현\n(尹劉鉉)",
+        "party": "더불어민주당",
+        "district": "서대문구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박진우\n(朴眞佑)",
+        "party": "국민의힘",
+        "district": "서대문구마선거구",
+        "position": "구의원"
+      }
+    ],
+    "마포구": [
+      {
+        "name": "고병준\n(高抦俊)",
+        "party": "더불어민주당",
+        "district": "마포구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이상원\n(李祥源)",
+        "party": "국민의힘",
+        "district": "마포구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "한선미\n(韓瑄美)",
+        "party": "더불어민주당",
+        "district": "마포구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김승수\n(金承壽)",
+        "party": "국민의힘",
+        "district": "마포구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "권영숙\n(權英淑)",
+        "party": "더불어민주당",
+        "district": "마포구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "강동오\n(姜東吾)",
+        "party": "국민의힘",
+        "district": "마포구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "남해석\n(南海石)",
+        "party": "더불어민주당",
+        "district": "마포구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "오옥자\n(吳玉子)",
+        "party": "국민의힘",
+        "district": "마포구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "채우진\n(蔡宇鎭)",
+        "party": "더불어민주당",
+        "district": "마포구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이한동\n(李翰東)",
+        "party": "국민의힘",
+        "district": "마포구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "차해영\n(車海榮)",
+        "party": "더불어민주당",
+        "district": "마포구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "안미자\n(安美子)",
+        "party": "국민의힘",
+        "district": "마포구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김영미\n(金永美)",
+        "party": "더불어민주당",
+        "district": "마포구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "홍지광\n(洪志光)",
+        "party": "국민의힘",
+        "district": "마포구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최은하\n(崔銀河)",
+        "party": "더불어민주당",
+        "district": "마포구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "신종갑\n(辛宗甲)",
+        "party": "더불어민주당",
+        "district": "마포구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "백남환\n(白南煥)",
+        "party": "국민의힘",
+        "district": "마포구아선거구",
+        "position": "구의원"
+      }
+    ],
+    "양천구": [
+      {
+        "name": "김광성\n(金光成)",
+        "party": "더불어민주당",
+        "district": "양천구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "공기환\n(孔冀煥)",
+        "party": "국민의힘",
+        "district": "양천구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이수옥\n(李水玉)",
+        "party": "더불어민주당",
+        "district": "양천구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이재식\n(李在植)",
+        "party": "국민의힘",
+        "district": "양천구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "유영주\n(劉永珠)",
+        "party": "더불어민주당",
+        "district": "양천구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김수진\n(金秀眞)",
+        "party": "국민의힘",
+        "district": "양천구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "임정옥\n(林貞玉)",
+        "party": "더불어민주당",
+        "district": "양천구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "임준희\n(林俊希)",
+        "party": "국민의힘",
+        "district": "양천구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이재웅\n(李宰雄)",
+        "party": "더불어민주당",
+        "district": "양천구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "황민철\n(黃玟喆)",
+        "party": "국민의힘",
+        "district": "양천구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "오해정\n(吳海貞)",
+        "party": "더불어민주당",
+        "district": "양천구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정택진\n(丁澤鎭)",
+        "party": "국민의힘",
+        "district": "양천구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "옥동준\n(玉東俊)",
+        "party": "더불어민주당",
+        "district": "양천구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "임옥연\n(任玉淵)",
+        "party": "국민의힘",
+        "district": "양천구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "윤인숙\n(尹仁淑)",
+        "party": "더불어민주당",
+        "district": "양천구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최혜숙\n(崔惠淑)",
+        "party": "국민의힘",
+        "district": "양천구아선거구",
+        "position": "구의원"
+      }
+    ],
+    "강서구": [
+      {
+        "name": "고찬양\n(高讚揚)",
+        "party": "더불어민주당",
+        "district": "강서구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최동철\n(崔同喆)",
+        "party": "더불어민주당",
+        "district": "강서구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김순옥\n(金順玉)",
+        "party": "국민의힘",
+        "district": "강서구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "조기만\n(曺基萬)",
+        "party": "더불어민주당",
+        "district": "강서구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박학용\n(朴學用)",
+        "party": "국민의힘",
+        "district": "강서구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김성한\n(金聖漢)",
+        "party": "더불어민주당",
+        "district": "강서구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김희동\n(金熙東)",
+        "party": "국민의힘",
+        "district": "강서구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "전철규\n(全哲圭)",
+        "party": "더불어민주당",
+        "district": "강서구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박성호\n(朴星虎)",
+        "party": "더불어민주당",
+        "district": "강서구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김민석\n(金民錫)",
+        "party": "국민의힘",
+        "district": "강서구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정정희\n(鄭靜姬)",
+        "party": "더불어민주당",
+        "district": "강서구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박주선\n(朴柱先)",
+        "party": "더불어민주당",
+        "district": "강서구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이종숙\n(李終淑)",
+        "party": "국민의힘",
+        "district": "강서구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정장훈\n(鄭鄣勳)",
+        "party": "국민의힘",
+        "district": "강서구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "홍재희\n(洪才熹)",
+        "party": "더불어민주당",
+        "district": "강서구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이충현\n(李忠鉉)",
+        "party": "국민의힘",
+        "district": "강서구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "한상욱\n(韓相旭)",
+        "party": "더불어민주당",
+        "district": "강서구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김지수\n(金智秀)",
+        "party": "국민의힘",
+        "district": "강서구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "강선영\n(姜宣姈)",
+        "party": "더불어민주당",
+        "district": "강서구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김현진\n(金賢晋)",
+        "party": "국민의힘",
+        "district": "강서구아선거구",
+        "position": "구의원"
+      }
+    ],
+    "구로구": [
+      {
+        "name": "김영곤\n(金永坤)",
+        "party": "더불어민주당",
+        "district": "구로구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이명숙\n(李明淑)",
+        "party": "국민의힘",
+        "district": "구로구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정대근\n(鄭大根)",
+        "party": "국민의힘",
+        "district": "구로구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "양명희\n(梁明熙)",
+        "party": "더불어민주당",
+        "district": "구로구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김용권\n(金龍權)",
+        "party": "국민의힘",
+        "district": "구로구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최태영\n(崔兌影)",
+        "party": "더불어민주당",
+        "district": "구로구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "방은경\n(房殷敬)",
+        "party": "국민의힘",
+        "district": "구로구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "곽윤희\n(郭允熙)",
+        "party": "국민의힘",
+        "district": "구로구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "변정열\n(卞廷烈)",
+        "party": "더불어민주당",
+        "district": "구로구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "홍용민\n(洪容敏)",
+        "party": "국민의힘",
+        "district": "구로구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김철수\n(金澈洙)",
+        "party": "더불어민주당",
+        "district": "구로구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김철수\n(金哲洙)",
+        "party": "국민의힘",
+        "district": "구로구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "노경숙\n(盧京淑)",
+        "party": "더불어민주당",
+        "district": "구로구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "곽노혁\n(郭魯赫)",
+        "party": "국민의힘",
+        "district": "구로구바선거구",
+        "position": "구의원"
+      }
+    ],
+    "금천구": [
+      {
+        "name": "이인식\n(李仁植)",
+        "party": "더불어민주당",
+        "district": "금천구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "고영찬\n(高煐讚)",
+        "party": "국민의힘",
+        "district": "금천구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "도병두\n(都秉斗)",
+        "party": "더불어민주당",
+        "district": "금천구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김용술\n(金容述)",
+        "party": "더불어민주당",
+        "district": "금천구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정순기\n(丁淳基)",
+        "party": "국민의힘",
+        "district": "금천구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정재동\n(鄭在東)",
+        "party": "더불어민주당",
+        "district": "금천구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장규권\n(張圭權)",
+        "party": "국민의힘",
+        "district": "금천구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "엄샛별\n(嚴샛별)",
+        "party": "더불어민주당",
+        "district": "금천구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "윤영희\n(尹英姬)",
+        "party": "국민의힘",
+        "district": "금천구라선거구",
+        "position": "구의원"
+      }
+    ],
+    "영등포구": [
+      {
+        "name": "정선희\n(丁仙姬)",
+        "party": "더불어민주당",
+        "district": "영등포구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최봉희\n(崔鳳姬)",
+        "party": "국민의힘",
+        "district": "영등포구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김지연\n(金智娟)",
+        "party": "더불어민주당",
+        "district": "영등포구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "남완현\n(南完鉉)",
+        "party": "국민의힘",
+        "district": "영등포구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "전승관\n(全承官)",
+        "party": "더불어민주당",
+        "district": "영등포구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이규선\n(李圭善)",
+        "party": "국민의힘",
+        "district": "영등포구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "임헌호\n(林憲浩)",
+        "party": "더불어민주당",
+        "district": "영등포구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이순우\n(李順雨)",
+        "party": "국민의힘",
+        "district": "영등포구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "신흥식\n(申興植)",
+        "party": "더불어민주당",
+        "district": "영등포구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박현우\n(朴炫禹)",
+        "party": "국민의힘",
+        "district": "영등포구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "양송이\n(梁松伊)",
+        "party": "더불어민주당",
+        "district": "영등포구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "차인영\n(車仁永)",
+        "party": "국민의힘",
+        "district": "영등포구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이예찬\n(李睿讚)",
+        "party": "더불어민주당",
+        "district": "영등포구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "유승용\n(劉承瑢)",
+        "party": "더불어민주당",
+        "district": "영등포구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이성수\n(李誠洙)",
+        "party": "국민의힘",
+        "district": "영등포구사선거구",
+        "position": "구의원"
+      }
+    ],
+    "동작구": [
+      {
+        "name": "신동철\n(申東澈)",
+        "party": "더불어민주당",
+        "district": "동작구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정재천\n(鄭載千)",
+        "party": "국민의힘",
+        "district": "동작구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "조진희\n(曺珍姬)",
+        "party": "더불어민주당",
+        "district": "동작구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김효숙\n(金孝淑)",
+        "party": "국민의힘",
+        "district": "동작구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이지희\n(李知姬)",
+        "party": "더불어민주당",
+        "district": "동작구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "민경희\n(閔庚姬)",
+        "party": "국민의힘",
+        "district": "동작구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이주현\n(李周炫)",
+        "party": "더불어민주당",
+        "district": "동작구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장순욱\n(張淳昱)",
+        "party": "국민의힘",
+        "district": "동작구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "신민희\n(申敏熙)",
+        "party": "더불어민주당",
+        "district": "동작구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정세열\n(丁世閱)",
+        "party": "국민의힘",
+        "district": "동작구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김은하\n(金銀夏)",
+        "party": "더불어민주당",
+        "district": "동작구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정유나\n(鄭有那)",
+        "party": "국민의힘",
+        "district": "동작구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "노성철\n(魯誠哲)",
+        "party": "더불어민주당",
+        "district": "동작구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "변종득\n(卞鍾得)",
+        "party": "국민의힘",
+        "district": "동작구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이미연\n(李美蓮)",
+        "party": "국민의힘",
+        "district": "동작구사선거구",
+        "position": "구의원"
+      }
+    ],
+    "관악구": [
+      {
+        "name": "박용규\n(朴庸圭)",
+        "party": "더불어민주당",
+        "district": "관악구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "임춘수\n(林春洙)",
+        "party": "더불어민주당",
+        "district": "관악구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최인호\n(崔仁鎬)",
+        "party": "국민의힘",
+        "district": "관악구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김순미\n(金順美)",
+        "party": "더불어민주당",
+        "district": "관악구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "안한영\n(安漢泳)",
+        "party": "국민의힘",
+        "district": "관악구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "표태룡\n(表太龍)",
+        "party": "더불어민주당",
+        "district": "관악구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장현수\n(張玹壽)",
+        "party": "더불어민주당",
+        "district": "관악구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "구가환\n(丘嘉煥)",
+        "party": "국민의힘",
+        "district": "관악구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "주무열\n(朱무열)",
+        "party": "더불어민주당",
+        "district": "관악구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "구자민\n(具滋珉)",
+        "party": "국민의힘",
+        "district": "관악구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "주순자\n(朱順子)",
+        "party": "더불어민주당",
+        "district": "관악구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정현일\n(鄭現日)",
+        "party": "더불어민주당",
+        "district": "관악구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이경관\n(李慶寬)",
+        "party": "국민의힘",
+        "district": "관악구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "손숙희\n(孫淑姬)",
+        "party": "더불어민주당",
+        "district": "관악구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "민영진\n(閔泳璡)",
+        "party": "국민의힘",
+        "district": "관악구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이종윤\n(李鍾允)",
+        "party": "더불어민주당",
+        "district": "관악구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장동식\n(張東植)",
+        "party": "국민의힘",
+        "district": "관악구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "위성경\n(魏聖京)",
+        "party": "더불어민주당",
+        "district": "관악구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이동일\n(李東一)",
+        "party": "국민의힘",
+        "district": "관악구아선거구",
+        "position": "구의원"
+      }
+    ],
+    "서초구": [
+      {
+        "name": "신정태\n(申政泰)",
+        "party": "더불어민주당",
+        "district": "서초구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박미정\n(朴薇淨)",
+        "party": "국민의힘",
+        "district": "서초구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "오세철\n(吳世哲)",
+        "party": "국민의힘",
+        "district": "서초구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "오지환\n(吳知桓)",
+        "party": "국민의힘",
+        "district": "서초구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박재형\n(朴宰亨)",
+        "party": "더불어민주당",
+        "district": "서초구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김지훈\n(金志勳)",
+        "party": "국민의힘",
+        "district": "서초구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "고선재\n(高璇在)",
+        "party": "국민의힘",
+        "district": "서초구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "강여정\n(姜汝靜)",
+        "party": "더불어민주당",
+        "district": "서초구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "유지웅\n(柳志雄)",
+        "party": "국민의힘",
+        "district": "서초구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "안병두\n(安炳斗)",
+        "party": "국민의힘",
+        "district": "서초구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이현숙\n(李賢淑)",
+        "party": "국민의힘",
+        "district": "서초구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김성주\n(金聖周)",
+        "party": "국민의힘",
+        "district": "서초구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "안종숙\n(安鍾淑)",
+        "party": "더불어민주당",
+        "district": "서초구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이형준\n(李炯俊)",
+        "party": "국민의힘",
+        "district": "서초구마선거구",
+        "position": "구의원"
+      }
+    ],
+    "강남구": [
+      {
+        "name": "김진경\n(金珍慶)",
+        "party": "더불어민주당",
+        "district": "강남구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "전인수\n(全仁秀)",
+        "party": "국민의힘",
+        "district": "강남구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김현정\n(金炫政)",
+        "party": "더불어민주당",
+        "district": "강남구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "황영각\n(黃永珏)",
+        "party": "국민의힘",
+        "district": "강남구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "안지연\n(安芝蓮)",
+        "party": "더불어민주당",
+        "district": "강남구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "강을석\n(姜乙錫)",
+        "party": "국민의힘",
+        "district": "강남구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "손민기\n(孫旻杞)",
+        "party": "국민의힘",
+        "district": "강남구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김형곤\n(金亨坤)",
+        "party": "더불어민주당",
+        "district": "강남구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김민경\n(金玟京)",
+        "party": "국민의힘",
+        "district": "강남구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김영권\n(金永權)",
+        "party": "더불어민주당",
+        "district": "강남구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김형대\n(金炯大)",
+        "party": "국민의힘",
+        "district": "강남구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김광심\n(金廣心)",
+        "party": "더불어민주당",
+        "district": "강남구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이호귀\n(李鎬貴)",
+        "party": "국민의힘",
+        "district": "강남구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박다미\n(朴多美)",
+        "party": "더불어민주당",
+        "district": "강남구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "한윤수\n(韓允琇)",
+        "party": "국민의힘",
+        "district": "강남구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이도희\n(李桃熙)",
+        "party": "국민의힘",
+        "district": "강남구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이성수\n(李聖洙)",
+        "party": "국민의힘",
+        "district": "강남구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "복진경\n(卜鎭京)",
+        "party": "더불어민주당",
+        "district": "강남구자선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "우종혁\n(禹鐘革)",
+        "party": "국민의힘",
+        "district": "강남구자선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이향숙\n(李香淑)",
+        "party": "국민의힘",
+        "district": "강남구자선거구",
+        "position": "구의원"
+      }
+    ],
+    "송파구": [
+      {
+        "name": "김정열\n(金貞烈)",
+        "party": "더불어민주당",
+        "district": "송파구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이강무\n(李康茂)",
+        "party": "국민의힘",
+        "district": "송파구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장종례\n(張鍾禮)",
+        "party": "국민의힘",
+        "district": "송파구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정주리\n(鄭주리)",
+        "party": "더불어민주당",
+        "district": "송파구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김광철\n(金光鐵)",
+        "party": "국민의힘",
+        "district": "송파구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최옥주\n(崔玉珠)",
+        "party": "더불어민주당",
+        "district": "송파구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박경래\n(朴京來)",
+        "party": "국민의힘",
+        "district": "송파구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박성희\n(朴性喜)",
+        "party": "더불어민주당",
+        "district": "송파구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "손병화\n(孫炳花)",
+        "party": "국민의힘",
+        "district": "송파구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이혜숙\n(李慧淑)",
+        "party": "국민의힘",
+        "district": "송파구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "배신정\n(裵晨井)",
+        "party": "더불어민주당",
+        "district": "송파구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김영심\n(金英沁)",
+        "party": "국민의힘",
+        "district": "송파구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김순애\n(金順愛)",
+        "party": "국민의힘",
+        "district": "송파구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김호재\n(金鎬在)",
+        "party": "더불어민주당",
+        "district": "송파구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "최상진\n(崔尙珍)",
+        "party": "국민의힘",
+        "district": "송파구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "나봉숙\n(羅奉淑)",
+        "party": "더불어민주당",
+        "district": "송파구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이하식\n(李嘏拭)",
+        "party": "국민의힘",
+        "district": "송파구사선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "조용근\n(趙庸根)",
+        "party": "더불어민주당",
+        "district": "송파구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "장원만\n(張源滿)",
+        "party": "국민의힘",
+        "district": "송파구아선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "신영재\n(申永在)",
+        "party": "더불어민주당",
+        "district": "송파구자선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김성호\n(金星濠)",
+        "party": "국민의힘",
+        "district": "송파구자선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박종현\n(朴鍾賢)",
+        "party": "더불어민주당",
+        "district": "송파구차선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김행주\n(金涬住)",
+        "party": "국민의힘",
+        "district": "송파구차선거구",
+        "position": "구의원"
+      }
+    ],
+    "강동구": [
+      {
+        "name": "원창희\n(元敞熙)",
+        "party": "더불어민주당",
+        "district": "강동구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "박원서\n(朴源緖)",
+        "party": "더불어민주당",
+        "district": "강동구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "문현섭\n(文玄燮)",
+        "party": "국민의힘",
+        "district": "강동구가선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김남현\n(金南炫)",
+        "party": "더불어민주당",
+        "district": "강동구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이원국\n(李元國)",
+        "party": "더불어민주당",
+        "district": "강동구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "서회원\n(徐會源)",
+        "party": "국민의힘",
+        "district": "강동구나선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "이희동\n(李熙東)",
+        "party": "더불어민주당",
+        "district": "강동구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "한진수\n(韓蓁洙)",
+        "party": "국민의힘",
+        "district": "강동구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "남효선\n(南孝善)",
+        "party": "국민의힘",
+        "district": "강동구다선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "양평호\n(梁平豪)",
+        "party": "더불어민주당",
+        "district": "강동구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "제갑섭\n(諸甲燮)",
+        "party": "국민의힘",
+        "district": "강동구라선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "심우열\n(沈愚烈)",
+        "party": "더불어민주당",
+        "district": "강동구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "조동탁\n(趙東倬)",
+        "party": "국민의힘",
+        "district": "강동구마선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "권혁주\n(權赫柱)",
+        "party": "더불어민주당",
+        "district": "강동구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "김기상\n(金基相)",
+        "party": "국민의힘",
+        "district": "강동구바선거구",
+        "position": "구의원"
+      },
+      {
+        "name": "정미옥\n(鄭美玉)",
+        "party": "국민의힘",
+        "district": "강동구바선거구",
+        "position": "구의원"
+      }
+    ]
+  }
+}

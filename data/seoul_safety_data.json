@@ -1,0 +1,152 @@
+{
+  "강남구": {
+    "basic_livelihood_recipients": 16783,
+    "elderly_living_alone": 23747,
+    "safe_delivery_boxes": 192,
+    "elderly_welfare_facilities": 187
+  },
+  "강동구": {
+    "basic_livelihood_recipients": 18763,
+    "elderly_living_alone": 22874,
+    "safe_delivery_boxes": 174,
+    "elderly_welfare_facilities": 147
+  },
+  "강북구": {
+    "basic_livelihood_recipients": 24765,
+    "elderly_living_alone": 21570,
+    "safe_delivery_boxes": 171,
+    "elderly_welfare_facilities": 119
+  },
+  "강서구": {
+    "basic_livelihood_recipients": 33613,
+    "elderly_living_alone": 40551,
+    "safe_delivery_boxes": 280,
+    "elderly_welfare_facilities": 220
+  },
+  "관악구": {
+    "basic_livelihood_recipients": 24963,
+    "elderly_living_alone": 24154,
+    "safe_delivery_boxes": 264,
+    "elderly_welfare_facilities": 131
+  },
+  "광진구": {
+    "basic_livelihood_recipients": 14467,
+    "elderly_living_alone": 18923,
+    "safe_delivery_boxes": 245,
+    "elderly_welfare_facilities": 106
+  },
+  "구로구": {
+    "basic_livelihood_recipients": 16071,
+    "elderly_living_alone": 21474,
+    "safe_delivery_boxes": 157,
+    "elderly_welfare_facilities": 227
+  },
+  "금천구": {
+    "basic_livelihood_recipients": 14417,
+    "elderly_living_alone": 19795,
+    "safe_delivery_boxes": 162,
+    "elderly_welfare_facilities": 84
+  },
+  "노원구": {
+    "basic_livelihood_recipients": 33054,
+    "elderly_living_alone": 27817,
+    "safe_delivery_boxes": 178,
+    "elderly_welfare_facilities": 263
+  },
+  "도봉구": {
+    "basic_livelihood_recipients": 17745,
+    "elderly_living_alone": 19132,
+    "safe_delivery_boxes": 164,
+    "elderly_welfare_facilities": 145
+  },
+  "동대문구": {
+    "basic_livelihood_recipients": 16806,
+    "elderly_living_alone": 19403,
+    "safe_delivery_boxes": 200,
+    "elderly_welfare_facilities": 153
+  },
+  "동작구": {
+    "basic_livelihood_recipients": 13735,
+    "elderly_living_alone": 16473,
+    "safe_delivery_boxes": 280,
+    "elderly_welfare_facilities": 157
+  },
+  "마포구": {
+    "basic_livelihood_recipients": 11981,
+    "elderly_living_alone": 14426,
+    "safe_delivery_boxes": 271,
+    "elderly_welfare_facilities": 174
+  },
+  "서대문구": {
+    "basic_livelihood_recipients": 12459,
+    "elderly_living_alone": 14894,
+    "safe_delivery_boxes": 191,
+    "elderly_welfare_facilities": 132
+  },
+  "서초구": {
+    "basic_livelihood_recipients": 8176,
+    "elderly_living_alone": 11476,
+    "safe_delivery_boxes": 100,
+    "elderly_welfare_facilities": 150
+  },
+  "성동구": {
+    "basic_livelihood_recipients": 10808,
+    "elderly_living_alone": 12612,
+    "safe_delivery_boxes": 136,
+    "elderly_welfare_facilities": 181
+  },
+  "성북구": {
+    "basic_livelihood_recipients": 18341,
+    "elderly_living_alone": 28027,
+    "safe_delivery_boxes": 138,
+    "elderly_welfare_facilities": 193
+  },
+  "송파구": {
+    "basic_livelihood_recipients": 19531,
+    "elderly_living_alone": 22066,
+    "safe_delivery_boxes": 209,
+    "elderly_welfare_facilities": 195
+  },
+  "양천구": {
+    "basic_livelihood_recipients": 19129,
+    "elderly_living_alone": 19007,
+    "safe_delivery_boxes": 195,
+    "elderly_welfare_facilities": 178
+  },
+  "영등포구": {
+    "basic_livelihood_recipients": 12681,
+    "elderly_living_alone": 17340,
+    "safe_delivery_boxes": 207,
+    "elderly_welfare_facilities": 206
+  },
+  "용산구": {
+    "basic_livelihood_recipients": 8995,
+    "elderly_living_alone": 13417,
+    "safe_delivery_boxes": 138,
+    "elderly_welfare_facilities": 111
+  },
+  "은평구": {
+    "basic_livelihood_recipients": 27411,
+    "elderly_living_alone": 24602,
+    "safe_delivery_boxes": 192,
+    "elderly_welfare_facilities": 185
+  },
+  "종로구": {
+    "basic_livelihood_recipients": 5959,
+    "elderly_living_alone": 9076,
+    "safe_delivery_boxes": 81,
+    "elderly_welfare_facilities": 74
+  },
+  "중구": {
+    "basic_livelihood_recipients": 6457,
+    "elderly_living_alone": 8088,
+    "safe_delivery_boxes": 105,
+    "elderly_welfare_facilities": 55
+  },
+  "중랑구": {
+    "basic_livelihood_recipients": 29805,
+    "elderly_living_alone": 23982,
+    "safe_delivery_boxes": 128,
+    "elderly_welfare_facilities": 147
+  }
+}

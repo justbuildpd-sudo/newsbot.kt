@@ -1,0 +1,65 @@
+version: '3.8'
+
+services:
+  # Nginx 리버스 프록시
+  nginx:
+    build: ./nginx
+    container_name: insightforge-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - backend
+      - frontend
+    networks:
+      - insightforge-network
+    restart: unless-stopped
+
+  # FastAPI 백엔드
+  backend:
+    build: ./backend
+    container_name: insightforge-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data:ro
+      - ./backend:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - redis
+    networks:
+      - insightforge-network
+    restart: unless-stopped
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
+  # Redis 캐시
+  redis:
+    image: redis:7-alpine
+    container_name: insightforge-redis
+    ports:
+      - "6379:6379"
+    networks:
+      - insightforge-network
+    restart: unless-stopped
+
+  # React 프론트엔드
+  frontend:
+    build: ./frontend
+    container_name: insightforge-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://192.168.219.2:8000
+    networks:
+      - insightforge-network
+    restart: unless-stopped
+
+networks:
+  insightforge-network:
+    driver: bridge
+
+volumes:
+  data:
+

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API 테스트</title>
+</head>
+<body>
+    <h1>API 연결 테스트</h1>
+    <div id="result"></div>
+    
+    <script>
+        console.log('테스트 시작');
+        
+        async function test() {
+            const API_BASE = 'http://localhost:8000';
+            console.log('API_BASE:', API_BASE);
+            
+            try {
+                console.log('요청 시작...');
+                const response = await fetch(`${API_BASE}/api/national/sido`);
+                console.log('응답 받음:', response.status);
+                
+                const data = await response.json();
+                console.log('데이터:', data);
+                
+                document.getElementById('result').innerHTML = `
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            } catch (error) {
+                console.error('에러:', error);
+                document.getElementById('result').innerHTML = `
+                    <p style="color: red;">에러: ${error.message}</p>
+                `;
+            }
+        }
+        
+        test();
+    </script>
+</body>
+</html>
+

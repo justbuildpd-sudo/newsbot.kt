@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 임시 파일
+*.tmp
+*.bak
+*.backup
+
+# 데이터 파일 (크기가 큰 파일만)
+data/sgis_enhanced_multiyear_stats.json
+data/sgis_multiyear_stats.json

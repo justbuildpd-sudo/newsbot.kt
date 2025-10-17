@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>디버그 페이지</title>
+    <style>
+        body { font-family: monospace; padding: 20px; }
+        .success { color: green; }
+        .error { color: red; }
+        .info { color: blue; }
+        pre { background: #f5f5f5; padding: 10px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>InsightForge 디버그</h1>
+    <div id="log"></div>
+    
+    <script>
+        const log = document.getElementById('log');
+        
+        function addLog(message, type = 'info') {
+            const p = document.createElement('p');
+            p.className = type;
+            p.textContent = message;
+            log.appendChild(p);
+            console.log(message);
+        }
+        
+        async function runTests() {
+            addLog('=== 디버그 시작 ===');
+            
+            // 1. API 기본 URL 확인
+            const API_BASE = 'http://localhost:8000';
+            addLog(`API BASE: ${API_BASE}`, 'info');
+            
+            // 2. 시도 목록 API 테스트
+            try {
+                addLog('시도 목록 API 요청 중...', 'info');
+                const response = await fetch(`${API_BASE}/api/national/sido`);
+                addLog(`응답 상태: ${response.status}`, response.ok ? 'success' : 'error');
+                
+                const data = await response.json();
+                addLog(`받은 시도 개수: ${data.total}`, 'success');
+                addLog(`첫 번째 시도: ${data.sido_list[0].name}`, 'success');
+                
+                const pre = document.createElement('pre');
+                pre.textContent = JSON.stringify(data.sido_list[0], null, 2);
+                log.appendChild(pre);
+                
+            } catch (error) {
+                addLog(`❌ API 에러: ${error.message}`, 'error');
+                addLog(`에러 스택: ${error.stack}`, 'error');
+            }
+            
+            // 3. app.js 로드 확인
+            addLog('=== app.js 함수 확인 ===', 'info');
+            addLog(`loadNationalData 존재: ${typeof loadNationalData !== 'undefined'}`, typeof loadNationalData !== 'undefined' ? 'success' : 'error');
+            addLog(`renderNationalList 존재: ${typeof renderNationalList !== 'undefined'}`, typeof renderNationalList !== 'undefined' ? 'success' : 'error');
+            
+            // 4. DOM 요소 확인
+            addLog('=== DOM 요소 확인 ===', 'info');
+            const regionList = document.getElementById('regionList');
+            addLog(`regionList 요소 존재: ${regionList !== null}`, regionList ? 'success' : 'error');
+        }
+        
+        runTests();
+    </script>
+    
+    <!-- app.js도 로드해서 함수 존재 확인 -->
+    <script src="app.js"></script>
+</body>
+</html>
+

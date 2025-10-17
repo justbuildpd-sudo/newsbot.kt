@@ -1,0 +1,2090 @@
+{
+  "강남구": {
+    "politician": "서명옥",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "서명옥",
+        "count": 127
+      },
+      {
+        "word": "국민의힘",
+        "count": 99
+      },
+      {
+        "word": "보건복지위원회",
+        "count": 44
+      },
+      {
+        "word": "김경",
+        "count": 42
+      },
+      {
+        "word": "종교단체",
+        "count": 41
+      },
+      {
+        "word": "서울시의원",
+        "count": 36
+      },
+      {
+        "word": "최은석",
+        "count": 33
+      },
+      {
+        "word": "소속",
+        "count": 32
+      },
+      {
+        "word": "자료",
+        "count": 31
+      },
+      {
+        "word": "강선영",
+        "count": 30
+      },
+      {
+        "word": "진종오",
+        "count": 29
+      },
+      {
+        "word": "서울",
+        "count": 26
+      },
+      {
+        "word": "선거동원",
+        "count": 26
+      },
+      {
+        "word": "따르면",
+        "count": 25
+      },
+      {
+        "word": "서울지방경찰청",
+        "count": 25
+      },
+      {
+        "word": "민원실",
+        "count": 24
+      },
+      {
+        "word": "제출받",
+        "count": 23
+      },
+      {
+        "word": "처방",
+        "count": 21
+      },
+      {
+        "word": "고발장",
+        "count": 21
+      },
+      {
+        "word": "영유아",
+        "count": 20
+      }
+    ]
+  },
+  "강동구": {
+    "politician": "진선미",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "진선미",
+        "count": 166
+      },
+      {
+        "word": "더불어민주당",
+        "count": 83
+      },
+      {
+        "word": "교육위원회",
+        "count": 70
+      },
+      {
+        "word": "교육부로",
+        "count": 69
+      },
+      {
+        "word": "소속",
+        "count": 66
+      },
+      {
+        "word": "국어",
+        "count": 54
+      },
+      {
+        "word": "받은",
+        "count": 51
+      },
+      {
+        "word": "자료",
+        "count": 48
+      },
+      {
+        "word": "따르면",
+        "count": 46
+      },
+      {
+        "word": "기초학력",
+        "count": 41
+      },
+      {
+        "word": "제출받",
+        "count": 26
+      },
+      {
+        "word": "미달률",
+        "count": 26
+      },
+      {
+        "word": "시도별",
+        "count": 26
+      },
+      {
+        "word": "기간제",
+        "count": 26
+      },
+      {
+        "word": "년간",
+        "count": 23
+      },
+      {
+        "word": "학년",
+        "count": 21
+      },
+      {
+        "word": "과목",
+        "count": 21
+      },
+      {
+        "word": "교사",
+        "count": 21
+      },
+      {
+        "word": "국가수준",
+        "count": 20
+      },
+      {
+        "word": "학생",
+        "count": 20
+      }
+    ]
+  },
+  "강북구": {
+    "politician": "천준호",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "천준호",
+        "count": 105
+      },
+      {
+        "word": "더불어민주당",
+        "count": 47
+      },
+      {
+        "word": "이해식",
+        "count": 42
+      },
+      {
+        "word": "신정훈",
+        "count": 40
+      },
+      {
+        "word": "대정부질문",
+        "count": 31
+      },
+      {
+        "word": "정부",
+        "count": 28
+      },
+      {
+        "word": "이재명",
+        "count": 27
+      },
+      {
+        "word": "대정부",
+        "count": 24
+      },
+      {
+        "word": "질의",
+        "count": 21
+      },
+      {
+        "word": "등이",
+        "count": 20
+      },
+      {
+        "word": "여야",
+        "count": 20
+      },
+      {
+        "word": "임이자",
+        "count": 20
+      },
+      {
+        "word": "박성준",
+        "count": 20
+      },
+      {
+        "word": "곽규택",
+        "count": 20
+      },
+      {
+        "word": "이건태",
+        "count": 19
+      },
+      {
+        "word": "신성범",
+        "count": 19
+      },
+      {
+        "word": "소속",
+        "count": 18
+      },
+      {
+        "word": "장관",
+        "count": 18
+      },
+      {
+        "word": "예고",
+        "count": 18
+      },
+      {
+        "word": "민주당",
+        "count": 17
+      }
+    ]
+  },
+  "강서구": {
+    "politician": "강선우",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "강선우",
+        "count": 123
+      },
+      {
+        "word": "장관",
+        "count": 88
+      },
+      {
+        "word": "후보자",
+        "count": 84
+      },
+      {
+        "word": "김현지",
+        "count": 80
+      },
+      {
+        "word": "직권남용",
+        "count": 72
+      },
+      {
+        "word": "여성가족부",
+        "count": 64
+      },
+      {
+        "word": "대통령",
+        "count": 60
+      },
+      {
+        "word": "총무비서관",
+        "count": 60
+      },
+      {
+        "word": "인사",
+        "count": 50
+      },
+      {
+        "word": "사퇴해야",
+        "count": 47
+      },
+      {
+        "word": "시절",
+        "count": 44
+      },
+      {
+        "word": "직접",
+        "count": 43
+      },
+      {
+        "word": "전화해",
+        "count": 43
+      },
+      {
+        "word": "뜻을",
+        "count": 42
+      },
+      {
+        "word": "강요",
+        "count": 37
+      },
+      {
+        "word": "고발",
+        "count": 36
+      },
+      {
+        "word": "이재명",
+        "count": 33
+      },
+      {
+        "word": "해당한다",
+        "count": 33
+      },
+      {
+        "word": "시민단체",
+        "count": 32
+      },
+      {
+        "word": "부속실장",
+        "count": 27
+      }
+    ]
+  },
+  "관악구": {
+    "politician": "박민규",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "박민규",
+        "count": 125
+      },
+      {
+        "word": "더불어민주당",
+        "count": 42
+      },
+      {
+        "word": "보조금",
+        "count": 32
+      },
+      {
+        "word": "디일렉",
+        "count": 30
+      },
+      {
+        "word": "자료",
+        "count": 24
+      },
+      {
+        "word": "따르면",
+        "count": 24
+      },
+      {
+        "word": "부정수급",
+        "count": 23
+      },
+      {
+        "word": "적발",
+        "count": 22
+      },
+      {
+        "word": "신진서",
+        "count": 22
+      },
+      {
+        "word": "단이",
+        "count": 19
+      },
+      {
+        "word": "결승",
+        "count": 18
+      },
+      {
+        "word": "한국재정정보원",
+        "count": 17
+      },
+      {
+        "word": "제출한",
+        "count": 17
+      },
+      {
+        "word": "김은지",
+        "count": 16
+      },
+      {
+        "word": "정부",
+        "count": 16
+      },
+      {
+        "word": "기자",
+        "count": 15
+      },
+      {
+        "word": "전자",
+        "count": 15
+      },
+      {
+        "word": "전문",
+        "count": 15
+      },
+      {
+        "word": "미디어",
+        "count": 15
+      },
+      {
+        "word": "적발된",
+        "count": 15
+      }
+    ]
+  },
+  "광진구": {
+    "politician": "이정헌",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "이정헌",
+        "count": 138
+      },
+      {
+        "word": "더불어민주당",
+        "count": 84
+      },
+      {
+        "word": "조국혁신당",
+        "count": 34
+      },
+      {
+        "word": "기자회견",
+        "count": 33
+      },
+      {
+        "word": "여의",
+        "count": 25
+      },
+      {
+        "word": "네트워크",
+        "count": 25
+      },
+      {
+        "word": "이해민",
+        "count": 25
+      },
+      {
+        "word": "설치법",
+        "count": 25
+      },
+      {
+        "word": "과학기술정보방송통신위원회",
+        "count": 24
+      },
+      {
+        "word": "소속",
+        "count": 23
+      },
+      {
+        "word": "김현",
+        "count": 23
+      },
+      {
+        "word": "이주희",
+        "count": 22
+      },
+      {
+        "word": "노종면",
+        "count": 22
+      },
+      {
+        "word": "하고",
+        "count": 21
+      },
+      {
+        "word": "방송미디어통신위원회",
+        "count": 21
+      },
+      {
+        "word": "최민희",
+        "count": 20
+      },
+      {
+        "word": "시대",
+        "count": 18
+      },
+      {
+        "word": "글로벌",
+        "count": 18
+      },
+      {
+        "word": "민주당",
+        "count": 17
+      },
+      {
+        "word": "서울",
+        "count": 16
+      }
+    ]
+  },
+  "구로구": {
+    "politician": "이인영",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "이인영",
+        "count": 117
+      },
+      {
+        "word": "영상편집",
+        "count": 41
+      },
+      {
+        "word": "뉴스",
+        "count": 39
+      },
+      {
+        "word": "더불어민주당",
+        "count": 27
+      },
+      {
+        "word": "촬영기자",
+        "count": 23
+      },
+      {
+        "word": "그래픽",
+        "count": 20
+      },
+      {
+        "word": "서울",
+        "count": 16
+      },
+      {
+        "word": "정무위원회",
+        "count": 14
+      },
+      {
+        "word": "있는",
+        "count": 13
+      },
+      {
+        "word": "장관",
+        "count": 12
+      },
+      {
+        "word": "보훈수당",
+        "count": 12
+      },
+      {
+        "word": "대통령",
+        "count": 12
+      },
+      {
+        "word": "세무조사",
+        "count": 11
+      },
+      {
+        "word": "단독",
+        "count": 10
+      },
+      {
+        "word": "시간",
+        "count": 9
+      },
+      {
+        "word": "보훈부",
+        "count": 9
+      },
+      {
+        "word": "격차",
+        "count": 9
+      },
+      {
+        "word": "해소",
+        "count": 9
+      },
+      {
+        "word": "정책포럼",
+        "count": 9
+      },
+      {
+        "word": "한국",
+        "count": 9
+      }
+    ]
+  },
+  "금천구": {
+    "politician": "최기상",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "최기상",
+        "count": 114
+      },
+      {
+        "word": "서울시당",
+        "count": 44
+      },
+      {
+        "word": "민주당",
+        "count": 41
+      },
+      {
+        "word": "등이",
+        "count": 41
+      },
+      {
+        "word": "장관",
+        "count": 32
+      },
+      {
+        "word": "서삼석",
+        "count": 31
+      },
+      {
+        "word": "정청래",
+        "count": 30
+      },
+      {
+        "word": "황명선",
+        "count": 30
+      },
+      {
+        "word": "전현희",
+        "count": 29
+      },
+      {
+        "word": "송미령",
+        "count": 29
+      },
+      {
+        "word": "최고위원",
+        "count": 28
+      },
+      {
+        "word": "농림축산식품부",
+        "count": 28
+      },
+      {
+        "word": "정책위",
+        "count": 27
+      },
+      {
+        "word": "소비쿠폰",
+        "count": 25
+      },
+      {
+        "word": "박지원",
+        "count": 25
+      },
+      {
+        "word": "정책위수석부의장",
+        "count": 24
+      },
+      {
+        "word": "제명",
+        "count": 23
+      },
+      {
+        "word": "검찰",
+        "count": 23
+      },
+      {
+        "word": "사유",
+        "count": 22
+      },
+      {
+        "word": "더불어민주당",
+        "count": 22
+      }
+    ]
+  },
+  "노원구": {
+    "politician": "우원식",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "우원식",
+        "count": 129
+      },
+      {
+        "word": "국회의장",
+        "count": 117
+      },
+      {
+        "word": "명예회장",
+        "count": 45
+      },
+      {
+        "word": "장관",
+        "count": 44
+      },
+      {
+        "word": "대통령",
+        "count": 36
+      },
+      {
+        "word": "이재명",
+        "count": 33
+      },
+      {
+        "word": "김민석",
+        "count": 30
+      },
+      {
+        "word": "의장",
+        "count": 29
+      },
+      {
+        "word": "최창걸",
+        "count": 27
+      },
+      {
+        "word": "국무총리",
+        "count": 26
+      },
+      {
+        "word": "구윤철",
+        "count": 25
+      },
+      {
+        "word": "고려아연",
+        "count": 24
+      },
+      {
+        "word": "빈소에",
+        "count": 24
+      },
+      {
+        "word": "경제부총리",
+        "count": 24
+      },
+      {
+        "word": "김정관",
+        "count": 23
+      },
+      {
+        "word": "비롯해",
+        "count": 23
+      },
+      {
+        "word": "오세훈",
+        "count": 23
+      },
+      {
+        "word": "입법부",
+        "count": 22
+      },
+      {
+        "word": "김두겸",
+        "count": 22
+      },
+      {
+        "word": "기획재정부",
+        "count": 20
+      }
+    ]
+  },
+  "도봉구": {
+    "politician": "김재섭",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "김재섭",
+        "count": 173
+      },
+      {
+        "word": "이준석",
+        "count": 96
+      },
+      {
+        "word": "국민의힘",
+        "count": 85
+      },
+      {
+        "word": "대표",
+        "count": 69
+      },
+      {
+        "word": "스타크래프트",
+        "count": 62
+      },
+      {
+        "word": "개혁신당",
+        "count": 60
+      },
+      {
+        "word": "스타",
+        "count": 52
+      },
+      {
+        "word": "모경종",
+        "count": 42
+      },
+      {
+        "word": "서울",
+        "count": 39
+      },
+      {
+        "word": "대회",
+        "count": 38
+      },
+      {
+        "word": "정치인",
+        "count": 37
+      },
+      {
+        "word": "한가위",
+        "count": 36
+      },
+      {
+        "word": "게임",
+        "count": 33
+      },
+      {
+        "word": "기념",
+        "count": 28
+      },
+      {
+        "word": "추석",
+        "count": 27
+      },
+      {
+        "word": "행사",
+        "count": 24
+      },
+      {
+        "word": "대결",
+        "count": 24
+      },
+      {
+        "word": "방에서",
+        "count": 24
+      },
+      {
+        "word": "오후",
+        "count": 23
+      },
+      {
+        "word": "민속놀",
+        "count": 22
+      }
+    ]
+  },
+  "동대문구": {
+    "politician": "안규백",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "안규백",
+        "count": 159
+      },
+      {
+        "word": "장관",
+        "count": 153
+      },
+      {
+        "word": "국방부",
+        "count": 138
+      },
+      {
+        "word": "포대",
+        "count": 72
+      },
+      {
+        "word": "추석",
+        "count": 69
+      },
+      {
+        "word": "김민석",
+        "count": 63
+      },
+      {
+        "word": "국군수도병원",
+        "count": 59
+      },
+      {
+        "word": "입원",
+        "count": 51
+      },
+      {
+        "word": "패트리어트",
+        "count": 50
+      },
+      {
+        "word": "국무총리",
+        "count": 47
+      },
+      {
+        "word": "연휴",
+        "count": 46
+      },
+      {
+        "word": "장병들",
+        "count": 44
+      },
+      {
+        "word": "장병",
+        "count": 43
+      },
+      {
+        "word": "수도권",
+        "count": 42
+      },
+      {
+        "word": "방문해",
+        "count": 39
+      },
+      {
+        "word": "경기",
+        "count": 32
+      },
+      {
+        "word": "총리",
+        "count": 28
+      },
+      {
+        "word": "둘째",
+        "count": 26
+      },
+      {
+        "word": "날인",
+        "count": 26
+      },
+      {
+        "word": "성남시",
+        "count": 26
+      }
+    ]
+  },
+  "동작구": {
+    "politician": "김병기",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "김병기",
+        "count": 117
+      },
+      {
+        "word": "원내대표",
+        "count": 101
+      },
+      {
+        "word": "민주당",
+        "count": 57
+      },
+      {
+        "word": "추석",
+        "count": 46
+      },
+      {
+        "word": "더불어민주당",
+        "count": 44
+      },
+      {
+        "word": "대표",
+        "count": 33
+      },
+      {
+        "word": "정청래",
+        "count": 32
+      },
+      {
+        "word": "여야",
+        "count": 27
+      },
+      {
+        "word": "연휴",
+        "count": 25
+      },
+      {
+        "word": "정부",
+        "count": 24
+      },
+      {
+        "word": "서울",
+        "count": 23
+      },
+      {
+        "word": "국민의힘",
+        "count": 22
+      },
+      {
+        "word": "이재명",
+        "count": 17
+      },
+      {
+        "word": "민생",
+        "count": 15
+      },
+      {
+        "word": "지난달",
+        "count": 15
+      },
+      {
+        "word": "위한",
+        "count": 13
+      },
+      {
+        "word": "용산역",
+        "count": 13
+      },
+      {
+        "word": "인사",
+        "count": 13
+      },
+      {
+        "word": "비롯한",
+        "count": 13
+      },
+      {
+        "word": "국민",
+        "count": 13
+      }
+    ]
+  },
+  "마포구": {
+    "politician": "조정훈",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "조정훈",
+        "count": 122
+      },
+      {
+        "word": "국민의힘",
+        "count": 47
+      },
+      {
+        "word": "토론회",
+        "count": 37
+      },
+      {
+        "word": "공동",
+        "count": 34
+      },
+      {
+        "word": "비례",
+        "count": 25
+      },
+      {
+        "word": "대한한의사협회",
+        "count": 24
+      },
+      {
+        "word": "한국한의약진흥원",
+        "count": 23
+      },
+      {
+        "word": "한의약",
+        "count": 23
+      },
+      {
+        "word": "대구",
+        "count": 20
+      },
+      {
+        "word": "한민수",
+        "count": 20
+      },
+      {
+        "word": "소병훈",
+        "count": 20
+      },
+      {
+        "word": "황정아",
+        "count": 20
+      },
+      {
+        "word": "조인철",
+        "count": 20
+      },
+      {
+        "word": "이주희",
+        "count": 20
+      },
+      {
+        "word": "디지털",
+        "count": 19
+      },
+      {
+        "word": "서울",
+        "count": 17
+      },
+      {
+        "word": "대전환",
+        "count": 17
+      },
+      {
+        "word": "교권",
+        "count": 16
+      },
+      {
+        "word": "위한",
+        "count": 15
+      },
+      {
+        "word": "시대",
+        "count": 15
+      }
+    ]
+  },
+  "서대문구": {
+    "politician": "김동아",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "김동아",
+        "count": 156
+      },
+      {
+        "word": "더불어민주당",
+        "count": 66
+      },
+      {
+        "word": "한전",
+        "count": 57
+      },
+      {
+        "word": "산업통상자원중소벤처기업위원회",
+        "count": 51
+      },
+      {
+        "word": "한수원",
+        "count": 48
+      },
+      {
+        "word": "원전",
+        "count": 37
+      },
+      {
+        "word": "소속",
+        "count": 34
+      },
+      {
+        "word": "혈세",
+        "count": 33
+      },
+      {
+        "word": "자료",
+        "count": 29
+      },
+      {
+        "word": "정부",
+        "count": 26
+      },
+      {
+        "word": "특검",
+        "count": 26
+      },
+      {
+        "word": "공기업",
+        "count": 23
+      },
+      {
+        "word": "분쟁",
+        "count": 22
+      },
+      {
+        "word": "석유공사",
+        "count": 21
+      },
+      {
+        "word": "따르면",
+        "count": 21
+      },
+      {
+        "word": "방치한",
+        "count": 21
+      },
+      {
+        "word": "검사들",
+        "count": 21
+      },
+      {
+        "word": "제출받",
+        "count": 20
+      },
+      {
+        "word": "바라카",
+        "count": 20
+      },
+      {
+        "word": "민주당",
+        "count": 19
+      }
+    ]
+  },
+  "서초구": {
+    "politician": "조은희",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "조은희",
+        "count": 116
+      },
+      {
+        "word": "국민의힘",
+        "count": 75
+      },
+      {
+        "word": "대표",
+        "count": 36
+      },
+      {
+        "word": "서울",
+        "count": 30
+      },
+      {
+        "word": "비례",
+        "count": 24
+      },
+      {
+        "word": "이준석",
+        "count": 24
+      },
+      {
+        "word": "여성",
+        "count": 22
+      },
+      {
+        "word": "윤상현",
+        "count": 19
+      },
+      {
+        "word": "증인",
+        "count": 18
+      },
+      {
+        "word": "소속",
+        "count": 17
+      },
+      {
+        "word": "대구",
+        "count": 17
+      },
+      {
+        "word": "개혁신당",
+        "count": 17
+      },
+      {
+        "word": "자료",
+        "count": 17
+      },
+      {
+        "word": "따르면",
+        "count": 17
+      },
+      {
+        "word": "최수진",
+        "count": 16
+      },
+      {
+        "word": "신품종",
+        "count": 15
+      },
+      {
+        "word": "김건희",
+        "count": 14
+      },
+      {
+        "word": "충랑",
+        "count": 14
+      },
+      {
+        "word": "문화체육관광위원회",
+        "count": 13
+      },
+      {
+        "word": "시장",
+        "count": 13
+      }
+    ]
+  },
+  "성북구": {
+    "politician": "김영배",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "김영배",
+        "count": 128
+      },
+      {
+        "word": "더불어민주당",
+        "count": 32
+      },
+      {
+        "word": "민주당",
+        "count": 19
+      },
+      {
+        "word": "의원회관",
+        "count": 19
+      },
+      {
+        "word": "출마",
+        "count": 17
+      },
+      {
+        "word": "역사",
+        "count": 17
+      },
+      {
+        "word": "국민투표법",
+        "count": 17
+      },
+      {
+        "word": "검찰",
+        "count": 16
+      },
+      {
+        "word": "국익",
+        "count": 16
+      },
+      {
+        "word": "외교통일위원회",
+        "count": 14
+      },
+      {
+        "word": "한국",
+        "count": 14
+      },
+      {
+        "word": "지속가능경영학회",
+        "count": 14
+      },
+      {
+        "word": "장관",
+        "count": 14
+      },
+      {
+        "word": "서울",
+        "count": 13
+      },
+      {
+        "word": "회장",
+        "count": 13
+      },
+      {
+        "word": "국민의힘",
+        "count": 12
+      },
+      {
+        "word": "등이",
+        "count": 12
+      },
+      {
+        "word": "박홍근",
+        "count": 12
+      },
+      {
+        "word": "설립",
+        "count": 12
+      },
+      {
+        "word": "국민",
+        "count": 12
+      }
+    ]
+  },
+  "송파구": {
+    "politician": "박정훈",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "박정훈",
+        "count": 135
+      },
+      {
+        "word": "우리금융경영연구소",
+        "count": 40
+      },
+      {
+        "word": "위한",
+        "count": 38
+      },
+      {
+        "word": "대령",
+        "count": 32
+      },
+      {
+        "word": "기후금융",
+        "count": 30
+      },
+      {
+        "word": "구준회",
+        "count": 29
+      },
+      {
+        "word": "단죄",
+        "count": 26
+      },
+      {
+        "word": "베트남사회과학원",
+        "count": 25
+      },
+      {
+        "word": "협력",
+        "count": 23
+      },
+      {
+        "word": "김현지",
+        "count": 23
+      },
+      {
+        "word": "중요한",
+        "count": 22
+      },
+      {
+        "word": "마석구",
+        "count": 22
+      },
+      {
+        "word": "대응",
+        "count": 21
+      },
+      {
+        "word": "형사",
+        "count": 21
+      },
+      {
+        "word": "기후변화",
+        "count": 20
+      },
+      {
+        "word": "어느",
+        "count": 20
+      },
+      {
+        "word": "때보다",
+        "count": 20
+      },
+      {
+        "word": "시점",
+        "count": 19
+      },
+      {
+        "word": "활성화",
+        "count": 19
+      },
+      {
+        "word": "대통령",
+        "count": 19
+      }
+    ]
+  },
+  "양천구": {
+    "politician": "황희",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "황희",
+        "count": 152
+      },
+      {
+        "word": "더불어민주당",
+        "count": 90
+      },
+      {
+        "word": "자료",
+        "count": 72
+      },
+      {
+        "word": "국방위원회",
+        "count": 69
+      },
+      {
+        "word": "국적",
+        "count": 67
+      },
+      {
+        "word": "년간",
+        "count": 62
+      },
+      {
+        "word": "소속",
+        "count": 60
+      },
+      {
+        "word": "년부터",
+        "count": 60
+      },
+      {
+        "word": "따르면",
+        "count": 57
+      },
+      {
+        "word": "제출받",
+        "count": 53
+      },
+      {
+        "word": "가운데",
+        "count": 32
+      },
+      {
+        "word": "군대",
+        "count": 30
+      },
+      {
+        "word": "병무청으로",
+        "count": 30
+      },
+      {
+        "word": "병역의무",
+        "count": 30
+      },
+      {
+        "word": "대상자",
+        "count": 29
+      },
+      {
+        "word": "월까지",
+        "count": 24
+      },
+      {
+        "word": "소송",
+        "count": 23
+      },
+      {
+        "word": "사망사고",
+        "count": 23
+      },
+      {
+        "word": "포기",
+        "count": 23
+      },
+      {
+        "word": "집계됐다",
+        "count": 21
+      }
+    ]
+  },
+  "영등포구": {
+    "politician": "채현일",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "채현일",
+        "count": 107
+      },
+      {
+        "word": "더불어민주당",
+        "count": 60
+      },
+      {
+        "word": "화재",
+        "count": 59
+      },
+      {
+        "word": "민주당",
+        "count": 48
+      },
+      {
+        "word": "국정자원",
+        "count": 43
+      },
+      {
+        "word": "보안",
+        "count": 27
+      },
+      {
+        "word": "조사",
+        "count": 26
+      },
+      {
+        "word": "전산실",
+        "count": 24
+      },
+      {
+        "word": "국민의힘",
+        "count": 24
+      },
+      {
+        "word": "이유",
+        "count": 23
+      },
+      {
+        "word": "산불",
+        "count": 23
+      },
+      {
+        "word": "행안위",
+        "count": 21
+      },
+      {
+        "word": "소속",
+        "count": 20
+      },
+      {
+        "word": "소방",
+        "count": 19
+      },
+      {
+        "word": "원장",
+        "count": 19
+      },
+      {
+        "word": "개정안",
+        "count": 19
+      },
+      {
+        "word": "점검",
+        "count": 18
+      },
+      {
+        "word": "시의원",
+        "count": 17
+      },
+      {
+        "word": "분리",
+        "count": 16
+      },
+      {
+        "word": "국힘",
+        "count": 16
+      }
+    ]
+  },
+  "용산구": {
+    "politician": "권영세",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "권영세",
+        "count": 136
+      },
+      {
+        "word": "국민의힘",
+        "count": 77
+      },
+      {
+        "word": "스테이블코인",
+        "count": 73
+      },
+      {
+        "word": "원화",
+        "count": 54
+      },
+      {
+        "word": "도입",
+        "count": 52
+      },
+      {
+        "word": "디지털",
+        "count": 49
+      },
+      {
+        "word": "대표",
+        "count": 48
+      },
+      {
+        "word": "쟁점",
+        "count": 45
+      },
+      {
+        "word": "바람직한",
+        "count": 45
+      },
+      {
+        "word": "제도적",
+        "count": 45
+      },
+      {
+        "word": "장동혁",
+        "count": 43
+      },
+      {
+        "word": "혁신",
+        "count": 43
+      },
+      {
+        "word": "도전",
+        "count": 43
+      },
+      {
+        "word": "금융",
+        "count": 41
+      },
+      {
+        "word": "체계",
+        "count": 39
+      },
+      {
+        "word": "의원회관",
+        "count": 36
+      },
+      {
+        "word": "서울",
+        "count": 34
+      },
+      {
+        "word": "토론회",
+        "count": 33
+      },
+      {
+        "word": "주최",
+        "count": 28
+      },
+      {
+        "word": "열린",
+        "count": 28
+      }
+    ]
+  },
+  "은평구": {
+    "politician": "박주민",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "박주민",
+        "count": 136
+      },
+      {
+        "word": "출마",
+        "count": 59
+      },
+      {
+        "word": "서울시장",
+        "count": 48
+      },
+      {
+        "word": "전현희",
+        "count": 39
+      },
+      {
+        "word": "박홍근",
+        "count": 38
+      },
+      {
+        "word": "오세훈",
+        "count": 33
+      },
+      {
+        "word": "서영교",
+        "count": 33
+      },
+      {
+        "word": "지방선거",
+        "count": 30
+      },
+      {
+        "word": "서울",
+        "count": 29
+      },
+      {
+        "word": "회장",
+        "count": 29
+      },
+      {
+        "word": "대한노인회",
+        "count": 28
+      },
+      {
+        "word": "민주당",
+        "count": 26
+      },
+      {
+        "word": "더불어민주당",
+        "count": 25
+      },
+      {
+        "word": "위원장",
+        "count": 21
+      },
+      {
+        "word": "대표",
+        "count": 20
+      },
+      {
+        "word": "국민의힘",
+        "count": 19
+      },
+      {
+        "word": "보건복지위원회",
+        "count": 19
+      },
+      {
+        "word": "라디오",
+        "count": 18
+      },
+      {
+        "word": "홍익표",
+        "count": 18
+      },
+      {
+        "word": "정원오",
+        "count": 18
+      }
+    ]
+  },
+  "종로구": {
+    "politician": "곽상언",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "곽상언",
+        "count": 142
+      },
+      {
+        "word": "유튜브",
+        "count": 85
+      },
+      {
+        "word": "권력",
+        "count": 63
+      },
+      {
+        "word": "더불어민주당",
+        "count": 48
+      },
+      {
+        "word": "민주당",
+        "count": 45
+      },
+      {
+        "word": "정치",
+        "count": 33
+      },
+      {
+        "word": "대통령",
+        "count": 26
+      },
+      {
+        "word": "김어준",
+        "count": 20
+      },
+      {
+        "word": "노무현",
+        "count": 15
+      },
+      {
+        "word": "사위인",
+        "count": 15
+      },
+      {
+        "word": "종로구",
+        "count": 15
+      },
+      {
+        "word": "강성",
+        "count": 14
+      },
+      {
+        "word": "있는",
+        "count": 13
+      },
+      {
+        "word": "서울",
+        "count": 13
+      },
+      {
+        "word": "영향력",
+        "count": 13
+      },
+      {
+        "word": "국민의힘",
+        "count": 11
+      },
+      {
+        "word": "정당",
+        "count": 10
+      },
+      {
+        "word": "그는",
+        "count": 10
+      },
+      {
+        "word": "사위",
+        "count": 10
+      },
+      {
+        "word": "김상욱",
+        "count": 9
+      }
+    ]
+  },
+  "중구성동구": {
+    "politician": "전현희",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "전현희",
+        "count": 153
+      },
+      {
+        "word": "기자간담회",
+        "count": 55
+      },
+      {
+        "word": "더불어민주당",
+        "count": 52
+      },
+      {
+        "word": "최고위원",
+        "count": 51
+      },
+      {
+        "word": "서울",
+        "count": 47
+      },
+      {
+        "word": "수석최고위원",
+        "count": 40
+      },
+      {
+        "word": "민주당",
+        "count": 30
+      },
+      {
+        "word": "서영교",
+        "count": 30
+      },
+      {
+        "word": "여의",
+        "count": 29
+      },
+      {
+        "word": "박홍근",
+        "count": 29
+      },
+      {
+        "word": "박주민",
+        "count": 25
+      },
+      {
+        "word": "오세훈",
+        "count": 24
+      },
+      {
+        "word": "서울시장",
+        "count": 23
+      },
+      {
+        "word": "현안",
+        "count": 22
+      },
+      {
+        "word": "출마",
+        "count": 22
+      },
+      {
+        "word": "지방선거",
+        "count": 22
+      },
+      {
+        "word": "홍익표",
+        "count": 19
+      },
+      {
+        "word": "대통령",
+        "count": 17
+      },
+      {
+        "word": "추석",
+        "count": 16
+      },
+      {
+        "word": "하고",
+        "count": 15
+      }
+    ]
+  },
+  "중랑구": {
+    "politician": "서영교",
+    "analysis_date": "20251009",
+    "total_news": 100,
+    "top_keywords": [
+      {
+        "word": "서영교",
+        "count": 159
+      },
+      {
+        "word": "조희대",
+        "count": 77
+      },
+      {
+        "word": "더불어민주당",
+        "count": 58
+      },
+      {
+        "word": "나경원",
+        "count": 58
+      },
+      {
+        "word": "송언석",
+        "count": 57
+      },
+      {
+        "word": "녹취",
+        "count": 56
+      },
+      {
+        "word": "회동",
+        "count": 53
+      },
+      {
+        "word": "국민의힘",
+        "count": 53
+      },
+      {
+        "word": "한덕수",
+        "count": 42
+      },
+      {
+        "word": "민주당",
+        "count": 34
+      },
+      {
+        "word": "전현희",
+        "count": 33
+      },
+      {
+        "word": "유상범",
+        "count": 33
+      },
+      {
+        "word": "원내대표",
+        "count": 30
+      },
+      {
+        "word": "박홍근",
+        "count": 28
+      },
+      {
+        "word": "고소",
+        "count": 28
+      },
+      {
+        "word": "자신",
+        "count": 27
+      },
+      {
+        "word": "제기한",
+        "count": 26
+      },
+      {
+        "word": "박주민",
+        "count": 25
+      },
+      {
+        "word": "출마",
+        "count": 23
+      },
+      {
+        "word": "인공지능",
+        "count": 23
+      }
+    ]
+  }
+}

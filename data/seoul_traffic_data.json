@@ -1,0 +1,402 @@
+{
+  "강남구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 263148318,
+        "bus_usage": 93477395,
+        "subway_usage": 139523472,
+        "taxi_usage": 30147451
+      },
+      "2023": {
+        "total_usage": 263148318,
+        "bus_usage": 93477395,
+        "subway_usage": 139523472,
+        "taxi_usage": 30147451
+      }
+    }
+  },
+  "강동구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 87515237,
+        "bus_usage": 32292610,
+        "subway_usage": 45671791,
+        "taxi_usage": 9550836
+      },
+      "2023": {
+        "total_usage": 87515237,
+        "bus_usage": 32292610,
+        "subway_usage": 45671791,
+        "taxi_usage": 9550836
+      }
+    }
+  },
+  "강북구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 88255787,
+        "bus_usage": 54255008,
+        "subway_usage": 28068271,
+        "taxi_usage": 5932508
+      },
+      "2023": {
+        "total_usage": 88255787,
+        "bus_usage": 54255008,
+        "subway_usage": 28068271,
+        "taxi_usage": 5932508
+      }
+    }
+  },
+  "강서구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 125896852,
+        "bus_usage": 52107668,
+        "subway_usage": 62794479,
+        "taxi_usage": 10994705
+      },
+      "2023": {
+        "total_usage": 125896852,
+        "bus_usage": 52107668,
+        "subway_usage": 62794479,
+        "taxi_usage": 10994705
+      }
+    }
+  },
+  "관악구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 166188364,
+        "bus_usage": 81960533,
+        "subway_usage": 75428105,
+        "taxi_usage": 8799726
+      },
+      "2023": {
+        "total_usage": 166188364,
+        "bus_usage": 81960533,
+        "subway_usage": 75428105,
+        "taxi_usage": 8799726
+      }
+    }
+  },
+  "광진구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 95731490,
+        "bus_usage": 29859594,
+        "subway_usage": 56633974,
+        "taxi_usage": 9237922
+      },
+      "2023": {
+        "total_usage": 95731490,
+        "bus_usage": 29859594,
+        "subway_usage": 56633974,
+        "taxi_usage": 9237922
+      }
+    }
+  },
+  "구로구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 123387880,
+        "bus_usage": 60237240,
+        "subway_usage": 56036771,
+        "taxi_usage": 7113869
+      },
+      "2023": {
+        "total_usage": 123387880,
+        "bus_usage": 60237240,
+        "subway_usage": 56036771,
+        "taxi_usage": 7113869
+      }
+    }
+  },
+  "금천구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 66752284,
+        "bus_usage": 42139004,
+        "subway_usage": 19830665,
+        "taxi_usage": 4782615
+      },
+      "2023": {
+        "total_usage": 66752284,
+        "bus_usage": 42139004,
+        "subway_usage": 19830665,
+        "taxi_usage": 4782615
+      }
+    }
+  },
+  "노원구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 108740071,
+        "bus_usage": 46165813,
+        "subway_usage": 52909026,
+        "taxi_usage": 9665232
+      },
+      "2023": {
+        "total_usage": 108740071,
+        "bus_usage": 46165813,
+        "subway_usage": 52909026,
+        "taxi_usage": 9665232
+      }
+    }
+  },
+  "도봉구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 67739876,
+        "bus_usage": 37019485,
+        "subway_usage": 25198610,
+        "taxi_usage": 5521781
+      },
+      "2023": {
+        "total_usage": 67739876,
+        "bus_usage": 37019485,
+        "subway_usage": 25198610,
+        "taxi_usage": 5521781
+      }
+    }
+  },
+  "동대문구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 97942712,
+        "bus_usage": 57791744,
+        "subway_usage": 31218408,
+        "taxi_usage": 8932560
+      },
+      "2023": {
+        "total_usage": 97942712,
+        "bus_usage": 57791744,
+        "subway_usage": 31218408,
+        "taxi_usage": 8932560
+      }
+    }
+  },
+  "동작구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 109377406,
+        "bus_usage": 58188663,
+        "subway_usage": 45706535,
+        "taxi_usage": 5482208
+      },
+      "2023": {
+        "total_usage": 109377406,
+        "bus_usage": 58188663,
+        "subway_usage": 45706535,
+        "taxi_usage": 5482208
+      }
+    }
+  },
+  "마포구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 148131112,
+        "bus_usage": 56944960,
+        "subway_usage": 78992624,
+        "taxi_usage": 12193528
+      },
+      "2023": {
+        "total_usage": 148131112,
+        "bus_usage": 56944960,
+        "subway_usage": 78992624,
+        "taxi_usage": 12193528
+      }
+    }
+  },
+  "서대문구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 95958124,
+        "bus_usage": 60695355,
+        "subway_usage": 28742860,
+        "taxi_usage": 6519909
+      },
+      "2023": {
+        "total_usage": 95958124,
+        "bus_usage": 60695355,
+        "subway_usage": 28742860,
+        "taxi_usage": 6519909
+      }
+    }
+  },
+  "서초구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 191318304,
+        "bus_usage": 72872287,
+        "subway_usage": 104225039,
+        "taxi_usage": 14220978
+      },
+      "2023": {
+        "total_usage": 191318304,
+        "bus_usage": 72872287,
+        "subway_usage": 104225039,
+        "taxi_usage": 14220978
+      }
+    }
+  },
+  "성동구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 96087425,
+        "bus_usage": 31552270,
+        "subway_usage": 56470250,
+        "taxi_usage": 8064905
+      },
+      "2023": {
+        "total_usage": 96087425,
+        "bus_usage": 31552270,
+        "subway_usage": 56470250,
+        "taxi_usage": 8064905
+      }
+    }
+  },
+  "성북구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 112791260,
+        "bus_usage": 67929727,
+        "subway_usage": 37822410,
+        "taxi_usage": 7039123
+      },
+      "2023": {
+        "total_usage": 112791260,
+        "bus_usage": 67929727,
+        "subway_usage": 37822410,
+        "taxi_usage": 7039123
+      }
+    }
+  },
+  "송파구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 166423657,
+        "bus_usage": 60517668,
+        "subway_usage": 89719740,
+        "taxi_usage": 16186249
+      },
+      "2023": {
+        "total_usage": 166423657,
+        "bus_usage": 60517668,
+        "subway_usage": 89719740,
+        "taxi_usage": 16186249
+      }
+    }
+  },
+  "양천구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 83179122,
+        "bus_usage": 46183700,
+        "subway_usage": 30359568,
+        "taxi_usage": 6635854
+      },
+      "2023": {
+        "total_usage": 83179122,
+        "bus_usage": 46183700,
+        "subway_usage": 30359568,
+        "taxi_usage": 6635854
+      }
+    }
+  },
+  "영등포구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 157499505,
+        "bus_usage": 61964048,
+        "subway_usage": 81402306,
+        "taxi_usage": 14133151
+      },
+      "2023": {
+        "total_usage": 157499505,
+        "bus_usage": 61964048,
+        "subway_usage": 81402306,
+        "taxi_usage": 14133151
+      }
+    }
+  },
+  "용산구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 87031985,
+        "bus_usage": 43905878,
+        "subway_usage": 32335411,
+        "taxi_usage": 10790696
+      },
+      "2023": {
+        "total_usage": 87031985,
+        "bus_usage": 43905878,
+        "subway_usage": 32335411,
+        "taxi_usage": 10790696
+      }
+    }
+  },
+  "은평구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 110416503,
+        "bus_usage": 57517380,
+        "subway_usage": 45319869,
+        "taxi_usage": 7579254
+      },
+      "2023": {
+        "total_usage": 110416503,
+        "bus_usage": 57517380,
+        "subway_usage": 45319869,
+        "taxi_usage": 7579254
+      }
+    }
+  },
+  "종로구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 141759969,
+        "bus_usage": 57821751,
+        "subway_usage": 75771163,
+        "taxi_usage": 8167055
+      },
+      "2023": {
+        "total_usage": 141759969,
+        "bus_usage": 57821751,
+        "subway_usage": 75771163,
+        "taxi_usage": 8167055
+      }
+    }
+  },
+  "중구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 149856039,
+        "bus_usage": 39190006,
+        "subway_usage": 100938579,
+        "taxi_usage": 9727454
+      },
+      "2023": {
+        "total_usage": 149856039,
+        "bus_usage": 39190006,
+        "subway_usage": 100938579,
+        "taxi_usage": 9727454
+      }
+    }
+  },
+  "중랑구": {
+    "yearly_data": {
+      "2024": {
+        "total_usage": 79293944,
+        "bus_usage": 41568031,
+        "subway_usage": 29571182,
+        "taxi_usage": 8154731
+      },
+      "2023": {
+        "total_usage": 79293944,
+        "bus_usage": 41568031,
+        "subway_usage": 29571182,
+        "taxi_usage": 8154731
+      }
+    }
+  }
+}

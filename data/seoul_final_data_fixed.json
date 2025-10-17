@@ -1,0 +1,5762 @@
+{
+  "metadata": {
+    "created_at": "2024-10-02",
+    "data_year": 2024,
+    "total_dongs": 772,
+    "description": "서울시 동별 통합 데이터 (동 우선, 구 fallback)"
+  },
+  "regions": {
+    "nan_미분류": {
+      "admin_dong_code": "1100000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": null,
+      "dong_name": "nan_미분류",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "종로구_미분류": {
+      "admin_dong_code": "1111000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "종로구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 149608,
+        "male_population": 71365,
+        "female_population": 78243,
+        "household_count": 72166,
+        "male_ratio": 47.7,
+        "female_ratio": 52.3,
+        "avg_household_size": 2.07
+      }
+    },
+    "청운효자동": {
+      "admin_dong_code": "1111051500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "청운효자동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 11158,
+        "male_population": 5097,
+        "female_population": 6061,
+        "household_count": 4954,
+        "male_ratio": 45.7,
+        "female_ratio": 54.3,
+        "avg_household_size": 2.25
+      }
+    },
+    "사직동": {
+      "admin_dong_code": "1111053000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "사직동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 9208,
+        "male_population": 4105,
+        "female_population": 5103,
+        "household_count": 4557,
+        "male_ratio": 44.6,
+        "female_ratio": 55.4,
+        "avg_household_size": 2.02
+      }
+    },
+    "삼청동": {
+      "admin_dong_code": "1111054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "삼청동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 2460,
+        "male_population": 1191,
+        "female_population": 1269,
+        "household_count": 1107,
+        "male_ratio": 48.4,
+        "female_ratio": 51.6,
+        "avg_household_size": 2.22
+      }
+    },
+    "부암동": {
+      "admin_dong_code": "1111055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "부암동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 9318,
+        "male_population": 4371,
+        "female_population": 4947,
+        "household_count": 4135,
+        "male_ratio": 46.9,
+        "female_ratio": 53.1,
+        "avg_household_size": 2.25
+      }
+    },
+    "평창동": {
+      "admin_dong_code": "1111056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "평창동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17454,
+        "male_population": 8103,
+        "female_population": 9351,
+        "household_count": 7134,
+        "male_ratio": 46.4,
+        "female_ratio": 53.6,
+        "avg_household_size": 2.45
+      }
+    },
+    "무악동": {
+      "admin_dong_code": "1111057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "무악동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 7867,
+        "male_population": 3604,
+        "female_population": 4263,
+        "household_count": 2986,
+        "male_ratio": 45.8,
+        "female_ratio": 54.2,
+        "avg_household_size": 2.63
+      }
+    },
+    "교남동": {
+      "admin_dong_code": "1111058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "교남동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 9713,
+        "male_population": 4480,
+        "female_population": 5233,
+        "household_count": 4302,
+        "male_ratio": 46.1,
+        "female_ratio": 53.9,
+        "avg_household_size": 2.26
+      }
+    },
+    "가회동": {
+      "admin_dong_code": "1111060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "가회동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 3882,
+        "male_population": 1825,
+        "female_population": 2057,
+        "household_count": 1875,
+        "male_ratio": 47.0,
+        "female_ratio": 53.0,
+        "avg_household_size": 2.07
+      }
+    },
+    "종로1.2.3.4가동": {
+      "admin_dong_code": "1111061500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "종로1.2.3.4가동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 8549,
+        "male_population": 4931,
+        "female_population": 3618,
+        "household_count": 4898,
+        "male_ratio": 57.7,
+        "female_ratio": 42.3,
+        "avg_household_size": 1.75
+      }
+    },
+    "종로5.6가동": {
+      "admin_dong_code": "1111063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "종로5.6가동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 5852,
+        "male_population": 3056,
+        "female_population": 2796,
+        "household_count": 3533,
+        "male_ratio": 52.2,
+        "female_ratio": 47.8,
+        "avg_household_size": 1.66
+      }
+    },
+    "이화동": {
+      "admin_dong_code": "1111064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "이화동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 7533,
+        "male_population": 3480,
+        "female_population": 4053,
+        "household_count": 4350,
+        "male_ratio": 46.2,
+        "female_ratio": 53.8,
+        "avg_household_size": 1.73
+      }
+    },
+    "혜화동": {
+      "admin_dong_code": "1111065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "혜화동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19023,
+        "male_population": 8591,
+        "female_population": 10432,
+        "household_count": 9138,
+        "male_ratio": 45.2,
+        "female_ratio": 54.8,
+        "avg_household_size": 2.08
+      }
+    },
+    "창신제1동": {
+      "admin_dong_code": "1111067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "창신제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "창신제2동": {
+      "admin_dong_code": "1111068000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "창신제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "창신제3동": {
+      "admin_dong_code": "1111069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "창신제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "숭인제1동": {
+      "admin_dong_code": "1111070000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "숭인제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "숭인제2동": {
+      "admin_dong_code": "1111071000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "종로구",
+      "dong_name": "숭인제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "중구_미분류": {
+      "admin_dong_code": "1114000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "중구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 131214,
+        "male_population": 62924,
+        "female_population": 68290,
+        "household_count": 64995,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.02
+      }
+    },
+    "소공동": {
+      "admin_dong_code": "1114052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "소공동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 3495,
+        "male_population": 1717,
+        "female_population": 1778,
+        "household_count": 1243,
+        "male_ratio": 49.1,
+        "female_ratio": 50.9,
+        "avg_household_size": 2.81
+      }
+    },
+    "회현동": {
+      "admin_dong_code": "1114054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "회현동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 4979,
+        "male_population": 2581,
+        "female_population": 2398,
+        "household_count": 2480,
+        "male_ratio": 51.8,
+        "female_ratio": 48.2,
+        "avg_household_size": 2.01
+      }
+    },
+    "명동": {
+      "admin_dong_code": "1114055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "명동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 3381,
+        "male_population": 1475,
+        "female_population": 1906,
+        "household_count": 1331,
+        "male_ratio": 43.6,
+        "female_ratio": 56.4,
+        "avg_household_size": 2.54
+      }
+    },
+    "필동": {
+      "admin_dong_code": "1114057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "필동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 5328,
+        "male_population": 2614,
+        "female_population": 2714,
+        "household_count": 2780,
+        "male_ratio": 49.1,
+        "female_ratio": 50.9,
+        "avg_household_size": 1.92
+      }
+    },
+    "장충동": {
+      "admin_dong_code": "1114058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "장충동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 5499,
+        "male_population": 2772,
+        "female_population": 2727,
+        "household_count": 2864,
+        "male_ratio": 50.4,
+        "female_ratio": 49.6,
+        "avg_household_size": 1.92
+      }
+    },
+    "광희동": {
+      "admin_dong_code": "1114059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "광희동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 7088,
+        "male_population": 3437,
+        "female_population": 3651,
+        "household_count": 3949,
+        "male_ratio": 48.5,
+        "female_ratio": 51.5,
+        "avg_household_size": 1.79
+      }
+    },
+    "을지로동": {
+      "admin_dong_code": "1114060500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "을지로동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 3449,
+        "male_population": 1841,
+        "female_population": 1608,
+        "household_count": 2113,
+        "male_ratio": 53.4,
+        "female_ratio": 46.6,
+        "avg_household_size": 1.63
+      }
+    },
+    "신당동": {
+      "admin_dong_code": "1114061500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "신당동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 8862,
+        "male_population": 4234,
+        "female_population": 4628,
+        "household_count": 4706,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 1.88
+      }
+    },
+    "다산동": {
+      "admin_dong_code": "1114062500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "다산동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 13510,
+        "male_population": 6507,
+        "female_population": 7003,
+        "household_count": 6724,
+        "male_ratio": 48.2,
+        "female_ratio": 51.8,
+        "avg_household_size": 2.01
+      }
+    },
+    "약수동": {
+      "admin_dong_code": "1114063500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "약수동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16167,
+        "male_population": 7434,
+        "female_population": 8733,
+        "household_count": 7711,
+        "male_ratio": 46.0,
+        "female_ratio": 54.0,
+        "avg_household_size": 2.1
+      }
+    },
+    "청구동": {
+      "admin_dong_code": "1114064500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "청구동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 12626,
+        "male_population": 5911,
+        "female_population": 6715,
+        "household_count": 5896,
+        "male_ratio": 46.8,
+        "female_ratio": 53.2,
+        "avg_household_size": 2.14
+      }
+    },
+    "신당제5동": {
+      "admin_dong_code": "1114065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "신당제5동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "동화동": {
+      "admin_dong_code": "1114066500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "동화동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 9991,
+        "male_population": 4795,
+        "female_population": 5196,
+        "household_count": 3981,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.51
+      }
+    },
+    "황학동": {
+      "admin_dong_code": "1114067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "황학동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 13991,
+        "male_population": 6530,
+        "female_population": 7461,
+        "household_count": 7859,
+        "male_ratio": 46.7,
+        "female_ratio": 53.3,
+        "avg_household_size": 1.78
+      }
+    },
+    "중림동": {
+      "admin_dong_code": "1114068000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중구",
+      "dong_name": "중림동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 12405,
+        "male_population": 6034,
+        "female_population": 6371,
+        "household_count": 5946,
+        "male_ratio": 48.6,
+        "female_ratio": 51.4,
+        "avg_household_size": 2.09
+      }
+    },
+    "용산구_미분류": {
+      "admin_dong_code": "1117000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "용산구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 217194,
+        "male_population": 104540,
+        "female_population": 112654,
+        "household_count": 103241,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 2.1
+      }
+    },
+    "후암동": {
+      "admin_dong_code": "1117051000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "후암동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16283,
+        "male_population": 7838,
+        "female_population": 8445,
+        "household_count": 8272,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 1.97
+      }
+    },
+    "용산2가동": {
+      "admin_dong_code": "1117052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "용산2가동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 10104,
+        "male_population": 4942,
+        "female_population": 5162,
+        "household_count": 4985,
+        "male_ratio": 48.9,
+        "female_ratio": 51.1,
+        "avg_household_size": 2.03
+      }
+    },
+    "남영동": {
+      "admin_dong_code": "1117053000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "남영동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 7258,
+        "male_population": 4374,
+        "female_population": 2884,
+        "household_count": 4804,
+        "male_ratio": 60.3,
+        "female_ratio": 39.7,
+        "avg_household_size": 1.51
+      }
+    },
+    "청파동": {
+      "admin_dong_code": "1117055500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "청파동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19343,
+        "male_population": 8830,
+        "female_population": 10513,
+        "household_count": 11143,
+        "male_ratio": 45.6,
+        "female_ratio": 54.4,
+        "avg_household_size": 1.74
+      }
+    },
+    "원효로제1동": {
+      "admin_dong_code": "1117056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "원효로제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "원효로제2동": {
+      "admin_dong_code": "1117057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "원효로제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "효창동": {
+      "admin_dong_code": "1117058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "효창동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 10646,
+        "male_population": 4975,
+        "female_population": 5671,
+        "household_count": 4692,
+        "male_ratio": 46.7,
+        "female_ratio": 53.3,
+        "avg_household_size": 2.27
+      }
+    },
+    "용문동": {
+      "admin_dong_code": "1117059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "용문동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 11268,
+        "male_population": 5305,
+        "female_population": 5963,
+        "household_count": 5271,
+        "male_ratio": 47.1,
+        "female_ratio": 52.9,
+        "avg_household_size": 2.14
+      }
+    },
+    "한강로동": {
+      "admin_dong_code": "1117062500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "한강로동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 22642,
+        "male_population": 10825,
+        "female_population": 11817,
+        "household_count": 11223,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.02
+      }
+    },
+    "이촌제1동": {
+      "admin_dong_code": "1117063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "이촌제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "이촌제2동": {
+      "admin_dong_code": "1117064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "이촌제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "이태원제1동": {
+      "admin_dong_code": "1117065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "이태원제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "이태원제2동": {
+      "admin_dong_code": "1117066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "이태원제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "한남동": {
+      "admin_dong_code": "1117068500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "한남동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 15947,
+        "male_population": 7659,
+        "female_population": 8288,
+        "household_count": 7160,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.23
+      }
+    },
+    "서빙고동": {
+      "admin_dong_code": "1117069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "서빙고동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 13175,
+        "male_population": 6370,
+        "female_population": 6805,
+        "household_count": 5101,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 2.58
+      }
+    },
+    "보광동": {
+      "admin_dong_code": "1117070000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "용산구",
+      "dong_name": "보광동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 8167,
+        "male_population": 4281,
+        "female_population": 3886,
+        "household_count": 4099,
+        "male_ratio": 52.4,
+        "female_ratio": 47.6,
+        "avg_household_size": 1.99
+      }
+    },
+    "성동구_미분류": {
+      "admin_dong_code": "1120000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "성동구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 281289,
+        "male_population": 135575,
+        "female_population": 145714,
+        "household_count": 131953,
+        "male_ratio": 48.2,
+        "female_ratio": 51.8,
+        "avg_household_size": 2.13
+      }
+    },
+    "왕십리제2동": {
+      "admin_dong_code": "1120052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "왕십리제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "왕십리도선동": {
+      "admin_dong_code": "1120053500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "왕십리도선동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 26544,
+        "male_population": 12434,
+        "female_population": 14110,
+        "household_count": 12128,
+        "male_ratio": 46.8,
+        "female_ratio": 53.2,
+        "avg_household_size": 2.19
+      }
+    },
+    "마장동": {
+      "admin_dong_code": "1120054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "마장동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 22074,
+        "male_population": 10742,
+        "female_population": 11332,
+        "household_count": 10795,
+        "male_ratio": 48.7,
+        "female_ratio": 51.3,
+        "avg_household_size": 2.04
+      }
+    },
+    "사근동": {
+      "admin_dong_code": "1120055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "사근동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14134,
+        "male_population": 7031,
+        "female_population": 7103,
+        "household_count": 8192,
+        "male_ratio": 49.7,
+        "female_ratio": 50.3,
+        "avg_household_size": 1.73
+      }
+    },
+    "행당제1동": {
+      "admin_dong_code": "1120056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "행당제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "행당제2동": {
+      "admin_dong_code": "1120057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "행당제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "응봉동": {
+      "admin_dong_code": "1120058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "응봉동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14798,
+        "male_population": 7013,
+        "female_population": 7785,
+        "household_count": 5909,
+        "male_ratio": 47.4,
+        "female_ratio": 52.6,
+        "avg_household_size": 2.5
+      }
+    },
+    "금호1가동": {
+      "admin_dong_code": "1120059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "금호1가동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14680,
+        "male_population": 6957,
+        "female_population": 7723,
+        "household_count": 6429,
+        "male_ratio": 47.4,
+        "female_ratio": 52.6,
+        "avg_household_size": 2.28
+      }
+    },
+    "금호2.3가동": {
+      "admin_dong_code": "1120061500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "금호2.3가동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21329,
+        "male_population": 10131,
+        "female_population": 11198,
+        "household_count": 9554,
+        "male_ratio": 47.5,
+        "female_ratio": 52.5,
+        "avg_household_size": 2.23
+      }
+    },
+    "금호4가동": {
+      "admin_dong_code": "1120062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "금호4가동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14235,
+        "male_population": 6716,
+        "female_population": 7519,
+        "household_count": 6395,
+        "male_ratio": 47.2,
+        "female_ratio": 52.8,
+        "avg_household_size": 2.23
+      }
+    },
+    "옥수동": {
+      "admin_dong_code": "1120064500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "옥수동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25548,
+        "male_population": 11844,
+        "female_population": 13704,
+        "household_count": 10714,
+        "male_ratio": 46.4,
+        "female_ratio": 53.6,
+        "avg_household_size": 2.38
+      }
+    },
+    "성수1가제1동": {
+      "admin_dong_code": "1120065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "성수1가제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "성수1가제2동": {
+      "admin_dong_code": "1120066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "성수1가제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "성수2가제1동": {
+      "admin_dong_code": "1120067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "성수2가제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "성수2가제3동": {
+      "admin_dong_code": "1120069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "성수2가제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "송정동": {
+      "admin_dong_code": "1120072000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "송정동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 9900,
+        "male_population": 5169,
+        "female_population": 4731,
+        "household_count": 5259,
+        "male_ratio": 52.2,
+        "female_ratio": 47.8,
+        "avg_household_size": 1.88
+      }
+    },
+    "용답동": {
+      "admin_dong_code": "1120079000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성동구",
+      "dong_name": "용답동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 13044,
+        "male_population": 6617,
+        "female_population": 6427,
+        "household_count": 7831,
+        "male_ratio": 50.7,
+        "female_ratio": 49.3,
+        "avg_household_size": 1.67
+      }
+    },
+    "광진구_미분류": {
+      "admin_dong_code": "1121500000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "광진구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 348652,
+        "male_population": 166045,
+        "female_population": 182607,
+        "household_count": 169931,
+        "male_ratio": 47.6,
+        "female_ratio": 52.4,
+        "avg_household_size": 2.05
+      }
+    },
+    "화양동": {
+      "admin_dong_code": "1121571000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "화양동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 27761,
+        "male_population": 12399,
+        "female_population": 15362,
+        "household_count": 18011,
+        "male_ratio": 44.7,
+        "female_ratio": 55.3,
+        "avg_household_size": 1.54
+      }
+    },
+    "군자동": {
+      "admin_dong_code": "1121573000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "군자동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21431,
+        "male_population": 10454,
+        "female_population": 10977,
+        "household_count": 11223,
+        "male_ratio": 48.8,
+        "female_ratio": 51.2,
+        "avg_household_size": 1.91
+      }
+    },
+    "중곡제1동": {
+      "admin_dong_code": "1121574000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "중곡제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "중곡제2동": {
+      "admin_dong_code": "1121575000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "중곡제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "중곡제3동": {
+      "admin_dong_code": "1121576000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "중곡제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "중곡제4동": {
+      "admin_dong_code": "1121577000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "중곡제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "능동": {
+      "admin_dong_code": "1121578000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "능동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 11354,
+        "male_population": 5231,
+        "female_population": 6123,
+        "household_count": 6452,
+        "male_ratio": 46.1,
+        "female_ratio": 53.9,
+        "avg_household_size": 1.76
+      }
+    },
+    "광장동": {
+      "admin_dong_code": "1121581000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "광장동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 34040,
+        "male_population": 16398,
+        "female_population": 17642,
+        "household_count": 11863,
+        "male_ratio": 48.2,
+        "female_ratio": 51.8,
+        "avg_household_size": 2.87
+      }
+    },
+    "자양제1동": {
+      "admin_dong_code": "1121582000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "자양제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "자양제2동": {
+      "admin_dong_code": "1121583000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "자양제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "자양제3동": {
+      "admin_dong_code": "1121584000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "자양제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "자양제4동": {
+      "admin_dong_code": "1121584700",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "자양제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "구의제1동": {
+      "admin_dong_code": "1121585000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "구의제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "구의제2동": {
+      "admin_dong_code": "1121586000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "구의제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "구의제3동": {
+      "admin_dong_code": "1121587000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "광진구",
+      "dong_name": "구의제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "동대문구_미분류": {
+      "admin_dong_code": "1123000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "동대문구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 358603,
+        "male_population": 173000,
+        "female_population": 185603,
+        "household_count": 172840,
+        "male_ratio": 48.2,
+        "female_ratio": 51.8,
+        "avg_household_size": 2.07
+      }
+    },
+    "신설동": {
+      "admin_dong_code": "1123051500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "신설동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "용두동": {
+      "admin_dong_code": "1123053300",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "용두동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "제기동": {
+      "admin_dong_code": "1123054500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "제기동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25461,
+        "male_population": 12628,
+        "female_population": 12833,
+        "household_count": 13086,
+        "male_ratio": 49.6,
+        "female_ratio": 50.4,
+        "avg_household_size": 1.95
+      }
+    },
+    "전농제1동": {
+      "admin_dong_code": "1123056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "전농제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "전농제2동": {
+      "admin_dong_code": "1123057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "전농제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "답십리제1동": {
+      "admin_dong_code": "1123060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "답십리제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "답십리제2동": {
+      "admin_dong_code": "1123061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "답십리제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "장안제1동": {
+      "admin_dong_code": "1123065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "장안제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "장안제2동": {
+      "admin_dong_code": "1123066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "장안제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "청량리동": {
+      "admin_dong_code": "1123070500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "청량리동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19130,
+        "male_population": 9357,
+        "female_population": 9773,
+        "household_count": 10059,
+        "male_ratio": 48.9,
+        "female_ratio": 51.1,
+        "avg_household_size": 1.9
+      }
+    },
+    "회기동": {
+      "admin_dong_code": "1123071000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "회기동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 13517,
+        "male_population": 6016,
+        "female_population": 7501,
+        "household_count": 6552,
+        "male_ratio": 44.5,
+        "female_ratio": 55.5,
+        "avg_household_size": 2.06
+      }
+    },
+    "휘경제1동": {
+      "admin_dong_code": "1123072000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "휘경제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "휘경제2동": {
+      "admin_dong_code": "1123073000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "휘경제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "이문제1동": {
+      "admin_dong_code": "1123074000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "이문제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "이문제2동": {
+      "admin_dong_code": "1123075000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동대문구",
+      "dong_name": "이문제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "중랑구_미분류": {
+      "admin_dong_code": "1126000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "중랑구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 385349,
+        "male_population": 187910,
+        "female_population": 197439,
+        "household_count": 188651,
+        "male_ratio": 48.8,
+        "female_ratio": 51.2,
+        "avg_household_size": 2.04
+      }
+    },
+    "면목제2동": {
+      "admin_dong_code": "1126052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "면목제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "면목제4동": {
+      "admin_dong_code": "1126054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "면목제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "면목제5동": {
+      "admin_dong_code": "1126055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "면목제5동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "면목본동": {
+      "admin_dong_code": "1126056500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "면목본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 33216,
+        "male_population": 16267,
+        "female_population": 16949,
+        "household_count": 17812,
+        "male_ratio": 49.0,
+        "female_ratio": 51.0,
+        "avg_household_size": 1.86
+      }
+    },
+    "면목제7동": {
+      "admin_dong_code": "1126057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "면목제7동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "면목제3.8동": {
+      "admin_dong_code": "1126057500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "면목제3.8동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "상봉제1동": {
+      "admin_dong_code": "1126058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "상봉제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "상봉제2동": {
+      "admin_dong_code": "1126059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "상봉제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "중화제1동": {
+      "admin_dong_code": "1126060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "중화제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "중화제2동": {
+      "admin_dong_code": "1126061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "중화제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "묵제1동": {
+      "admin_dong_code": "1126062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "묵제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "묵제2동": {
+      "admin_dong_code": "1126063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "묵제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "망우본동": {
+      "admin_dong_code": "1126065500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "망우본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 38684,
+        "male_population": 18981,
+        "female_population": 19703,
+        "household_count": 18855,
+        "male_ratio": 49.1,
+        "female_ratio": 50.9,
+        "avg_household_size": 2.05
+      }
+    },
+    "망우제3동": {
+      "admin_dong_code": "1126066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "망우제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "신내1동": {
+      "admin_dong_code": "1126068000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "신내1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 37308,
+        "male_population": 17916,
+        "female_population": 19392,
+        "household_count": 14723,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.53
+      }
+    },
+    "신내2동": {
+      "admin_dong_code": "1126069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "중랑구",
+      "dong_name": "신내2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19417,
+        "male_population": 9132,
+        "female_population": 10285,
+        "household_count": 8872,
+        "male_ratio": 47.0,
+        "female_ratio": 53.0,
+        "avg_household_size": 2.19
+      }
+    },
+    "성북구_미분류": {
+      "admin_dong_code": "1129000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "성북구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 435037,
+        "male_population": 206945,
+        "female_population": 228092,
+        "household_count": 196485,
+        "male_ratio": 47.6,
+        "female_ratio": 52.4,
+        "avg_household_size": 2.21
+      }
+    },
+    "성북동": {
+      "admin_dong_code": "1129052500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "성북동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16401,
+        "male_population": 7645,
+        "female_population": 8756,
+        "household_count": 8086,
+        "male_ratio": 46.6,
+        "female_ratio": 53.4,
+        "avg_household_size": 2.03
+      }
+    },
+    "삼선동": {
+      "admin_dong_code": "1129055500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "삼선동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 22569,
+        "male_population": 10586,
+        "female_population": 11983,
+        "household_count": 11431,
+        "male_ratio": 46.9,
+        "female_ratio": 53.1,
+        "avg_household_size": 1.97
+      }
+    },
+    "동선동": {
+      "admin_dong_code": "1129057500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "동선동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 15985,
+        "male_population": 6364,
+        "female_population": 9621,
+        "household_count": 9734,
+        "male_ratio": 39.8,
+        "female_ratio": 60.2,
+        "avg_household_size": 1.64
+      }
+    },
+    "돈암제1동": {
+      "admin_dong_code": "1129058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "돈암제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "돈암제2동": {
+      "admin_dong_code": "1129059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "돈암제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "안암동": {
+      "admin_dong_code": "1129060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "안암동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17792,
+        "male_population": 8507,
+        "female_population": 9285,
+        "household_count": 10082,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 1.76
+      }
+    },
+    "보문동": {
+      "admin_dong_code": "1129061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "보문동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16482,
+        "male_population": 7887,
+        "female_population": 8595,
+        "household_count": 8128,
+        "male_ratio": 47.9,
+        "female_ratio": 52.1,
+        "avg_household_size": 2.03
+      }
+    },
+    "정릉제1동": {
+      "admin_dong_code": "1129062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "정릉제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "정릉제2동": {
+      "admin_dong_code": "1129063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "정릉제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "정릉제3동": {
+      "admin_dong_code": "1129064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "정릉제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "정릉제4동": {
+      "admin_dong_code": "1129065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "정릉제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "길음제1동": {
+      "admin_dong_code": "1129066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "길음제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "길음제2동": {
+      "admin_dong_code": "1129068500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "길음제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "종암동": {
+      "admin_dong_code": "1129070500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "종암동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 39230,
+        "male_population": 19096,
+        "female_population": 20134,
+        "household_count": 16929,
+        "male_ratio": 48.7,
+        "female_ratio": 51.3,
+        "avg_household_size": 2.32
+      }
+    },
+    "월곡제1동": {
+      "admin_dong_code": "1129071500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "월곡제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "월곡제2동": {
+      "admin_dong_code": "1129072500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "월곡제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "장위제1동": {
+      "admin_dong_code": "1129076000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "장위제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "장위제2동": {
+      "admin_dong_code": "1129077000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "장위제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "장위제3동": {
+      "admin_dong_code": "1129078000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "장위제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "석관동": {
+      "admin_dong_code": "1129081000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "성북구",
+      "dong_name": "석관동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 34434,
+        "male_population": 16906,
+        "female_population": 17528,
+        "household_count": 16647,
+        "male_ratio": 49.1,
+        "female_ratio": 50.9,
+        "avg_household_size": 2.07
+      }
+    },
+    "강북구_미분류": {
+      "admin_dong_code": "1130500000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "강북구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 289374,
+        "male_population": 138730,
+        "female_population": 150644,
+        "household_count": 143063,
+        "male_ratio": 47.9,
+        "female_ratio": 52.1,
+        "avg_household_size": 2.02
+      }
+    },
+    "삼양동": {
+      "admin_dong_code": "1130553400",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "삼양동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 24173,
+        "male_population": 11911,
+        "female_population": 12262,
+        "household_count": 11482,
+        "male_ratio": 49.3,
+        "female_ratio": 50.7,
+        "avg_household_size": 2.11
+      }
+    },
+    "미아동": {
+      "admin_dong_code": "1130553500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "미아동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21400,
+        "male_population": 10097,
+        "female_population": 11303,
+        "household_count": 11734,
+        "male_ratio": 47.2,
+        "female_ratio": 52.8,
+        "avg_household_size": 1.82
+      }
+    },
+    "송중동": {
+      "admin_dong_code": "1130554500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "송중동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 28643,
+        "male_population": 13599,
+        "female_population": 15044,
+        "household_count": 13691,
+        "male_ratio": 47.5,
+        "female_ratio": 52.5,
+        "avg_household_size": 2.09
+      }
+    },
+    "송천동": {
+      "admin_dong_code": "1130555500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "송천동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23828,
+        "male_population": 11760,
+        "female_population": 12068,
+        "household_count": 12395,
+        "male_ratio": 49.4,
+        "female_ratio": 50.6,
+        "avg_household_size": 1.92
+      }
+    },
+    "삼각산동": {
+      "admin_dong_code": "1130557500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "삼각산동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 30372,
+        "male_population": 14576,
+        "female_population": 15796,
+        "household_count": 11510,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.64
+      }
+    },
+    "번1동": {
+      "admin_dong_code": "1130559500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "번1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17035,
+        "male_population": 8318,
+        "female_population": 8717,
+        "household_count": 9652,
+        "male_ratio": 48.8,
+        "female_ratio": 51.2,
+        "avg_household_size": 1.76
+      }
+    },
+    "번2동": {
+      "admin_dong_code": "1130560300",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "번2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14697,
+        "male_population": 7003,
+        "female_population": 7694,
+        "household_count": 7418,
+        "male_ratio": 47.6,
+        "female_ratio": 52.4,
+        "avg_household_size": 1.98
+      }
+    },
+    "번3동": {
+      "admin_dong_code": "1130560800",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "번3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16087,
+        "male_population": 7437,
+        "female_population": 8650,
+        "household_count": 7632,
+        "male_ratio": 46.2,
+        "female_ratio": 53.8,
+        "avg_household_size": 2.11
+      }
+    },
+    "수유1동": {
+      "admin_dong_code": "1130561500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "수유1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 20036,
+        "male_population": 9693,
+        "female_population": 10343,
+        "household_count": 10479,
+        "male_ratio": 48.4,
+        "female_ratio": 51.6,
+        "avg_household_size": 1.91
+      }
+    },
+    "수유2동": {
+      "admin_dong_code": "1130562500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "수유2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 20450,
+        "male_population": 9668,
+        "female_population": 10782,
+        "household_count": 9728,
+        "male_ratio": 47.3,
+        "female_ratio": 52.7,
+        "avg_household_size": 2.1
+      }
+    },
+    "수유3동": {
+      "admin_dong_code": "1130563500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "수유3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23936,
+        "male_population": 11489,
+        "female_population": 12447,
+        "household_count": 13628,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 1.76
+      }
+    },
+    "우이동": {
+      "admin_dong_code": "1130564500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "우이동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19805,
+        "male_population": 9383,
+        "female_population": 10422,
+        "household_count": 9600,
+        "male_ratio": 47.4,
+        "female_ratio": 52.6,
+        "avg_household_size": 2.06
+      }
+    },
+    "인수동": {
+      "admin_dong_code": "1130566000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강북구",
+      "dong_name": "인수동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 28912,
+        "male_population": 13796,
+        "female_population": 15116,
+        "household_count": 14114,
+        "male_ratio": 47.7,
+        "female_ratio": 52.3,
+        "avg_household_size": 2.05
+      }
+    },
+    "도봉구_미분류": {
+      "admin_dong_code": "1132000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "도봉구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 306032,
+        "male_population": 147685,
+        "female_population": 158347,
+        "household_count": 138759,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 2.21
+      }
+    },
+    "창제1동": {
+      "admin_dong_code": "1132051100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "창제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "창제2동": {
+      "admin_dong_code": "1132051200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "창제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "창제3동": {
+      "admin_dong_code": "1132051300",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "창제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "창제4동": {
+      "admin_dong_code": "1132051400",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "창제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "창제5동": {
+      "admin_dong_code": "1132051500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "창제5동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "도봉제1동": {
+      "admin_dong_code": "1132052100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "도봉제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "도봉제2동": {
+      "admin_dong_code": "1132052200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "도봉제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "쌍문제1동": {
+      "admin_dong_code": "1132066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "쌍문제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "쌍문제2동": {
+      "admin_dong_code": "1132067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "쌍문제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "쌍문제3동": {
+      "admin_dong_code": "1132068000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "쌍문제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "쌍문제4동": {
+      "admin_dong_code": "1132068100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "쌍문제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "방학제1동": {
+      "admin_dong_code": "1132069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "방학제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "방학제2동": {
+      "admin_dong_code": "1132070000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "방학제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "방학제3동": {
+      "admin_dong_code": "1132071000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "도봉구",
+      "dong_name": "방학제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "노원구_미분류": {
+      "admin_dong_code": "1135000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "노원구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 496552,
+        "male_population": 237632,
+        "female_population": 258920,
+        "household_count": 217743,
+        "male_ratio": 47.9,
+        "female_ratio": 52.1,
+        "avg_household_size": 2.28
+      }
+    },
+    "월계1동": {
+      "admin_dong_code": "1135056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "월계1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21162,
+        "male_population": 10792,
+        "female_population": 10370,
+        "household_count": 9998,
+        "male_ratio": 51.0,
+        "female_ratio": 49.0,
+        "avg_household_size": 2.12
+      }
+    },
+    "월계2동": {
+      "admin_dong_code": "1135057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "월계2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25359,
+        "male_population": 12124,
+        "female_population": 13235,
+        "household_count": 11663,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.17
+      }
+    },
+    "월계3동": {
+      "admin_dong_code": "1135058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "월계3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 28430,
+        "male_population": 13552,
+        "female_population": 14878,
+        "household_count": 12870,
+        "male_ratio": 47.7,
+        "female_ratio": 52.3,
+        "avg_household_size": 2.21
+      }
+    },
+    "공릉1동": {
+      "admin_dong_code": "1135059500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "공릉1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 36339,
+        "male_population": 17487,
+        "female_population": 18852,
+        "household_count": 18664,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 1.95
+      }
+    },
+    "공릉2동": {
+      "admin_dong_code": "1135060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "공릉2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 42337,
+        "male_population": 20383,
+        "female_population": 21954,
+        "household_count": 17938,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 2.36
+      }
+    },
+    "하계1동": {
+      "admin_dong_code": "1135061100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "하계1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 26430,
+        "male_population": 12599,
+        "female_population": 13831,
+        "household_count": 12260,
+        "male_ratio": 47.7,
+        "female_ratio": 52.3,
+        "avg_household_size": 2.16
+      }
+    },
+    "하계2동": {
+      "admin_dong_code": "1135061200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "하계2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 20926,
+        "male_population": 9945,
+        "female_population": 10981,
+        "household_count": 8133,
+        "male_ratio": 47.5,
+        "female_ratio": 52.5,
+        "avg_household_size": 2.57
+      }
+    },
+    "중계본동": {
+      "admin_dong_code": "1135061900",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "중계본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 22671,
+        "male_population": 10984,
+        "female_population": 11687,
+        "household_count": 7964,
+        "male_ratio": 48.4,
+        "female_ratio": 51.6,
+        "avg_household_size": 2.85
+      }
+    },
+    "중계1동": {
+      "admin_dong_code": "1135062100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "중계1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 26260,
+        "male_population": 12776,
+        "female_population": 13484,
+        "household_count": 8922,
+        "male_ratio": 48.7,
+        "female_ratio": 51.3,
+        "avg_household_size": 2.94
+      }
+    },
+    "중계4동": {
+      "admin_dong_code": "1135062400",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "중계4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19064,
+        "male_population": 9226,
+        "female_population": 9838,
+        "household_count": 8177,
+        "male_ratio": 48.4,
+        "female_ratio": 51.6,
+        "avg_household_size": 2.33
+      }
+    },
+    "중계2.3동": {
+      "admin_dong_code": "1135062500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "중계2.3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 31858,
+        "male_population": 14429,
+        "female_population": 17429,
+        "household_count": 14826,
+        "male_ratio": 45.3,
+        "female_ratio": 54.7,
+        "avg_household_size": 2.15
+      }
+    },
+    "상계1동": {
+      "admin_dong_code": "1135063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "상계1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 36588,
+        "male_population": 17568,
+        "female_population": 19020,
+        "household_count": 15544,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.35
+      }
+    },
+    "상계2동": {
+      "admin_dong_code": "1135064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "상계2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19053,
+        "male_population": 9374,
+        "female_population": 9679,
+        "household_count": 8500,
+        "male_ratio": 49.2,
+        "female_ratio": 50.8,
+        "avg_household_size": 2.24
+      }
+    },
+    "상계3.4동": {
+      "admin_dong_code": "1135066500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "상계3.4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 27266,
+        "male_population": 13523,
+        "female_population": 13743,
+        "household_count": 12432,
+        "male_ratio": 49.6,
+        "female_ratio": 50.4,
+        "avg_household_size": 2.19
+      }
+    },
+    "상계5동": {
+      "admin_dong_code": "1135067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "상계5동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 22752,
+        "male_population": 11039,
+        "female_population": 11713,
+        "household_count": 10896,
+        "male_ratio": 48.5,
+        "female_ratio": 51.5,
+        "avg_household_size": 2.09
+      }
+    },
+    "상계6.7동": {
+      "admin_dong_code": "1135069500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "상계6.7동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 31174,
+        "male_population": 14341,
+        "female_population": 16833,
+        "household_count": 13899,
+        "male_ratio": 46.0,
+        "female_ratio": 54.0,
+        "avg_household_size": 2.24
+      }
+    },
+    "상계8동": {
+      "admin_dong_code": "1135070000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "상계8동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21594,
+        "male_population": 10241,
+        "female_population": 11353,
+        "household_count": 9106,
+        "male_ratio": 47.4,
+        "female_ratio": 52.6,
+        "avg_household_size": 2.37
+      }
+    },
+    "상계9동": {
+      "admin_dong_code": "1135071000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "상계9동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19317,
+        "male_population": 8995,
+        "female_population": 10322,
+        "household_count": 8341,
+        "male_ratio": 46.6,
+        "female_ratio": 53.4,
+        "avg_household_size": 2.32
+      }
+    },
+    "상계10동": {
+      "admin_dong_code": "1135072000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "노원구",
+      "dong_name": "상계10동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17972,
+        "male_population": 8254,
+        "female_population": 9718,
+        "household_count": 7610,
+        "male_ratio": 45.9,
+        "female_ratio": 54.1,
+        "avg_household_size": 2.36
+      }
+    },
+    "은평구_미분류": {
+      "admin_dong_code": "1138000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "은평구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 465350,
+        "male_population": 219994,
+        "female_population": 245356,
+        "household_count": 215305,
+        "male_ratio": 47.3,
+        "female_ratio": 52.7,
+        "avg_household_size": 2.16
+      }
+    },
+    "녹번동": {
+      "admin_dong_code": "1138051000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "녹번동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 35987,
+        "male_population": 16761,
+        "female_population": 19226,
+        "household_count": 17481,
+        "male_ratio": 46.6,
+        "female_ratio": 53.4,
+        "avg_household_size": 2.06
+      }
+    },
+    "불광제1동": {
+      "admin_dong_code": "1138052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "불광제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "불광제2동": {
+      "admin_dong_code": "1138053000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "불광제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "갈현제1동": {
+      "admin_dong_code": "1138055100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "갈현제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "갈현제2동": {
+      "admin_dong_code": "1138055200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "갈현제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "구산동": {
+      "admin_dong_code": "1138056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "구산동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 31254,
+        "male_population": 15132,
+        "female_population": 16122,
+        "household_count": 13499,
+        "male_ratio": 48.4,
+        "female_ratio": 51.6,
+        "avg_household_size": 2.32
+      }
+    },
+    "대조동": {
+      "admin_dong_code": "1138057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "대조동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 27647,
+        "male_population": 12694,
+        "female_population": 14953,
+        "household_count": 15533,
+        "male_ratio": 45.9,
+        "female_ratio": 54.1,
+        "avg_household_size": 1.78
+      }
+    },
+    "응암제1동": {
+      "admin_dong_code": "1138058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "응암제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "응암제2동": {
+      "admin_dong_code": "1138059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "응암제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "응암제3동": {
+      "admin_dong_code": "1138060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "응암제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "역촌동": {
+      "admin_dong_code": "1138062500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "역촌동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 44425,
+        "male_population": 20778,
+        "female_population": 23647,
+        "household_count": 20885,
+        "male_ratio": 46.8,
+        "female_ratio": 53.2,
+        "avg_household_size": 2.13
+      }
+    },
+    "신사제1동": {
+      "admin_dong_code": "1138063100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "신사제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "신사제2동": {
+      "admin_dong_code": "1138063200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "신사제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "증산동": {
+      "admin_dong_code": "1138064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "증산동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 15994,
+        "male_population": 7733,
+        "female_population": 8261,
+        "household_count": 6857,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 2.33
+      }
+    },
+    "수색동": {
+      "admin_dong_code": "1138065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "수색동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21348,
+        "male_population": 10283,
+        "female_population": 11065,
+        "household_count": 8522,
+        "male_ratio": 48.2,
+        "female_ratio": 51.8,
+        "avg_household_size": 2.51
+      }
+    },
+    "진관동": {
+      "admin_dong_code": "1138069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "은평구",
+      "dong_name": "진관동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 53720,
+        "male_population": 24880,
+        "female_population": 28840,
+        "household_count": 21183,
+        "male_ratio": 46.3,
+        "female_ratio": 53.7,
+        "avg_household_size": 2.54
+      }
+    },
+    "서대문구_미분류": {
+      "admin_dong_code": "1141000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "서대문구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 318622,
+        "male_population": 148227,
+        "female_population": 170395,
+        "household_count": 146221,
+        "male_ratio": 46.5,
+        "female_ratio": 53.5,
+        "avg_household_size": 2.18
+      }
+    },
+    "천연동": {
+      "admin_dong_code": "1141052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "천연동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16726,
+        "male_population": 7897,
+        "female_population": 8829,
+        "household_count": 7644,
+        "male_ratio": 47.2,
+        "female_ratio": 52.8,
+        "avg_household_size": 2.19
+      }
+    },
+    "북아현동": {
+      "admin_dong_code": "1141055500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "북아현동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 15707,
+        "male_population": 7540,
+        "female_population": 8167,
+        "household_count": 7075,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.22
+      }
+    },
+    "충현동": {
+      "admin_dong_code": "1141056500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "충현동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19929,
+        "male_population": 9556,
+        "female_population": 10373,
+        "household_count": 9979,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.0
+      }
+    },
+    "신촌동": {
+      "admin_dong_code": "1141058500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "신촌동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 27493,
+        "male_population": 10222,
+        "female_population": 17271,
+        "household_count": 15027,
+        "male_ratio": 37.2,
+        "female_ratio": 62.8,
+        "avg_household_size": 1.83
+      }
+    },
+    "연희동": {
+      "admin_dong_code": "1141061500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "연희동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 37050,
+        "male_population": 17283,
+        "female_population": 19767,
+        "household_count": 18643,
+        "male_ratio": 46.6,
+        "female_ratio": 53.4,
+        "avg_household_size": 1.99
+      }
+    },
+    "홍제제1동": {
+      "admin_dong_code": "1141062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "홍제제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "홍제제3동": {
+      "admin_dong_code": "1141064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "홍제제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "홍제제2동": {
+      "admin_dong_code": "1141065500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "홍제제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "홍은제1동": {
+      "admin_dong_code": "1141066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "홍은제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "홍은제2동": {
+      "admin_dong_code": "1141068500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "홍은제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "남가좌제1동": {
+      "admin_dong_code": "1141069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "남가좌제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "남가좌제2동": {
+      "admin_dong_code": "1141070000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "남가좌제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "북가좌제1동": {
+      "admin_dong_code": "1141071000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "북가좌제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "북가좌제2동": {
+      "admin_dong_code": "1141072000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서대문구",
+      "dong_name": "북가좌제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "마포구_미분류": {
+      "admin_dong_code": "1144000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "마포구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 372745,
+        "male_population": 172405,
+        "female_population": 200340,
+        "household_count": 181135,
+        "male_ratio": 46.3,
+        "female_ratio": 53.7,
+        "avg_household_size": 2.06
+      }
+    },
+    "아현동": {
+      "admin_dong_code": "1144055500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "아현동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 29661,
+        "male_population": 13743,
+        "female_population": 15918,
+        "household_count": 12391,
+        "male_ratio": 46.3,
+        "female_ratio": 53.7,
+        "avg_household_size": 2.39
+      }
+    },
+    "공덕동": {
+      "admin_dong_code": "1144056500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "공덕동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 36784,
+        "male_population": 17118,
+        "female_population": 19666,
+        "household_count": 18472,
+        "male_ratio": 46.5,
+        "female_ratio": 53.5,
+        "avg_household_size": 1.99
+      }
+    },
+    "도화동": {
+      "admin_dong_code": "1144058500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "도화동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 20761,
+        "male_population": 9825,
+        "female_population": 10936,
+        "household_count": 9315,
+        "male_ratio": 47.3,
+        "female_ratio": 52.7,
+        "avg_household_size": 2.23
+      }
+    },
+    "용강동": {
+      "admin_dong_code": "1144059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "용강동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21663,
+        "male_population": 10125,
+        "female_population": 11538,
+        "household_count": 9258,
+        "male_ratio": 46.7,
+        "female_ratio": 53.3,
+        "avg_household_size": 2.34
+      }
+    },
+    "대흥동": {
+      "admin_dong_code": "1144060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "대흥동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16139,
+        "male_population": 7500,
+        "female_population": 8639,
+        "household_count": 8642,
+        "male_ratio": 46.5,
+        "female_ratio": 53.5,
+        "avg_household_size": 1.87
+      }
+    },
+    "염리동": {
+      "admin_dong_code": "1144061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "염리동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17698,
+        "male_population": 8243,
+        "female_population": 9455,
+        "household_count": 7736,
+        "male_ratio": 46.6,
+        "female_ratio": 53.4,
+        "avg_household_size": 2.29
+      }
+    },
+    "신수동": {
+      "admin_dong_code": "1144063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "신수동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 22549,
+        "male_population": 10955,
+        "female_population": 11594,
+        "household_count": 10087,
+        "male_ratio": 48.6,
+        "female_ratio": 51.4,
+        "avg_household_size": 2.24
+      }
+    },
+    "서강동": {
+      "admin_dong_code": "1144065500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "서강동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25233,
+        "male_population": 11933,
+        "female_population": 13300,
+        "household_count": 12207,
+        "male_ratio": 47.3,
+        "female_ratio": 52.7,
+        "avg_household_size": 2.07
+      }
+    },
+    "서교동": {
+      "admin_dong_code": "1144066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "서교동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25986,
+        "male_population": 11480,
+        "female_population": 14506,
+        "household_count": 15199,
+        "male_ratio": 44.2,
+        "female_ratio": 55.8,
+        "avg_household_size": 1.71
+      }
+    },
+    "합정동": {
+      "admin_dong_code": "1144068000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "합정동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16394,
+        "male_population": 7503,
+        "female_population": 8891,
+        "household_count": 9109,
+        "male_ratio": 45.8,
+        "female_ratio": 54.2,
+        "avg_household_size": 1.8
+      }
+    },
+    "망원제1동": {
+      "admin_dong_code": "1144069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "망원제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "망원제2동": {
+      "admin_dong_code": "1144070000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "망원제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "연남동": {
+      "admin_dong_code": "1144071000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "연남동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 15045,
+        "male_population": 6938,
+        "female_population": 8107,
+        "household_count": 8346,
+        "male_ratio": 46.1,
+        "female_ratio": 53.9,
+        "avg_household_size": 1.8
+      }
+    },
+    "성산제1동": {
+      "admin_dong_code": "1144072000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "성산제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "성산제2동": {
+      "admin_dong_code": "1144073000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "성산제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "상암동": {
+      "admin_dong_code": "1144074000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "마포구",
+      "dong_name": "상암동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 30191,
+        "male_population": 14119,
+        "female_population": 16072,
+        "household_count": 12746,
+        "male_ratio": 46.8,
+        "female_ratio": 53.2,
+        "avg_household_size": 2.37
+      }
+    },
+    "양천구_미분류": {
+      "admin_dong_code": "1147000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "양천구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 434351,
+        "male_population": 211560,
+        "female_population": 222791,
+        "household_count": 180209,
+        "male_ratio": 48.7,
+        "female_ratio": 51.3,
+        "avg_household_size": 2.41
+      }
+    },
+    "목1동": {
+      "admin_dong_code": "1147051000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "목1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 30286,
+        "male_population": 14487,
+        "female_population": 15799,
+        "household_count": 10338,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.93
+      }
+    },
+    "목2동": {
+      "admin_dong_code": "1147052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "목2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 28657,
+        "male_population": 13813,
+        "female_population": 14844,
+        "household_count": 13281,
+        "male_ratio": 48.2,
+        "female_ratio": 51.8,
+        "avg_household_size": 2.16
+      }
+    },
+    "목3동": {
+      "admin_dong_code": "1147053000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "목3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21111,
+        "male_population": 10018,
+        "female_population": 11093,
+        "household_count": 10118,
+        "male_ratio": 47.5,
+        "female_ratio": 52.5,
+        "avg_household_size": 2.09
+      }
+    },
+    "목4동": {
+      "admin_dong_code": "1147054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "목4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 24339,
+        "male_population": 11839,
+        "female_population": 12500,
+        "household_count": 9972,
+        "male_ratio": 48.6,
+        "female_ratio": 51.4,
+        "avg_household_size": 2.44
+      }
+    },
+    "목5동": {
+      "admin_dong_code": "1147055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "목5동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 40741,
+        "male_population": 20187,
+        "female_population": 20554,
+        "household_count": 13481,
+        "male_ratio": 49.5,
+        "female_ratio": 50.5,
+        "avg_household_size": 3.02
+      }
+    },
+    "신월1동": {
+      "admin_dong_code": "1147056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신월1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19208,
+        "male_population": 9845,
+        "female_population": 9363,
+        "household_count": 9884,
+        "male_ratio": 51.3,
+        "female_ratio": 48.7,
+        "avg_household_size": 1.94
+      }
+    },
+    "신월2동": {
+      "admin_dong_code": "1147057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신월2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 20737,
+        "male_population": 10111,
+        "female_population": 10626,
+        "household_count": 8667,
+        "male_ratio": 48.8,
+        "female_ratio": 51.2,
+        "avg_household_size": 2.39
+      }
+    },
+    "신월3동": {
+      "admin_dong_code": "1147058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신월3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14239,
+        "male_population": 7476,
+        "female_population": 6763,
+        "household_count": 7613,
+        "male_ratio": 52.5,
+        "female_ratio": 47.5,
+        "avg_household_size": 1.87
+      }
+    },
+    "신월4동": {
+      "admin_dong_code": "1147059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신월4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17230,
+        "male_population": 8350,
+        "female_population": 8880,
+        "household_count": 6813,
+        "male_ratio": 48.5,
+        "female_ratio": 51.5,
+        "avg_household_size": 2.53
+      }
+    },
+    "신월5동": {
+      "admin_dong_code": "1147060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신월5동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14028,
+        "male_population": 6928,
+        "female_population": 7100,
+        "household_count": 6380,
+        "male_ratio": 49.4,
+        "female_ratio": 50.6,
+        "avg_household_size": 2.2
+      }
+    },
+    "신월6동": {
+      "admin_dong_code": "1147061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신월6동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 13804,
+        "male_population": 6734,
+        "female_population": 7070,
+        "household_count": 5363,
+        "male_ratio": 48.8,
+        "female_ratio": 51.2,
+        "avg_household_size": 2.57
+      }
+    },
+    "신월7동": {
+      "admin_dong_code": "1147061100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신월7동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 18400,
+        "male_population": 8916,
+        "female_population": 9484,
+        "household_count": 9022,
+        "male_ratio": 48.5,
+        "female_ratio": 51.5,
+        "avg_household_size": 2.04
+      }
+    },
+    "신정1동": {
+      "admin_dong_code": "1147062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신정1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19684,
+        "male_population": 9539,
+        "female_population": 10145,
+        "household_count": 6928,
+        "male_ratio": 48.5,
+        "female_ratio": 51.5,
+        "avg_household_size": 2.84
+      }
+    },
+    "신정2동": {
+      "admin_dong_code": "1147063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신정2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 18651,
+        "male_population": 9149,
+        "female_population": 9502,
+        "household_count": 6802,
+        "male_ratio": 49.1,
+        "female_ratio": 50.9,
+        "avg_household_size": 2.74
+      }
+    },
+    "신정3동": {
+      "admin_dong_code": "1147064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신정3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 48956,
+        "male_population": 23574,
+        "female_population": 25382,
+        "household_count": 19550,
+        "male_ratio": 48.2,
+        "female_ratio": 51.8,
+        "avg_household_size": 2.5
+      }
+    },
+    "신정4동": {
+      "admin_dong_code": "1147065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신정4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 32111,
+        "male_population": 15499,
+        "female_population": 16612,
+        "household_count": 16368,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 1.96
+      }
+    },
+    "신정6동": {
+      "admin_dong_code": "1147067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신정6동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23989,
+        "male_population": 11611,
+        "female_population": 12378,
+        "household_count": 8177,
+        "male_ratio": 48.4,
+        "female_ratio": 51.6,
+        "avg_household_size": 2.93
+      }
+    },
+    "신정7동": {
+      "admin_dong_code": "1147068000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "양천구",
+      "dong_name": "신정7동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 28180,
+        "male_population": 13484,
+        "female_population": 14696,
+        "household_count": 11452,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.46
+      }
+    },
+    "강서구_미분류": {
+      "admin_dong_code": "1150000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "강서구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 562194,
+        "male_population": 268770,
+        "female_population": 293424,
+        "household_count": 273911,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.05
+      }
+    },
+    "염창동": {
+      "admin_dong_code": "1150051000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "염창동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 41330,
+        "male_population": 19808,
+        "female_population": 21522,
+        "household_count": 16672,
+        "male_ratio": 47.9,
+        "female_ratio": 52.1,
+        "avg_household_size": 2.48
+      }
+    },
+    "등촌제1동": {
+      "admin_dong_code": "1150052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "등촌제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "등촌제2동": {
+      "admin_dong_code": "1150053000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "등촌제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "등촌제3동": {
+      "admin_dong_code": "1150053500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "등촌제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "화곡제1동": {
+      "admin_dong_code": "1150054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "화곡제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "화곡제2동": {
+      "admin_dong_code": "1150055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "화곡제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "화곡제3동": {
+      "admin_dong_code": "1150056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "화곡제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "화곡제4동": {
+      "admin_dong_code": "1150057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "화곡제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "화곡본동": {
+      "admin_dong_code": "1150059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "화곡본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 32645,
+        "male_population": 15759,
+        "female_population": 16886,
+        "household_count": 17197,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 1.9
+      }
+    },
+    "화곡제6동": {
+      "admin_dong_code": "1150059100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "화곡제6동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "화곡제8동": {
+      "admin_dong_code": "1150059300",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "화곡제8동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "가양제1동": {
+      "admin_dong_code": "1150060300",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "가양제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "가양제2동": {
+      "admin_dong_code": "1150060400",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "가양제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "가양제3동": {
+      "admin_dong_code": "1150060500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "가양제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "발산제1동": {
+      "admin_dong_code": "1150061100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "발산제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "우장산동": {
+      "admin_dong_code": "1150061500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "우장산동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 43680,
+        "male_population": 20810,
+        "female_population": 22870,
+        "household_count": 16813,
+        "male_ratio": 47.6,
+        "female_ratio": 52.4,
+        "avg_household_size": 2.6
+      }
+    },
+    "공항동": {
+      "admin_dong_code": "1150062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "공항동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 30044,
+        "male_population": 15169,
+        "female_population": 14875,
+        "household_count": 13929,
+        "male_ratio": 50.5,
+        "female_ratio": 49.5,
+        "avg_household_size": 2.16
+      }
+    },
+    "방화제1동": {
+      "admin_dong_code": "1150063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "방화제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "방화제2동": {
+      "admin_dong_code": "1150064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "방화제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "방화제3동": {
+      "admin_dong_code": "1150064100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강서구",
+      "dong_name": "방화제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "구로구_미분류": {
+      "admin_dong_code": "1153000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "구로구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 411916,
+        "male_population": 202710,
+        "female_population": 209206,
+        "household_count": 183891,
+        "male_ratio": 49.2,
+        "female_ratio": 50.8,
+        "avg_household_size": 2.24
+      }
+    },
+    "신도림동": {
+      "admin_dong_code": "1153051000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "신도림동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 36327,
+        "male_population": 17468,
+        "female_population": 18859,
+        "household_count": 14405,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 2.52
+      }
+    },
+    "구로제1동": {
+      "admin_dong_code": "1153052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "구로제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "구로제2동": {
+      "admin_dong_code": "1153053000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "구로제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "구로제3동": {
+      "admin_dong_code": "1153054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "구로제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "구로제4동": {
+      "admin_dong_code": "1153055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "구로제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "구로제5동": {
+      "admin_dong_code": "1153056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "구로제5동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "가리봉동": {
+      "admin_dong_code": "1153059500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "가리봉동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 12450,
+        "male_population": 6967,
+        "female_population": 5483,
+        "household_count": 6025,
+        "male_ratio": 56.0,
+        "female_ratio": 44.0,
+        "avg_household_size": 2.07
+      }
+    },
+    "고척제1동": {
+      "admin_dong_code": "1153072000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "고척제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "고척제2동": {
+      "admin_dong_code": "1153073000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "고척제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "개봉제1동": {
+      "admin_dong_code": "1153074000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "개봉제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "개봉제2동": {
+      "admin_dong_code": "1153075000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "개봉제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "개봉제3동": {
+      "admin_dong_code": "1153076000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "개봉제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "오류제1동": {
+      "admin_dong_code": "1153077000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "오류제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "오류제2동": {
+      "admin_dong_code": "1153078000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "오류제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "수궁동": {
+      "admin_dong_code": "1153079000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "수궁동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 22873,
+        "male_population": 11159,
+        "female_population": 11714,
+        "household_count": 9988,
+        "male_ratio": 48.8,
+        "female_ratio": 51.2,
+        "avg_household_size": 2.29
+      }
+    },
+    "항동": {
+      "admin_dong_code": "1153080000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "구로구",
+      "dong_name": "항동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16418,
+        "male_population": 7958,
+        "female_population": 8460,
+        "household_count": 6243,
+        "male_ratio": 48.5,
+        "female_ratio": 51.5,
+        "avg_household_size": 2.63
+      }
+    },
+    "금천구_미분류": {
+      "admin_dong_code": "1154500000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "금천구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 239070,
+        "male_population": 120506,
+        "female_population": 118564,
+        "household_count": 121075,
+        "male_ratio": 50.4,
+        "female_ratio": 49.6,
+        "avg_household_size": 1.97
+      }
+    },
+    "가산동": {
+      "admin_dong_code": "1154551000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "가산동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 27368,
+        "male_population": 14760,
+        "female_population": 12608,
+        "household_count": 18421,
+        "male_ratio": 53.9,
+        "female_ratio": 46.1,
+        "avg_household_size": 1.49
+      }
+    },
+    "독산제1동": {
+      "admin_dong_code": "1154561000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "독산제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "독산제2동": {
+      "admin_dong_code": "1154562000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "독산제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "독산제3동": {
+      "admin_dong_code": "1154563000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "독산제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "독산제4동": {
+      "admin_dong_code": "1154564000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "독산제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "시흥제1동": {
+      "admin_dong_code": "1154567000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "시흥제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "시흥제2동": {
+      "admin_dong_code": "1154568000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "시흥제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "시흥제3동": {
+      "admin_dong_code": "1154569000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "시흥제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "시흥제4동": {
+      "admin_dong_code": "1154570000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "시흥제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "시흥제5동": {
+      "admin_dong_code": "1154571000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "금천구",
+      "dong_name": "시흥제5동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "영등포구_미분류": {
+      "admin_dong_code": "1156000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "영등포구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 397173,
+        "male_population": 194864,
+        "female_population": 202309,
+        "household_count": 192199,
+        "male_ratio": 49.1,
+        "female_ratio": 50.9,
+        "avg_household_size": 2.07
+      }
+    },
+    "영등포본동": {
+      "admin_dong_code": "1156051500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "영등포본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 22306,
+        "male_population": 11418,
+        "female_population": 10888,
+        "household_count": 10334,
+        "male_ratio": 51.2,
+        "female_ratio": 48.8,
+        "avg_household_size": 2.16
+      }
+    },
+    "영등포동": {
+      "admin_dong_code": "1156053500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "영등포동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 32136,
+        "male_population": 16215,
+        "female_population": 15921,
+        "household_count": 22442,
+        "male_ratio": 50.5,
+        "female_ratio": 49.5,
+        "avg_household_size": 1.43
+      }
+    },
+    "여의동": {
+      "admin_dong_code": "1156054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "여의동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "당산제1동": {
+      "admin_dong_code": "1156055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "당산제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "당산제2동": {
+      "admin_dong_code": "1156056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "당산제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "도림동": {
+      "admin_dong_code": "1156058500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "도림동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19611,
+        "male_population": 9904,
+        "female_population": 9707,
+        "household_count": 9817,
+        "male_ratio": 50.5,
+        "female_ratio": 49.5,
+        "avg_household_size": 2.0
+      }
+    },
+    "문래동": {
+      "admin_dong_code": "1156060500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "문래동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 31737,
+        "male_population": 15427,
+        "female_population": 16310,
+        "household_count": 13017,
+        "male_ratio": 48.6,
+        "female_ratio": 51.4,
+        "avg_household_size": 2.44
+      }
+    },
+    "양평제1동": {
+      "admin_dong_code": "1156061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "양평제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "양평제2동": {
+      "admin_dong_code": "1156062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "양평제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "신길제1동": {
+      "admin_dong_code": "1156063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "신길제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "신길제3동": {
+      "admin_dong_code": "1156065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "신길제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "신길제4동": {
+      "admin_dong_code": "1156066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "신길제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "신길제5동": {
+      "admin_dong_code": "1156067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "신길제5동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "신길제6동": {
+      "admin_dong_code": "1156068000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "신길제6동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "신길제7동": {
+      "admin_dong_code": "1156069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "신길제7동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "대림제1동": {
+      "admin_dong_code": "1156070000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "대림제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "대림제2동": {
+      "admin_dong_code": "1156071000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "대림제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "대림제3동": {
+      "admin_dong_code": "1156072000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "영등포구",
+      "dong_name": "대림제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "동작구_미분류": {
+      "admin_dong_code": "1159000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "동작구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 387352,
+        "male_population": 186226,
+        "female_population": 201126,
+        "household_count": 186950,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 2.07
+      }
+    },
+    "노량진제1동": {
+      "admin_dong_code": "1159051000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "노량진제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "노량진제2동": {
+      "admin_dong_code": "1159052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "노량진제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "상도제1동": {
+      "admin_dong_code": "1159053000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "상도제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "상도제2동": {
+      "admin_dong_code": "1159054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "상도제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "상도제3동": {
+      "admin_dong_code": "1159055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "상도제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "상도제4동": {
+      "admin_dong_code": "1159056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "상도제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "흑석동": {
+      "admin_dong_code": "1159060500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "흑석동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 32360,
+        "male_population": 15297,
+        "female_population": 17063,
+        "household_count": 12969,
+        "male_ratio": 47.3,
+        "female_ratio": 52.7,
+        "avg_household_size": 2.5
+      }
+    },
+    "사당제1동": {
+      "admin_dong_code": "1159062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "사당제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "사당제2동": {
+      "admin_dong_code": "1159063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "사당제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "사당제3동": {
+      "admin_dong_code": "1159064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "사당제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "사당제4동": {
+      "admin_dong_code": "1159065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "사당제4동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "사당제5동": {
+      "admin_dong_code": "1159065100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "사당제5동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "대방동": {
+      "admin_dong_code": "1159066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "대방동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 35337,
+        "male_population": 16601,
+        "female_population": 18736,
+        "household_count": 16526,
+        "male_ratio": 47.0,
+        "female_ratio": 53.0,
+        "avg_household_size": 2.14
+      }
+    },
+    "신대방제1동": {
+      "admin_dong_code": "1159067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "신대방제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "신대방제2동": {
+      "admin_dong_code": "1159068000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "동작구",
+      "dong_name": "신대방제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "관악구_미분류": {
+      "admin_dong_code": "1162000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "관악구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 495620,
+        "male_population": 247531,
+        "female_population": 248089,
+        "household_count": 285963,
+        "male_ratio": 49.9,
+        "female_ratio": 50.1,
+        "avg_household_size": 1.73
+      }
+    },
+    "보라매동": {
+      "admin_dong_code": "1162052500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "보라매동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23850,
+        "male_population": 11640,
+        "female_population": 12210,
+        "household_count": 12977,
+        "male_ratio": 48.8,
+        "female_ratio": 51.2,
+        "avg_household_size": 1.84
+      }
+    },
+    "청림동": {
+      "admin_dong_code": "1162054500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "청림동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14672,
+        "male_population": 7006,
+        "female_population": 7666,
+        "household_count": 6392,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.3
+      }
+    },
+    "성현동": {
+      "admin_dong_code": "1162056500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "성현동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 28119,
+        "male_population": 13536,
+        "female_population": 14583,
+        "household_count": 12200,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 2.3
+      }
+    },
+    "행운동": {
+      "admin_dong_code": "1162057500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "행운동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 29316,
+        "male_population": 14052,
+        "female_population": 15264,
+        "household_count": 18256,
+        "male_ratio": 47.9,
+        "female_ratio": 52.1,
+        "avg_household_size": 1.61
+      }
+    },
+    "낙성대동": {
+      "admin_dong_code": "1162058500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "낙성대동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 18013,
+        "male_population": 9014,
+        "female_population": 8999,
+        "household_count": 12229,
+        "male_ratio": 50.0,
+        "female_ratio": 50.0,
+        "avg_household_size": 1.47
+      }
+    },
+    "청룡동": {
+      "admin_dong_code": "1162059500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "청룡동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 37009,
+        "male_population": 17645,
+        "female_population": 19364,
+        "household_count": 24412,
+        "male_ratio": 47.7,
+        "female_ratio": 52.3,
+        "avg_household_size": 1.52
+      }
+    },
+    "은천동": {
+      "admin_dong_code": "1162060500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "은천동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 32397,
+        "male_population": 15816,
+        "female_population": 16581,
+        "household_count": 16060,
+        "male_ratio": 48.8,
+        "female_ratio": 51.2,
+        "avg_household_size": 2.02
+      }
+    },
+    "중앙동": {
+      "admin_dong_code": "1162061500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "중앙동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 15561,
+        "male_population": 7364,
+        "female_population": 8197,
+        "household_count": 10360,
+        "male_ratio": 47.3,
+        "female_ratio": 52.7,
+        "avg_household_size": 1.5
+      }
+    },
+    "인헌동": {
+      "admin_dong_code": "1162062500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "인헌동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25434,
+        "male_population": 12273,
+        "female_population": 13161,
+        "household_count": 14708,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 1.73
+      }
+    },
+    "남현동": {
+      "admin_dong_code": "1162063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "남현동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17724,
+        "male_population": 8565,
+        "female_population": 9159,
+        "household_count": 9910,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 1.79
+      }
+    },
+    "서원동": {
+      "admin_dong_code": "1162064500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "서원동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23874,
+        "male_population": 12382,
+        "female_population": 11492,
+        "household_count": 15372,
+        "male_ratio": 51.9,
+        "female_ratio": 48.1,
+        "avg_household_size": 1.55
+      }
+    },
+    "신원동": {
+      "admin_dong_code": "1162065500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "신원동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 18316,
+        "male_population": 9275,
+        "female_population": 9041,
+        "household_count": 11305,
+        "male_ratio": 50.6,
+        "female_ratio": 49.4,
+        "avg_household_size": 1.62
+      }
+    },
+    "서림동": {
+      "admin_dong_code": "1162066500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "서림동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 24669,
+        "male_population": 13480,
+        "female_population": 11189,
+        "household_count": 15259,
+        "male_ratio": 54.6,
+        "female_ratio": 45.4,
+        "avg_household_size": 1.62
+      }
+    },
+    "신사동": {
+      "admin_dong_code": "1168051000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "신사동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 15480,
+        "male_population": 7243,
+        "female_population": 8237,
+        "household_count": 6639,
+        "male_ratio": 46.8,
+        "female_ratio": 53.2,
+        "avg_household_size": 2.33
+      }
+    },
+    "신림동": {
+      "admin_dong_code": "1162069500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "신림동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 24050,
+        "male_population": 12723,
+        "female_population": 11327,
+        "household_count": 19187,
+        "male_ratio": 52.9,
+        "female_ratio": 47.1,
+        "avg_household_size": 1.25
+      }
+    },
+    "난향동": {
+      "admin_dong_code": "1162071500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "난향동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14739,
+        "male_population": 7185,
+        "female_population": 7554,
+        "household_count": 6172,
+        "male_ratio": 48.7,
+        "female_ratio": 51.3,
+        "avg_household_size": 2.39
+      }
+    },
+    "조원동": {
+      "admin_dong_code": "1162072500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "조원동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21097,
+        "male_population": 10435,
+        "female_population": 10662,
+        "household_count": 12347,
+        "male_ratio": 49.5,
+        "female_ratio": 50.5,
+        "avg_household_size": 1.71
+      }
+    },
+    "대학동": {
+      "admin_dong_code": "1162073500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "대학동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 27940,
+        "male_population": 16321,
+        "female_population": 11619,
+        "household_count": 17736,
+        "male_ratio": 58.4,
+        "female_ratio": 41.6,
+        "avg_household_size": 1.58
+      }
+    },
+    "삼성동": {
+      "admin_dong_code": "1162074500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "삼성동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19667,
+        "male_population": 9741,
+        "female_population": 9926,
+        "household_count": 9558,
+        "male_ratio": 49.5,
+        "female_ratio": 50.5,
+        "avg_household_size": 2.06
+      }
+    },
+    "미성동": {
+      "admin_dong_code": "1162076500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "미성동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 29499,
+        "male_population": 14421,
+        "female_population": 15078,
+        "household_count": 14085,
+        "male_ratio": 48.9,
+        "female_ratio": 51.1,
+        "avg_household_size": 2.09
+      }
+    },
+    "난곡동": {
+      "admin_dong_code": "1162077500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "관악구",
+      "dong_name": "난곡동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25269,
+        "male_population": 12551,
+        "female_population": 12718,
+        "household_count": 12804,
+        "male_ratio": 49.7,
+        "female_ratio": 50.3,
+        "avg_household_size": 1.97
+      }
+    },
+    "서초구_미분류": {
+      "admin_dong_code": "1165000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "서초구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 413076,
+        "male_population": 196407,
+        "female_population": 216669,
+        "household_count": 170681,
+        "male_ratio": 47.5,
+        "female_ratio": 52.5,
+        "avg_household_size": 2.42
+      }
+    },
+    "서초1동": {
+      "admin_dong_code": "1165051000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "서초1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 20408,
+        "male_population": 9785,
+        "female_population": 10623,
+        "household_count": 9518,
+        "male_ratio": 47.9,
+        "female_ratio": 52.1,
+        "avg_household_size": 2.14
+      }
+    },
+    "서초2동": {
+      "admin_dong_code": "1165052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "서초2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25129,
+        "male_population": 11821,
+        "female_population": 13308,
+        "household_count": 11404,
+        "male_ratio": 47.0,
+        "female_ratio": 53.0,
+        "avg_household_size": 2.2
+      }
+    },
+    "서초3동": {
+      "admin_dong_code": "1165053000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "서초3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 32370,
+        "male_population": 15322,
+        "female_population": 17048,
+        "household_count": 15411,
+        "male_ratio": 47.3,
+        "female_ratio": 52.7,
+        "avg_household_size": 2.1
+      }
+    },
+    "서초4동": {
+      "admin_dong_code": "1165053100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "서초4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 30533,
+        "male_population": 14880,
+        "female_population": 15653,
+        "household_count": 10674,
+        "male_ratio": 48.7,
+        "female_ratio": 51.3,
+        "avg_household_size": 2.86
+      }
+    },
+    "잠원동": {
+      "admin_dong_code": "1165054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "잠원동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 26958,
+        "male_population": 13010,
+        "female_population": 13948,
+        "household_count": 10646,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 2.53
+      }
+    },
+    "반포본동": {
+      "admin_dong_code": "1165055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "반포본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 235,
+        "male_population": 106,
+        "female_population": 129,
+        "household_count": 110,
+        "male_ratio": 45.1,
+        "female_ratio": 54.9,
+        "avg_household_size": 2.14
+      }
+    },
+    "반포1동": {
+      "admin_dong_code": "1165056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "반포1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 34144,
+        "male_population": 16623,
+        "female_population": 17521,
+        "household_count": 14621,
+        "male_ratio": 48.7,
+        "female_ratio": 51.3,
+        "avg_household_size": 2.34
+      }
+    },
+    "반포2동": {
+      "admin_dong_code": "1165057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "반포2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 26603,
+        "male_population": 12622,
+        "female_population": 13981,
+        "household_count": 8536,
+        "male_ratio": 47.4,
+        "female_ratio": 52.6,
+        "avg_household_size": 3.12
+      }
+    },
+    "반포3동": {
+      "admin_dong_code": "1165058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "반포3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 24024,
+        "male_population": 11426,
+        "female_population": 12598,
+        "household_count": 8261,
+        "male_ratio": 47.6,
+        "female_ratio": 52.4,
+        "avg_household_size": 2.91
+      }
+    },
+    "반포4동": {
+      "admin_dong_code": "1165058100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "반포4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19238,
+        "male_population": 9021,
+        "female_population": 10217,
+        "household_count": 7019,
+        "male_ratio": 46.9,
+        "female_ratio": 53.1,
+        "avg_household_size": 2.74
+      }
+    },
+    "방배본동": {
+      "admin_dong_code": "1165059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "방배본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 20248,
+        "male_population": 9339,
+        "female_population": 10909,
+        "household_count": 7873,
+        "male_ratio": 46.1,
+        "female_ratio": 53.9,
+        "avg_household_size": 2.57
+      }
+    },
+    "방배1동": {
+      "admin_dong_code": "1165060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "방배1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16570,
+        "male_population": 7693,
+        "female_population": 8877,
+        "household_count": 7525,
+        "male_ratio": 46.4,
+        "female_ratio": 53.6,
+        "avg_household_size": 2.2
+      }
+    },
+    "방배2동": {
+      "admin_dong_code": "1165061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "방배2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17997,
+        "male_population": 8373,
+        "female_population": 9624,
+        "household_count": 7856,
+        "male_ratio": 46.5,
+        "female_ratio": 53.5,
+        "avg_household_size": 2.29
+      }
+    },
+    "방배3동": {
+      "admin_dong_code": "1165062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "방배3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 15849,
+        "male_population": 7533,
+        "female_population": 8316,
+        "household_count": 5840,
+        "male_ratio": 47.5,
+        "female_ratio": 52.5,
+        "avg_household_size": 2.71
+      }
+    },
+    "방배4동": {
+      "admin_dong_code": "1165062100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "방배4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23040,
+        "male_population": 10419,
+        "female_population": 12621,
+        "household_count": 9617,
+        "male_ratio": 45.2,
+        "female_ratio": 54.8,
+        "avg_household_size": 2.4
+      }
+    },
+    "양재1동": {
+      "admin_dong_code": "1165065100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "양재1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 41515,
+        "male_population": 19694,
+        "female_population": 21821,
+        "household_count": 17681,
+        "male_ratio": 47.4,
+        "female_ratio": 52.6,
+        "avg_household_size": 2.35
+      }
+    },
+    "양재2동": {
+      "admin_dong_code": "1165065200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "양재2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21288,
+        "male_population": 10605,
+        "female_population": 10683,
+        "household_count": 11005,
+        "male_ratio": 49.8,
+        "female_ratio": 50.2,
+        "avg_household_size": 1.93
+      }
+    },
+    "내곡동": {
+      "admin_dong_code": "1165066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "서초구",
+      "dong_name": "내곡동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16927,
+        "male_population": 8135,
+        "female_population": 8792,
+        "household_count": 7084,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 2.39
+      }
+    },
+    "강남구_미분류": {
+      "admin_dong_code": "1168000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "강남구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 563215,
+        "male_population": 269050,
+        "female_population": 294165,
+        "household_count": 245094,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.3
+      }
+    },
+    "논현1동": {
+      "admin_dong_code": "1168052100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "논현1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21510,
+        "male_population": 10140,
+        "female_population": 11370,
+        "household_count": 13461,
+        "male_ratio": 47.1,
+        "female_ratio": 52.9,
+        "avg_household_size": 1.6
+      }
+    },
+    "논현2동": {
+      "admin_dong_code": "1168053100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "논현2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 20571,
+        "male_population": 9509,
+        "female_population": 11062,
+        "household_count": 11216,
+        "male_ratio": 46.2,
+        "female_ratio": 53.8,
+        "avg_household_size": 1.83
+      }
+    },
+    "압구정동": {
+      "admin_dong_code": "1168054500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "압구정동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25746,
+        "male_population": 11966,
+        "female_population": 13780,
+        "household_count": 9994,
+        "male_ratio": 46.5,
+        "female_ratio": 53.5,
+        "avg_household_size": 2.58
+      }
+    },
+    "청담동": {
+      "admin_dong_code": "1168056500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "청담동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 24253,
+        "male_population": 11317,
+        "female_population": 12936,
+        "household_count": 10548,
+        "male_ratio": 46.7,
+        "female_ratio": 53.3,
+        "avg_household_size": 2.3
+      }
+    },
+    "삼성1동": {
+      "admin_dong_code": "1168058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "삼성1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 12283,
+        "male_population": 6079,
+        "female_population": 6204,
+        "household_count": 5172,
+        "male_ratio": 49.5,
+        "female_ratio": 50.5,
+        "avg_household_size": 2.37
+      }
+    },
+    "삼성2동": {
+      "admin_dong_code": "1168059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "삼성2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 30834,
+        "male_population": 14728,
+        "female_population": 16106,
+        "household_count": 13850,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.23
+      }
+    },
+    "대치1동": {
+      "admin_dong_code": "1168060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "대치1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23979,
+        "male_population": 12009,
+        "female_population": 11970,
+        "household_count": 7237,
+        "male_ratio": 50.1,
+        "female_ratio": 49.9,
+        "avg_household_size": 3.31
+      }
+    },
+    "대치2동": {
+      "admin_dong_code": "1168061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "대치2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 38484,
+        "male_population": 19582,
+        "female_population": 18902,
+        "household_count": 13290,
+        "male_ratio": 50.9,
+        "female_ratio": 49.1,
+        "avg_household_size": 2.9
+      }
+    },
+    "대치4동": {
+      "admin_dong_code": "1168063000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "대치4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 18580,
+        "male_population": 8874,
+        "female_population": 9706,
+        "household_count": 9641,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 1.93
+      }
+    },
+    "역삼1동": {
+      "admin_dong_code": "1168064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "역삼1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 35596,
+        "male_population": 17277,
+        "female_population": 18319,
+        "household_count": 23845,
+        "male_ratio": 48.5,
+        "female_ratio": 51.5,
+        "avg_household_size": 1.49
+      }
+    },
+    "역삼2동": {
+      "admin_dong_code": "1168065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "역삼2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 36604,
+        "male_population": 17020,
+        "female_population": 19584,
+        "household_count": 15615,
+        "male_ratio": 46.5,
+        "female_ratio": 53.5,
+        "avg_household_size": 2.34
+      }
+    },
+    "도곡1동": {
+      "admin_dong_code": "1168065500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "도곡1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 20721,
+        "male_population": 9827,
+        "female_population": 10894,
+        "household_count": 8224,
+        "male_ratio": 47.4,
+        "female_ratio": 52.6,
+        "avg_household_size": 2.52
+      }
+    },
+    "도곡2동": {
+      "admin_dong_code": "1168065600",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "도곡2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 32348,
+        "male_population": 14966,
+        "female_population": 17382,
+        "household_count": 11431,
+        "male_ratio": 46.3,
+        "female_ratio": 53.7,
+        "avg_household_size": 2.83
+      }
+    },
+    "개포1동": {
+      "admin_dong_code": "1168066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "개포1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 26399,
+        "male_population": 12718,
+        "female_population": 13681,
+        "household_count": 9126,
+        "male_ratio": 48.2,
+        "female_ratio": 51.8,
+        "avg_household_size": 2.89
+      }
+    },
+    "개포2동": {
+      "admin_dong_code": "1168067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "개포2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 42535,
+        "male_population": 20565,
+        "female_population": 21970,
+        "household_count": 15039,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 2.83
+      }
+    },
+    "개포3동": {
+      "admin_dong_code": "1168067500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "개포3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16767,
+        "male_population": 8085,
+        "female_population": 8682,
+        "household_count": 7361,
+        "male_ratio": 48.2,
+        "female_ratio": 51.8,
+        "avg_household_size": 2.28
+      }
+    },
+    "개포4동": {
+      "admin_dong_code": "1168069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "개포4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23313,
+        "male_population": 11208,
+        "female_population": 12105,
+        "household_count": 10090,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 2.31
+      }
+    },
+    "세곡동": {
+      "admin_dong_code": "1168070000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "세곡동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 46455,
+        "male_population": 21683,
+        "female_population": 24772,
+        "household_count": 20322,
+        "male_ratio": 46.7,
+        "female_ratio": 53.3,
+        "avg_household_size": 2.29
+      }
+    },
+    "일원본동": {
+      "admin_dong_code": "1168072000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "일원본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 22619,
+        "male_population": 11146,
+        "female_population": 11473,
+        "household_count": 7955,
+        "male_ratio": 49.3,
+        "female_ratio": 50.7,
+        "avg_household_size": 2.84
+      }
+    },
+    "일원1동": {
+      "admin_dong_code": "1168073000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "일원1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 14444,
+        "male_population": 6949,
+        "female_population": 7495,
+        "household_count": 7418,
+        "male_ratio": 48.1,
+        "female_ratio": 51.9,
+        "avg_household_size": 1.95
+      }
+    },
+    "수서동": {
+      "admin_dong_code": "1168075000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강남구",
+      "dong_name": "수서동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 13694,
+        "male_population": 6159,
+        "female_population": 7535,
+        "household_count": 7620,
+        "male_ratio": 45.0,
+        "female_ratio": 55.0,
+        "avg_household_size": 1.8
+      }
+    },
+    "송파구_미분류": {
+      "admin_dong_code": "1171000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "송파구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 656310,
+        "male_population": 314532,
+        "female_population": 341778,
+        "household_count": 287017,
+        "male_ratio": 47.9,
+        "female_ratio": 52.1,
+        "avg_household_size": 2.29
+      }
+    },
+    "풍납1동": {
+      "admin_dong_code": "1171051000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "풍납1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 11742,
+        "male_population": 5776,
+        "female_population": 5966,
+        "household_count": 5384,
+        "male_ratio": 49.2,
+        "female_ratio": 50.8,
+        "avg_household_size": 2.18
+      }
+    },
+    "풍납2동": {
+      "admin_dong_code": "1171052000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "풍납2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23263,
+        "male_population": 11030,
+        "female_population": 12233,
+        "household_count": 10299,
+        "male_ratio": 47.4,
+        "female_ratio": 52.6,
+        "avg_household_size": 2.26
+      }
+    },
+    "거여1동": {
+      "admin_dong_code": "1171053100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "거여1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 11919,
+        "male_population": 5908,
+        "female_population": 6011,
+        "household_count": 5571,
+        "male_ratio": 49.6,
+        "female_ratio": 50.4,
+        "avg_household_size": 2.14
+      }
+    },
+    "거여2동": {
+      "admin_dong_code": "1171053200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "거여2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23417,
+        "male_population": 11346,
+        "female_population": 12071,
+        "household_count": 10077,
+        "male_ratio": 48.5,
+        "female_ratio": 51.5,
+        "avg_household_size": 2.32
+      }
+    },
+    "마천1동": {
+      "admin_dong_code": "1171054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "마천1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16313,
+        "male_population": 8324,
+        "female_population": 7989,
+        "household_count": 7761,
+        "male_ratio": 51.0,
+        "female_ratio": 49.0,
+        "avg_household_size": 2.1
+      }
+    },
+    "마천2동": {
+      "admin_dong_code": "1171055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "마천2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17423,
+        "male_population": 8875,
+        "female_population": 8548,
+        "household_count": 8486,
+        "male_ratio": 50.9,
+        "female_ratio": 49.1,
+        "avg_household_size": 2.05
+      }
+    },
+    "방이1동": {
+      "admin_dong_code": "1171056100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "방이1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 15105,
+        "male_population": 7219,
+        "female_population": 7886,
+        "household_count": 6153,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.45
+      }
+    },
+    "방이2동": {
+      "admin_dong_code": "1171056200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "방이2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 26808,
+        "male_population": 12152,
+        "female_population": 14656,
+        "household_count": 15936,
+        "male_ratio": 45.3,
+        "female_ratio": 54.7,
+        "avg_household_size": 1.68
+      }
+    },
+    "오륜동": {
+      "admin_dong_code": "1171056600",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "오륜동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 17608,
+        "male_population": 8647,
+        "female_population": 8961,
+        "household_count": 5843,
+        "male_ratio": 49.1,
+        "female_ratio": 50.9,
+        "avg_household_size": 3.01
+      }
+    },
+    "오금동": {
+      "admin_dong_code": "1171057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "오금동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 38219,
+        "male_population": 18465,
+        "female_population": 19754,
+        "household_count": 16037,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 2.38
+      }
+    },
+    "송파1동": {
+      "admin_dong_code": "1171058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "송파1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 23392,
+        "male_population": 10777,
+        "female_population": 12615,
+        "household_count": 12506,
+        "male_ratio": 46.1,
+        "female_ratio": 53.9,
+        "avg_household_size": 1.87
+      }
+    },
+    "송파2동": {
+      "admin_dong_code": "1171059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "송파2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 18695,
+        "male_population": 8975,
+        "female_population": 9720,
+        "household_count": 7216,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.59
+      }
+    },
+    "석촌동": {
+      "admin_dong_code": "1171060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "석촌동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 30954,
+        "male_population": 14566,
+        "female_population": 16388,
+        "household_count": 17101,
+        "male_ratio": 47.1,
+        "female_ratio": 52.9,
+        "avg_household_size": 1.81
+      }
+    },
+    "삼전동": {
+      "admin_dong_code": "1171061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "삼전동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 29090,
+        "male_population": 13606,
+        "female_population": 15484,
+        "household_count": 16166,
+        "male_ratio": 46.8,
+        "female_ratio": 53.2,
+        "avg_household_size": 1.8
+      }
+    },
+    "가락본동": {
+      "admin_dong_code": "1171062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "가락본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 25081,
+        "male_population": 12339,
+        "female_population": 12742,
+        "household_count": 11574,
+        "male_ratio": 49.2,
+        "female_ratio": 50.8,
+        "avg_household_size": 2.17
+      }
+    },
+    "가락1동": {
+      "admin_dong_code": "1171063100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "가락1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 27652,
+        "male_population": 13385,
+        "female_population": 14267,
+        "household_count": 9756,
+        "male_ratio": 48.4,
+        "female_ratio": 51.6,
+        "avg_household_size": 2.83
+      }
+    },
+    "가락2동": {
+      "admin_dong_code": "1171063200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "가락2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 30961,
+        "male_population": 15073,
+        "female_population": 15888,
+        "household_count": 12369,
+        "male_ratio": 48.7,
+        "female_ratio": 51.3,
+        "avg_household_size": 2.5
+      }
+    },
+    "문정1동": {
+      "admin_dong_code": "1171064100",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "문정1동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 19882,
+        "male_population": 9714,
+        "female_population": 10168,
+        "household_count": 8938,
+        "male_ratio": 48.9,
+        "female_ratio": 51.1,
+        "avg_household_size": 2.22
+      }
+    },
+    "문정2동": {
+      "admin_dong_code": "1171064200",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "문정2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 28915,
+        "male_population": 13243,
+        "female_population": 15672,
+        "household_count": 15874,
+        "male_ratio": 45.8,
+        "female_ratio": 54.2,
+        "avg_household_size": 1.82
+      }
+    },
+    "장지동": {
+      "admin_dong_code": "1171064600",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "장지동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 30774,
+        "male_population": 14777,
+        "female_population": 15997,
+        "household_count": 13055,
+        "male_ratio": 48.0,
+        "female_ratio": 52.0,
+        "avg_household_size": 2.36
+      }
+    },
+    "위례동": {
+      "admin_dong_code": "1171064700",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "위례동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 45193,
+        "male_population": 21976,
+        "female_population": 23217,
+        "household_count": 14911,
+        "male_ratio": 48.6,
+        "female_ratio": 51.4,
+        "avg_household_size": 3.03
+      }
+    },
+    "잠실본동": {
+      "admin_dong_code": "1171065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "잠실본동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 28055,
+        "male_population": 13258,
+        "female_population": 14797,
+        "household_count": 16219,
+        "male_ratio": 47.3,
+        "female_ratio": 52.7,
+        "avg_household_size": 1.73
+      }
+    },
+    "잠실2동": {
+      "admin_dong_code": "1171067000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "잠실2동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 34916,
+        "male_population": 16729,
+        "female_population": 18187,
+        "household_count": 11527,
+        "male_ratio": 47.9,
+        "female_ratio": 52.1,
+        "avg_household_size": 3.03
+      }
+    },
+    "잠실3동": {
+      "admin_dong_code": "1171068000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "잠실3동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 33896,
+        "male_population": 15987,
+        "female_population": 17909,
+        "household_count": 11859,
+        "male_ratio": 47.2,
+        "female_ratio": 52.8,
+        "avg_household_size": 2.86
+      }
+    },
+    "잠실4동": {
+      "admin_dong_code": "1171069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "잠실4동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 21086,
+        "male_population": 10187,
+        "female_population": 10899,
+        "household_count": 7198,
+        "male_ratio": 48.3,
+        "female_ratio": 51.7,
+        "avg_household_size": 2.93
+      }
+    },
+    "잠실6동": {
+      "admin_dong_code": "1171071000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "잠실6동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 16563,
+        "male_population": 7844,
+        "female_population": 8719,
+        "household_count": 5836,
+        "male_ratio": 47.4,
+        "female_ratio": 52.6,
+        "avg_household_size": 2.84
+      }
+    },
+    "잠실7동": {
+      "admin_dong_code": "1171072000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "송파구",
+      "dong_name": "잠실7동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 9388,
+        "male_population": 4354,
+        "female_population": 5034,
+        "household_count": 3365,
+        "male_ratio": 46.4,
+        "female_ratio": 53.6,
+        "avg_household_size": 2.79
+      }
+    },
+    "강동구_미분류": {
+      "admin_dong_code": "1174000000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "강동구_미분류",
+      "data_source": "gu",
+      "population_data": {
+        "total_population": 481474,
+        "male_population": 234830,
+        "female_population": 246644,
+        "household_count": 212585,
+        "male_ratio": 48.8,
+        "female_ratio": 51.2,
+        "avg_household_size": 2.26
+      }
+    },
+    "강일동": {
+      "admin_dong_code": "1174051500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "강일동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 34803,
+        "male_population": 16644,
+        "female_population": 18159,
+        "household_count": 13810,
+        "male_ratio": 47.8,
+        "female_ratio": 52.2,
+        "avg_household_size": 2.52
+      }
+    },
+    "상일제1동": {
+      "admin_dong_code": "1174052500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "상일제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "상일제2동": {
+      "admin_dong_code": "1174052600",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "상일제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "명일제1동": {
+      "admin_dong_code": "1174053000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "명일제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "명일제2동": {
+      "admin_dong_code": "1174054000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "명일제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "고덕제1동": {
+      "admin_dong_code": "1174055000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "고덕제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "고덕제2동": {
+      "admin_dong_code": "1174056000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "고덕제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "암사제1동": {
+      "admin_dong_code": "1174057000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "암사제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "암사제2동": {
+      "admin_dong_code": "1174058000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "암사제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "암사제3동": {
+      "admin_dong_code": "1174059000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "암사제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "천호제1동": {
+      "admin_dong_code": "1174060000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "천호제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "천호제2동": {
+      "admin_dong_code": "1174061000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "천호제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "천호제3동": {
+      "admin_dong_code": "1174062000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "천호제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "성내제1동": {
+      "admin_dong_code": "1174064000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "성내제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "성내제2동": {
+      "admin_dong_code": "1174065000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "성내제2동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "성내제3동": {
+      "admin_dong_code": "1174066000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "성내제3동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "길동": {
+      "admin_dong_code": "1174068500",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "길동",
+      "data_source": "dong",
+      "population_data": {
+        "total_population": 47949,
+        "male_population": 23221,
+        "female_population": 24728,
+        "household_count": 23493,
+        "male_ratio": 48.4,
+        "female_ratio": 51.6,
+        "avg_household_size": 2.04
+      }
+    },
+    "둔촌제1동": {
+      "admin_dong_code": "1174069000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "둔촌제1동",
+      "data_source": "none",
+      "population_data": {}
+    },
+    "둔촌제2동": {
+      "admin_dong_code": "1174070000",
+      "sido_name": "서울특별시",
+      "sigungu_name": "강동구",
+      "dong_name": "둔촌제2동",
+      "data_source": "none",
+      "population_data": {}
+    }
+  }
+}

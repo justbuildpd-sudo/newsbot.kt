@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>간단 테스트</title>
+</head>
+<body>
+    <h1>간단 테스트</h1>
+    <div id="result">로딩 중...</div>
+    
+    <script>
+        console.log('✅ JavaScript 실행됨');
+        
+        async function test() {
+            try {
+                console.log('API 요청 시작...');
+                const response = await fetch('http://localhost:8000/api/national/sido');
+                console.log('응답 받음:', response.status);
+                
+                const data = await response.json();
+                console.log('데이터:', data);
+                
+                document.getElementById('result').innerHTML = `
+                    <h2>성공!</h2>
+                    <p>시도 개수: ${data.total}</p>
+                    <p>첫 번째: ${data.sido_list[0].name}</p>
+                `;
+            } catch (error) {
+                console.error('에러:', error);
+                document.getElementById('result').innerHTML = `<p style="color:red">에러: ${error.message}</p>`;
+            }
+        }
+        
+        test();
+    </script>
+</body>
+</html>
+

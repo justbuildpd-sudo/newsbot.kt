@@ -1,0 +1,1902 @@
+{
+  "종로구": {
+    "average_monthly_income": 3455186.35,
+    "total_expenditure": 12814248117.65,
+    "food_expenditure": 2731742970.59,
+    "medical_expenditure": 1404109323.53,
+    "education_expenditure": 283574235.29,
+    "leisure_expenditure": 940378911.76,
+    "transport_expenditure": 338307441.18,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3549292.87,
+        "total_expenditure": 9354567676.47,
+        "food_expenditure": 2187967867.65,
+        "medical_expenditure": 820037661.76,
+        "education_expenditure": 299315735.29,
+        "leisure_expenditure": 1026831191.18,
+        "transport_expenditure": 208349705.88
+      },
+      "2024": {
+        "average_monthly_income": 3455186.35,
+        "total_expenditure": 8672971632.35,
+        "food_expenditure": 1907088088.24,
+        "medical_expenditure": 926614705.88,
+        "education_expenditure": 161669073.53,
+        "leisure_expenditure": 675689823.53,
+        "transport_expenditure": 243627823.53
+      },
+      "2025": {
+        "average_monthly_income": 3455186.35,
+        "total_expenditure": 12814248117.65,
+        "food_expenditure": 2731742970.59,
+        "medical_expenditure": 1404109323.53,
+        "education_expenditure": 283574235.29,
+        "leisure_expenditure": 940378911.76,
+        "transport_expenditure": 338307441.18
+      },
+      "2020": {
+        "average_monthly_income": 3455186.35,
+        "total_expenditure": 14027434161.76,
+        "food_expenditure": 1711868073.53,
+        "medical_expenditure": 911572647.06,
+        "education_expenditure": 256099735.29,
+        "leisure_expenditure": 6183502941.18,
+        "transport_expenditure": 39081323.53
+      },
+      "2021": {
+        "average_monthly_income": 3455186.35,
+        "total_expenditure": 18580665220.59,
+        "food_expenditure": 1730426205.88,
+        "medical_expenditure": 1075496308.82,
+        "education_expenditure": 251553941.18,
+        "leisure_expenditure": 9791123426.47,
+        "transport_expenditure": 68423088.24
+      },
+      "2022": {
+        "average_monthly_income": 3455186.35,
+        "total_expenditure": 18362295897.06,
+        "food_expenditure": 2291999147.06,
+        "medical_expenditure": 1155598176.47,
+        "education_expenditure": 236327779.41,
+        "leisure_expenditure": 8292448367.65,
+        "transport_expenditure": 238120014.71
+      },
+      "2023": {
+        "average_monthly_income": 3455186.35,
+        "total_expenditure": 17265356264.71,
+        "food_expenditure": 2703901264.71,
+        "medical_expenditure": 1251804470.59,
+        "education_expenditure": 272225735.29,
+        "leisure_expenditure": 5928391161.76,
+        "transport_expenditure": 380184117.65
+      }
+    }
+  },
+  "중구": {
+    "average_monthly_income": 3539178.67,
+    "total_expenditure": 203430103766.67,
+    "food_expenditure": 2459957500.0,
+    "medical_expenditure": 954209833.33,
+    "education_expenditure": 1506572200.0,
+    "leisure_expenditure": 159677265633.33,
+    "transport_expenditure": 30362063266.67,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3609623.67,
+        "total_expenditure": 126084110816.67,
+        "food_expenditure": 1793571583.33,
+        "medical_expenditure": 706258600.0,
+        "education_expenditure": 1025474950.0,
+        "leisure_expenditure": 88259948650.0,
+        "transport_expenditure": 27947787300.0
+      },
+      "2024": {
+        "average_monthly_income": 3539178.67,
+        "total_expenditure": 124466085800.0,
+        "food_expenditure": 1718745150.0,
+        "medical_expenditure": 654834100.0,
+        "education_expenditure": 1150880866.67,
+        "leisure_expenditure": 96192489733.33,
+        "transport_expenditure": 18825727316.67
+      },
+      "2025": {
+        "average_monthly_income": 3539178.67,
+        "total_expenditure": 203430103766.67,
+        "food_expenditure": 2459957500.0,
+        "medical_expenditure": 954209833.33,
+        "education_expenditure": 1506572200.0,
+        "leisure_expenditure": 159677265633.33,
+        "transport_expenditure": 30362063266.67
+      },
+      "2020": {
+        "average_monthly_income": 3539178.67,
+        "total_expenditure": 133021236883.33,
+        "food_expenditure": 1435749200.0,
+        "medical_expenditure": 722857316.67,
+        "education_expenditure": 1071752233.33,
+        "leisure_expenditure": 101313719233.33,
+        "transport_expenditure": 23642607716.67
+      },
+      "2021": {
+        "average_monthly_income": 3539178.67,
+        "total_expenditure": 144734414116.67,
+        "food_expenditure": 1544127833.33,
+        "medical_expenditure": 778496766.67,
+        "education_expenditure": 1378059166.67,
+        "leisure_expenditure": 113505853666.67,
+        "transport_expenditure": 21855646116.67
+      },
+      "2022": {
+        "average_monthly_income": 3539178.67,
+        "total_expenditure": 161544606866.67,
+        "food_expenditure": 2039780800.0,
+        "medical_expenditure": 858251133.33,
+        "education_expenditure": 1751473666.67,
+        "leisure_expenditure": 124845736083.33,
+        "transport_expenditure": 25108317333.33
+      },
+      "2023": {
+        "average_monthly_income": 3539178.67,
+        "total_expenditure": 172185251733.33,
+        "food_expenditure": 2358019400.0,
+        "medical_expenditure": 920381183.33,
+        "education_expenditure": 1732571733.33,
+        "leisure_expenditure": 132202731650.0,
+        "transport_expenditure": 26658200666.67
+      }
+    }
+  },
+  "용산구": {
+    "average_monthly_income": 3706481.81,
+    "total_expenditure": 16070410593.75,
+    "food_expenditure": 2129563406.25,
+    "medical_expenditure": 371092968.75,
+    "education_expenditure": 91451062.5,
+    "leisure_expenditure": 1354196468.75,
+    "transport_expenditure": 182192250.0,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3794801.77,
+        "total_expenditure": 13769672562.5,
+        "food_expenditure": 1501261546.88,
+        "medical_expenditure": 228957625.0,
+        "education_expenditure": 82903046.88,
+        "leisure_expenditure": 1985819265.62,
+        "transport_expenditure": 359326718.75
+      },
+      "2024": {
+        "average_monthly_income": 3706481.81,
+        "total_expenditure": 10935832593.75,
+        "food_expenditure": 1452588671.88,
+        "medical_expenditure": 245951343.75,
+        "education_expenditure": 63879046.88,
+        "leisure_expenditure": 1098203171.88,
+        "transport_expenditure": 118559015.62
+      },
+      "2025": {
+        "average_monthly_income": 3706481.81,
+        "total_expenditure": 16070410593.75,
+        "food_expenditure": 2129563406.25,
+        "medical_expenditure": 371092968.75,
+        "education_expenditure": 91451062.5,
+        "leisure_expenditure": 1354196468.75,
+        "transport_expenditure": 182192250.0
+      },
+      "2020": {
+        "average_monthly_income": 3706481.81,
+        "total_expenditure": 13909876578.12,
+        "food_expenditure": 1163133703.12,
+        "medical_expenditure": 249437343.75,
+        "education_expenditure": 72362234.38,
+        "leisure_expenditure": 1477713078.12,
+        "transport_expenditure": 284799625.0
+      },
+      "2021": {
+        "average_monthly_income": 3706481.81,
+        "total_expenditure": 14983239781.25,
+        "food_expenditure": 1267154578.12,
+        "medical_expenditure": 282715062.5,
+        "education_expenditure": 78448265.62,
+        "leisure_expenditure": 1929991828.12,
+        "transport_expenditure": 252730625.0
+      },
+      "2022": {
+        "average_monthly_income": 3706481.81,
+        "total_expenditure": 14961788671.88,
+        "food_expenditure": 1794110453.12,
+        "medical_expenditure": 308222281.25,
+        "education_expenditure": 81991593.75,
+        "leisure_expenditure": 1594007562.5,
+        "transport_expenditure": 148037718.75
+      },
+      "2023": {
+        "average_monthly_income": 3706481.81,
+        "total_expenditure": 15542710078.12,
+        "food_expenditure": 1979241500.0,
+        "medical_expenditure": 327092359.38,
+        "education_expenditure": 91707390.62,
+        "leisure_expenditure": 1755085140.62,
+        "transport_expenditure": 134427937.5
+      }
+    }
+  },
+  "성동구": {
+    "average_monthly_income": 3603754.06,
+    "total_expenditure": 6268193764.71,
+    "food_expenditure": 1532064764.71,
+    "medical_expenditure": 843028882.35,
+    "education_expenditure": 188773352.94,
+    "leisure_expenditure": 872528558.82,
+    "transport_expenditure": 370993352.94,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3668513.43,
+        "total_expenditure": 3931454397.06,
+        "food_expenditure": 1084387485.29,
+        "medical_expenditure": 466184000.0,
+        "education_expenditure": 267852823.53,
+        "leisure_expenditure": 247515558.82,
+        "transport_expenditure": 407453117.65
+      },
+      "2024": {
+        "average_monthly_income": 3603754.06,
+        "total_expenditure": 3826288014.71,
+        "food_expenditure": 1074820852.94,
+        "medical_expenditure": 547584367.65,
+        "education_expenditure": 122385279.41,
+        "leisure_expenditure": 290891779.41,
+        "transport_expenditure": 243103485.29
+      },
+      "2025": {
+        "average_monthly_income": 3603754.06,
+        "total_expenditure": 6268193764.71,
+        "food_expenditure": 1532064764.71,
+        "medical_expenditure": 843028882.35,
+        "education_expenditure": 188773352.94,
+        "leisure_expenditure": 872528558.82,
+        "transport_expenditure": 370993352.94
+      },
+      "2020": {
+        "average_monthly_income": 3603754.06,
+        "total_expenditure": 3988247485.29,
+        "food_expenditure": 1032935485.29,
+        "medical_expenditure": 533056147.06,
+        "education_expenditure": 214443279.41,
+        "leisure_expenditure": 211639602.94,
+        "transport_expenditure": 516200573.53
+      },
+      "2021": {
+        "average_monthly_income": 3603754.06,
+        "total_expenditure": 4260391852.94,
+        "food_expenditure": 1080991073.53,
+        "medical_expenditure": 615886191.18,
+        "education_expenditure": 204791911.76,
+        "leisure_expenditure": 246906058.82,
+        "transport_expenditure": 504149294.12
+      },
+      "2022": {
+        "average_monthly_income": 3603754.06,
+        "total_expenditure": 4894500838.24,
+        "food_expenditure": 1378528235.29,
+        "medical_expenditure": 752533455.88,
+        "education_expenditure": 166330088.24,
+        "leisure_expenditure": 268726117.65,
+        "transport_expenditure": 422579558.82
+      },
+      "2023": {
+        "average_monthly_income": 3603754.06,
+        "total_expenditure": 5084359779.41,
+        "food_expenditure": 1524865161.76,
+        "medical_expenditure": 787756794.12,
+        "education_expenditure": 160552838.24,
+        "leisure_expenditure": 300951470.59,
+        "transport_expenditure": 334890397.06
+      }
+    }
+  },
+  "광진구": {
+    "average_monthly_income": 3050284.13,
+    "total_expenditure": 6435056233.33,
+    "food_expenditure": 2036685133.33,
+    "medical_expenditure": 1051369000.0,
+    "education_expenditure": 239066533.33,
+    "leisure_expenditure": 411715833.33,
+    "transport_expenditure": 394036000.0,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3138909.38,
+        "total_expenditure": 5383638733.33,
+        "food_expenditure": 1745704050.0,
+        "medical_expenditure": 575004050.0,
+        "education_expenditure": 222414950.0,
+        "leisure_expenditure": 423998500.0,
+        "transport_expenditure": 334594450.0
+      },
+      "2024": {
+        "average_monthly_income": 3050284.13,
+        "total_expenditure": 4441803850.0,
+        "food_expenditure": 1426555833.33,
+        "medical_expenditure": 682272566.67,
+        "education_expenditure": 150708416.67,
+        "leisure_expenditure": 291607150.0,
+        "transport_expenditure": 270837300.0
+      },
+      "2025": {
+        "average_monthly_income": 3050284.13,
+        "total_expenditure": 6435056233.33,
+        "food_expenditure": 2036685133.33,
+        "medical_expenditure": 1051369000.0,
+        "education_expenditure": 239066533.33,
+        "leisure_expenditure": 411715833.33,
+        "transport_expenditure": 394036000.0
+      },
+      "2020": {
+        "average_monthly_income": 3050284.13,
+        "total_expenditure": 4869020150.0,
+        "food_expenditure": 1433259300.0,
+        "medical_expenditure": 611204366.67,
+        "education_expenditure": 183439616.67,
+        "leisure_expenditure": 317850750.0,
+        "transport_expenditure": 314051450.0
+      },
+      "2021": {
+        "average_monthly_income": 3050284.13,
+        "total_expenditure": 4966538116.67,
+        "food_expenditure": 1363917750.0,
+        "medical_expenditure": 714805016.67,
+        "education_expenditure": 193936950.0,
+        "leisure_expenditure": 330012500.0,
+        "transport_expenditure": 353539066.67
+      },
+      "2022": {
+        "average_monthly_income": 3050284.13,
+        "total_expenditure": 6025518933.33,
+        "food_expenditure": 1823411500.0,
+        "medical_expenditure": 801997650.0,
+        "education_expenditure": 198099000.0,
+        "leisure_expenditure": 412033183.33,
+        "transport_expenditure": 441864650.0
+      },
+      "2023": {
+        "average_monthly_income": 3050284.13,
+        "total_expenditure": 6521286616.67,
+        "food_expenditure": 2065483300.0,
+        "medical_expenditure": 883263366.67,
+        "education_expenditure": 212233316.67,
+        "leisure_expenditure": 438588983.33,
+        "transport_expenditure": 406131600.0
+      }
+    }
+  },
+  "동대문구": {
+    "average_monthly_income": 3019703.07,
+    "total_expenditure": 6413771178.57,
+    "food_expenditure": 1520363464.29,
+    "medical_expenditure": 1568207678.57,
+    "education_expenditure": 235347214.29,
+    "leisure_expenditure": 331211928.57,
+    "transport_expenditure": 340494535.71,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3086956.38,
+        "total_expenditure": 5375797089.29,
+        "food_expenditure": 1267007821.43,
+        "medical_expenditure": 1223780910.71,
+        "education_expenditure": 160458535.71,
+        "leisure_expenditure": 259294642.86,
+        "transport_expenditure": 406140107.14
+      },
+      "2024": {
+        "average_monthly_income": 3019703.07,
+        "total_expenditure": 4438295053.57,
+        "food_expenditure": 1081296446.43,
+        "medical_expenditure": 1047350589.29,
+        "education_expenditure": 154585660.71,
+        "leisure_expenditure": 229996750.0,
+        "transport_expenditure": 255434142.86
+      },
+      "2025": {
+        "average_monthly_income": 3019703.07,
+        "total_expenditure": 6413771178.57,
+        "food_expenditure": 1520363464.29,
+        "medical_expenditure": 1568207678.57,
+        "education_expenditure": 235347214.29,
+        "leisure_expenditure": 331211928.57,
+        "transport_expenditure": 340494535.71
+      },
+      "2020": {
+        "average_monthly_income": 3019703.07,
+        "total_expenditure": 5324098339.29,
+        "food_expenditure": 1087920125.0,
+        "medical_expenditure": 1311815464.29,
+        "education_expenditure": 145279142.86,
+        "leisure_expenditure": 220123767.86,
+        "transport_expenditure": 390925607.14
+      },
+      "2021": {
+        "average_monthly_income": 3019703.07,
+        "total_expenditure": 5694348910.71,
+        "food_expenditure": 1044831660.71,
+        "medical_expenditure": 1465200946.43,
+        "education_expenditure": 162783196.43,
+        "leisure_expenditure": 252862285.71,
+        "transport_expenditure": 422205803.57
+      },
+      "2022": {
+        "average_monthly_income": 3019703.07,
+        "total_expenditure": 6255386375.0,
+        "food_expenditure": 1312061053.57,
+        "medical_expenditure": 1492897142.86,
+        "education_expenditure": 178866089.29,
+        "leisure_expenditure": 309775553.57,
+        "transport_expenditure": 481068089.29
+      },
+      "2023": {
+        "average_monthly_income": 3019703.07,
+        "total_expenditure": 6485672732.14,
+        "food_expenditure": 1506579928.57,
+        "medical_expenditure": 1522677678.57,
+        "education_expenditure": 207999392.86,
+        "leisure_expenditure": 346670178.57,
+        "transport_expenditure": 409353982.14
+      }
+    }
+  },
+  "중랑구": {
+    "average_monthly_income": 2560285.5,
+    "total_expenditure": 4211006500.0,
+    "food_expenditure": 1081104281.25,
+    "medical_expenditure": 716274218.75,
+    "education_expenditure": 156571843.75,
+    "leisure_expenditure": 223126156.25,
+    "transport_expenditure": 302218687.5,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 2639162.72,
+        "total_expenditure": 3582908343.75,
+        "food_expenditure": 831073968.75,
+        "medical_expenditure": 495309250.0,
+        "education_expenditure": 181154968.75,
+        "leisure_expenditure": 275180937.5,
+        "transport_expenditure": 215939062.5
+      },
+      "2024": {
+        "average_monthly_income": 2560285.5,
+        "total_expenditure": 2886664453.12,
+        "food_expenditure": 738104328.12,
+        "medical_expenditure": 481385687.5,
+        "education_expenditure": 103413406.25,
+        "leisure_expenditure": 158033296.88,
+        "transport_expenditure": 208412625.0
+      },
+      "2023": {
+        "average_monthly_income": 2560285.5,
+        "total_expenditure": 4162794062.5,
+        "food_expenditure": 1054924468.75,
+        "medical_expenditure": 670879062.5,
+        "education_expenditure": 169230421.88,
+        "leisure_expenditure": 245195140.62,
+        "transport_expenditure": 280136015.62
+      },
+      "2025": {
+        "average_monthly_income": 2560285.5,
+        "total_expenditure": 4211006500.0,
+        "food_expenditure": 1081104281.25,
+        "medical_expenditure": 716274218.75,
+        "education_expenditure": 156571843.75,
+        "leisure_expenditure": 223126156.25,
+        "transport_expenditure": 302218687.5
+      },
+      "2020": {
+        "average_monthly_income": 2560285.5,
+        "total_expenditure": 3432881796.88,
+        "food_expenditure": 758424281.25,
+        "medical_expenditure": 576497218.75,
+        "education_expenditure": 157053500.0,
+        "leisure_expenditure": 227944937.5,
+        "transport_expenditure": 223435140.62
+      },
+      "2021": {
+        "average_monthly_income": 2560285.5,
+        "total_expenditure": 3479911968.75,
+        "food_expenditure": 746528265.62,
+        "medical_expenditure": 648690359.38,
+        "education_expenditure": 160623437.5,
+        "leisure_expenditure": 213948640.62,
+        "transport_expenditure": 247907140.62
+      },
+      "2022": {
+        "average_monthly_income": 2560285.5,
+        "total_expenditure": 3927040750.0,
+        "food_expenditure": 928898703.12,
+        "medical_expenditure": 659858687.5,
+        "education_expenditure": 159248640.62,
+        "leisure_expenditure": 227135078.12,
+        "transport_expenditure": 291803250.0
+      }
+    }
+  },
+  "성북구": {
+    "average_monthly_income": 3185980.5,
+    "total_expenditure": 4128385300.0,
+    "food_expenditure": 1132073100.0,
+    "medical_expenditure": 602769950.0,
+    "education_expenditure": 229791300.0,
+    "leisure_expenditure": 362809550.0,
+    "transport_expenditure": 277779250.0,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3251939.06,
+        "total_expenditure": 3428541862.5,
+        "food_expenditure": 1008610812.5,
+        "medical_expenditure": 396250887.5,
+        "education_expenditure": 199263100.0,
+        "leisure_expenditure": 373611162.5,
+        "transport_expenditure": 160110937.5
+      },
+      "2024": {
+        "average_monthly_income": 3185980.5,
+        "total_expenditure": 2864793162.5,
+        "food_expenditure": 801453950.0,
+        "medical_expenditure": 407073212.5,
+        "education_expenditure": 148962925.0,
+        "leisure_expenditure": 249010850.0,
+        "transport_expenditure": 192850837.5
+      },
+      "2025": {
+        "average_monthly_income": 3185980.5,
+        "total_expenditure": 4128385300.0,
+        "food_expenditure": 1132073100.0,
+        "medical_expenditure": 602769950.0,
+        "education_expenditure": 229791300.0,
+        "leisure_expenditure": 362809550.0,
+        "transport_expenditure": 277779250.0
+      },
+      "2020": {
+        "average_monthly_income": 3185980.5,
+        "total_expenditure": 3248890250.0,
+        "food_expenditure": 831393137.5,
+        "medical_expenditure": 417833250.0,
+        "education_expenditure": 171503275.0,
+        "leisure_expenditure": 290111412.5,
+        "transport_expenditure": 246887762.5
+      },
+      "2021": {
+        "average_monthly_income": 3185980.5,
+        "total_expenditure": 3344239937.5,
+        "food_expenditure": 804588487.5,
+        "medical_expenditure": 438136837.5,
+        "education_expenditure": 176912987.5,
+        "leisure_expenditure": 301492412.5,
+        "transport_expenditure": 289890087.5
+      },
+      "2022": {
+        "average_monthly_income": 3185980.5,
+        "total_expenditure": 3817365062.5,
+        "food_expenditure": 1008349937.5,
+        "medical_expenditure": 474948587.5,
+        "education_expenditure": 180403225.0,
+        "leisure_expenditure": 352919762.5,
+        "transport_expenditure": 319749675.0
+      },
+      "2023": {
+        "average_monthly_income": 3185980.5,
+        "total_expenditure": 4095040400.0,
+        "food_expenditure": 1133026437.5,
+        "medical_expenditure": 541271275.0,
+        "education_expenditure": 208197975.0,
+        "leisure_expenditure": 355778612.5,
+        "transport_expenditure": 280925537.5
+      }
+    }
+  },
+  "강북구": {
+    "average_monthly_income": 2500615.62,
+    "total_expenditure": 4559791423.08,
+    "food_expenditure": 1264739576.92,
+    "medical_expenditure": 904344615.38,
+    "education_expenditure": 119063192.31,
+    "leisure_expenditure": 274196961.54,
+    "transport_expenditure": 251247038.46,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 2571631.15,
+        "total_expenditure": 3921109538.46,
+        "food_expenditure": 1134903576.92,
+        "medical_expenditure": 565194057.69,
+        "education_expenditure": 109285134.62,
+        "leisure_expenditure": 287172576.92,
+        "transport_expenditure": 227790692.31
+      },
+      "2024": {
+        "average_monthly_income": 2500615.62,
+        "total_expenditure": 3171168000.0,
+        "food_expenditure": 896072923.08,
+        "medical_expenditure": 608660692.31,
+        "education_expenditure": 82330538.46,
+        "leisure_expenditure": 196759576.92,
+        "transport_expenditure": 176304692.31
+      },
+      "2025": {
+        "average_monthly_income": 2500615.62,
+        "total_expenditure": 4559791423.08,
+        "food_expenditure": 1264739576.92,
+        "medical_expenditure": 904344615.38,
+        "education_expenditure": 119063192.31,
+        "leisure_expenditure": 274196961.54,
+        "transport_expenditure": 251247038.46
+      },
+      "2020": {
+        "average_monthly_income": 2500615.62,
+        "total_expenditure": 3775788653.85,
+        "food_expenditure": 1029632730.77,
+        "medical_expenditure": 602847500.0,
+        "education_expenditure": 97356557.69,
+        "leisure_expenditure": 234557403.85,
+        "transport_expenditure": 224819000.0
+      },
+      "2021": {
+        "average_monthly_income": 2500615.62,
+        "total_expenditure": 3824732192.31,
+        "food_expenditure": 941600807.69,
+        "medical_expenditure": 673830788.46,
+        "education_expenditure": 104110134.62,
+        "leisure_expenditure": 235744365.38,
+        "transport_expenditure": 280972615.38
+      },
+      "2022": {
+        "average_monthly_income": 2500615.62,
+        "total_expenditure": 4368120384.62,
+        "food_expenditure": 1170585057.69,
+        "medical_expenditure": 752764269.23,
+        "education_expenditure": 110224480.77,
+        "leisure_expenditure": 282524000.0,
+        "transport_expenditure": 290494807.69
+      },
+      "2023": {
+        "average_monthly_income": 2500615.62,
+        "total_expenditure": 4633756942.31,
+        "food_expenditure": 1315415615.38,
+        "medical_expenditure": 802610000.0,
+        "education_expenditure": 124199673.08,
+        "leisure_expenditure": 294332923.08,
+        "transport_expenditure": 258063500.0
+      }
+    }
+  },
+  "도봉구": {
+    "average_monthly_income": 2713302.14,
+    "total_expenditure": 3594608892.86,
+    "food_expenditure": 896368714.29,
+    "medical_expenditure": 525689321.43,
+    "education_expenditure": 183985750.0,
+    "leisure_expenditure": 205652321.43,
+    "transport_expenditure": 340575142.86,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 2806350.89,
+        "total_expenditure": 2942693732.14,
+        "food_expenditure": 748316625.0,
+        "medical_expenditure": 352291928.57,
+        "education_expenditure": 160850089.29,
+        "leisure_expenditure": 193636142.86,
+        "transport_expenditure": 275300321.43
+      },
+      "2024": {
+        "average_monthly_income": 2713302.14,
+        "total_expenditure": 2490635857.14,
+        "food_expenditure": 633716857.14,
+        "medical_expenditure": 350459482.14,
+        "education_expenditure": 119815375.0,
+        "leisure_expenditure": 145582410.71,
+        "transport_expenditure": 230780339.29
+      },
+      "2025": {
+        "average_monthly_income": 2713302.14,
+        "total_expenditure": 3594608892.86,
+        "food_expenditure": 896368714.29,
+        "medical_expenditure": 525689321.43,
+        "education_expenditure": 183985750.0,
+        "leisure_expenditure": 205652321.43,
+        "transport_expenditure": 340575142.86
+      },
+      "2020": {
+        "average_monthly_income": 2713302.14,
+        "total_expenditure": 2900018125.0,
+        "food_expenditure": 703710625.0,
+        "medical_expenditure": 379036750.0,
+        "education_expenditure": 143158375.0,
+        "leisure_expenditure": 172690803.57,
+        "transport_expenditure": 270421696.43
+      },
+      "2021": {
+        "average_monthly_income": 2713302.14,
+        "total_expenditure": 3004510303.57,
+        "food_expenditure": 681134392.86,
+        "medical_expenditure": 415231357.14,
+        "education_expenditure": 151255410.71,
+        "leisure_expenditure": 176173875.0,
+        "transport_expenditure": 313859982.14
+      },
+      "2022": {
+        "average_monthly_income": 2713302.14,
+        "total_expenditure": 3309552928.57,
+        "food_expenditure": 811738339.29,
+        "medical_expenditure": 439450589.29,
+        "education_expenditure": 146358535.71,
+        "leisure_expenditure": 203101250.0,
+        "transport_expenditure": 351443339.29
+      },
+      "2023": {
+        "average_monthly_income": 2713302.14,
+        "total_expenditure": 3540786732.14,
+        "food_expenditure": 895037875.0,
+        "medical_expenditure": 466777250.0,
+        "education_expenditure": 155418250.0,
+        "leisure_expenditure": 218834750.0,
+        "transport_expenditure": 332598464.29
+      }
+    }
+  },
+  "노원구": {
+    "average_monthly_income": 3192701.26,
+    "total_expenditure": 6441131473.68,
+    "food_expenditure": 1448536105.26,
+    "medical_expenditure": 1146404184.21,
+    "education_expenditure": 473935868.42,
+    "leisure_expenditure": 615439789.47,
+    "transport_expenditure": 228926368.42,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3298148.97,
+        "total_expenditure": 5491915394.74,
+        "food_expenditure": 1200759802.63,
+        "medical_expenditure": 675693842.11,
+        "education_expenditure": 429238171.05,
+        "leisure_expenditure": 716539486.84,
+        "transport_expenditure": 164498565.79
+      },
+      "2024": {
+        "average_monthly_income": 3192701.26,
+        "total_expenditure": 4458849631.58,
+        "food_expenditure": 1015613131.58,
+        "medical_expenditure": 729622947.37,
+        "education_expenditure": 316624907.89,
+        "leisure_expenditure": 461214473.68,
+        "transport_expenditure": 158131276.32
+      },
+      "2025": {
+        "average_monthly_income": 3192701.26,
+        "total_expenditure": 6441131473.68,
+        "food_expenditure": 1448536105.26,
+        "medical_expenditure": 1146404184.21,
+        "education_expenditure": 473935868.42,
+        "leisure_expenditure": 615439789.47,
+        "transport_expenditure": 228926368.42
+      },
+      "2020": {
+        "average_monthly_income": 3192701.26,
+        "total_expenditure": 5184573342.11,
+        "food_expenditure": 1057854947.37,
+        "medical_expenditure": 712361644.74,
+        "education_expenditure": 350517210.53,
+        "leisure_expenditure": 617612421.05,
+        "transport_expenditure": 155191592.11
+      },
+      "2021": {
+        "average_monthly_income": 3192701.26,
+        "total_expenditure": 5363054526.32,
+        "food_expenditure": 1030555921.05,
+        "medical_expenditure": 783260000.0,
+        "education_expenditure": 373865618.42,
+        "leisure_expenditure": 644149947.37,
+        "transport_expenditure": 182777407.89
+      },
+      "2022": {
+        "average_monthly_income": 3192701.26,
+        "total_expenditure": 6078796223.68,
+        "food_expenditure": 1283469776.32,
+        "medical_expenditure": 877696513.16,
+        "education_expenditure": 412275789.47,
+        "leisure_expenditure": 708253592.11,
+        "transport_expenditure": 218529250.0
+      },
+      "2023": {
+        "average_monthly_income": 3192701.26,
+        "total_expenditure": 6484592210.53,
+        "food_expenditure": 1456958710.53,
+        "medical_expenditure": 967114447.37,
+        "education_expenditure": 455082394.74,
+        "leisure_expenditure": 710734447.37,
+        "transport_expenditure": 212343947.37
+      }
+    }
+  },
+  "은평구": {
+    "average_monthly_income": 2834276.19,
+    "total_expenditure": 5597060812.5,
+    "food_expenditure": 1323946000.0,
+    "medical_expenditure": 1282620656.25,
+    "education_expenditure": 319398062.5,
+    "leisure_expenditure": 266805406.25,
+    "transport_expenditure": 275185968.75,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 2915901.97,
+        "total_expenditure": 4171322109.38,
+        "food_expenditure": 1092918140.62,
+        "medical_expenditure": 719337062.5,
+        "education_expenditure": 255592312.5,
+        "leisure_expenditure": 252287515.62,
+        "transport_expenditure": 254216609.38
+      },
+      "2024": {
+        "average_monthly_income": 2834276.19,
+        "total_expenditure": 3838482281.25,
+        "food_expenditure": 922178640.62,
+        "medical_expenditure": 842169625.0,
+        "education_expenditure": 218720484.38,
+        "leisure_expenditure": 196349109.38,
+        "transport_expenditure": 190326031.25
+      },
+      "2025": {
+        "average_monthly_income": 2834276.19,
+        "total_expenditure": 5597060812.5,
+        "food_expenditure": 1323946000.0,
+        "medical_expenditure": 1282620656.25,
+        "education_expenditure": 319398062.5,
+        "leisure_expenditure": 266805406.25,
+        "transport_expenditure": 275185968.75
+      },
+      "2020": {
+        "average_monthly_income": 2834276.19,
+        "total_expenditure": 4269504640.62,
+        "food_expenditure": 1028867984.38,
+        "medical_expenditure": 834888140.62,
+        "education_expenditure": 235556500.0,
+        "leisure_expenditure": 227950718.75,
+        "transport_expenditure": 235088750.0
+      },
+      "2021": {
+        "average_monthly_income": 2834276.19,
+        "total_expenditure": 4633335859.38,
+        "food_expenditure": 998432546.88,
+        "medical_expenditure": 970897625.0,
+        "education_expenditure": 254348078.12,
+        "leisure_expenditure": 252988125.0,
+        "transport_expenditure": 259323687.5
+      },
+      "2022": {
+        "average_monthly_income": 2834276.19,
+        "total_expenditure": 5163609953.12,
+        "food_expenditure": 1198792781.25,
+        "medical_expenditure": 1088090937.5,
+        "education_expenditure": 263140671.88,
+        "leisure_expenditure": 279988531.25,
+        "transport_expenditure": 268500953.12
+      },
+      "2023": {
+        "average_monthly_income": 2834276.19,
+        "total_expenditure": 5546496687.5,
+        "food_expenditure": 1329104953.12,
+        "medical_expenditure": 1200061359.38,
+        "education_expenditure": 298553109.38,
+        "leisure_expenditure": 296961515.62,
+        "transport_expenditure": 272783140.62
+      }
+    }
+  },
+  "서대문구": {
+    "average_monthly_income": 3475175.14,
+    "total_expenditure": 9441681750.0,
+    "food_expenditure": 1380345714.29,
+    "medical_expenditure": 5609683928.57,
+    "education_expenditure": 286940178.57,
+    "leisure_expenditure": 300096428.57,
+    "transport_expenditure": 212360535.71,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3516480.86,
+        "total_expenditure": 7176518589.29,
+        "food_expenditure": 1277311714.29,
+        "medical_expenditure": 3823323392.86,
+        "education_expenditure": 234987839.29,
+        "leisure_expenditure": 301956875.0,
+        "transport_expenditure": 140154660.71
+      },
+      "2024": {
+        "average_monthly_income": 3475175.14,
+        "total_expenditure": 6001082446.43,
+        "food_expenditure": 987455785.71,
+        "medical_expenditure": 3277916339.29,
+        "education_expenditure": 189876517.86,
+        "leisure_expenditure": 212368696.43,
+        "transport_expenditure": 151567232.14
+      },
+      "2025": {
+        "average_monthly_income": 3475175.14,
+        "total_expenditure": 9441681750.0,
+        "food_expenditure": 1380345714.29,
+        "medical_expenditure": 5609683928.57,
+        "education_expenditure": 286940178.57,
+        "leisure_expenditure": 300096428.57,
+        "transport_expenditure": 212360535.71
+      },
+      "2020": {
+        "average_monthly_income": 3475175.14,
+        "total_expenditure": 8329299125.0,
+        "food_expenditure": 1026413964.29,
+        "medical_expenditure": 5366340928.57,
+        "education_expenditure": 194658964.29,
+        "leisure_expenditure": 217607571.43,
+        "transport_expenditure": 137401160.71
+      },
+      "2021": {
+        "average_monthly_income": 3475175.14,
+        "total_expenditure": 8590144107.14,
+        "food_expenditure": 977839482.14,
+        "medical_expenditure": 5582430053.57,
+        "education_expenditure": 209251250.0,
+        "leisure_expenditure": 220144410.71,
+        "transport_expenditure": 183861964.29
+      },
+      "2022": {
+        "average_monthly_income": 3475175.14,
+        "total_expenditure": 9690044517.86,
+        "food_expenditure": 1249646446.43,
+        "medical_expenditure": 6086743803.57,
+        "education_expenditure": 225611875.0,
+        "leisure_expenditure": 273821803.57,
+        "transport_expenditure": 201002357.14
+      },
+      "2023": {
+        "average_monthly_income": 3475175.14,
+        "total_expenditure": 8218783964.29,
+        "food_expenditure": 1425955500.0,
+        "medical_expenditure": 4264876232.14,
+        "education_expenditure": 265489660.71,
+        "leisure_expenditure": 307883089.29,
+        "transport_expenditure": 178702982.14
+      }
+    }
+  },
+  "마포구": {
+    "average_monthly_income": 3741062.88,
+    "total_expenditure": 13993854375.0,
+    "food_expenditure": 3363646000.0,
+    "medical_expenditure": 1275206312.5,
+    "education_expenditure": 561467562.5,
+    "leisure_expenditure": 5201881687.5,
+    "transport_expenditure": 204629062.5,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3805838.03,
+        "total_expenditure": 28213189625.0,
+        "food_expenditure": 2988185375.0,
+        "medical_expenditure": 813544468.75,
+        "education_expenditure": 514061062.5,
+        "leisure_expenditure": 20567528828.12,
+        "transport_expenditure": 129860640.62
+      },
+      "2024": {
+        "average_monthly_income": 3741062.88,
+        "total_expenditure": 42095656468.75,
+        "food_expenditure": 2358071500.0,
+        "medical_expenditure": 858750875.0,
+        "education_expenditure": 394248234.38,
+        "leisure_expenditure": 35833951906.25,
+        "transport_expenditure": 165222312.5
+      },
+      "2025": {
+        "average_monthly_income": 3741062.88,
+        "total_expenditure": 13993854375.0,
+        "food_expenditure": 3363646000.0,
+        "medical_expenditure": 1275206312.5,
+        "education_expenditure": 561467562.5,
+        "leisure_expenditure": 5201881687.5,
+        "transport_expenditure": 204629062.5
+      },
+      "2020": {
+        "average_monthly_income": 3741062.88,
+        "total_expenditure": 34910247906.25,
+        "food_expenditure": 2408999109.38,
+        "medical_expenditure": 858114640.62,
+        "education_expenditure": 442639109.38,
+        "leisure_expenditure": 28194705968.75,
+        "transport_expenditure": 154914265.62
+      },
+      "2021": {
+        "average_monthly_income": 3741062.88,
+        "total_expenditure": 64321710312.5,
+        "food_expenditure": 2336537046.88,
+        "medical_expenditure": 959643187.5,
+        "education_expenditure": 489524515.62,
+        "leisure_expenditure": 57353261953.12,
+        "transport_expenditure": 207169828.12
+      },
+      "2022": {
+        "average_monthly_income": 3741062.88,
+        "total_expenditure": 65436062046.88,
+        "food_expenditure": 3017933484.38,
+        "medical_expenditure": 1111796343.75,
+        "education_expenditure": 518997203.12,
+        "leisure_expenditure": 56994812828.12,
+        "transport_expenditure": 253230187.5
+      },
+      "2023": {
+        "average_monthly_income": 3741062.88,
+        "total_expenditure": 67452124343.75,
+        "food_expenditure": 3384494015.62,
+        "medical_expenditure": 1177100203.12,
+        "education_expenditure": 560170875.0,
+        "leisure_expenditure": 58297015968.75,
+        "transport_expenditure": 227667109.38
+      }
+    }
+  },
+  "양천구": {
+    "average_monthly_income": 3556134.22,
+    "total_expenditure": 5944378527.78,
+    "food_expenditure": 1130798305.56,
+    "medical_expenditure": 1265198250.0,
+    "education_expenditure": 776311055.56,
+    "leisure_expenditure": 628075805.56,
+    "transport_expenditure": 315585000.0,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3657285.31,
+        "total_expenditure": 14717881486.11,
+        "food_expenditure": 934659819.44,
+        "medical_expenditure": 760730347.22,
+        "education_expenditure": 572991388.89,
+        "leisure_expenditure": 10475024583.33,
+        "transport_expenditure": 279082097.22
+      },
+      "2024": {
+        "average_monthly_income": 3556134.22,
+        "total_expenditure": 4065316500.0,
+        "food_expenditure": 790220041.67,
+        "medical_expenditure": 829187694.44,
+        "education_expenditure": 528507305.56,
+        "leisure_expenditure": 415388333.33,
+        "transport_expenditure": 220126166.67
+      },
+      "2025": {
+        "average_monthly_income": 3556134.22,
+        "total_expenditure": 5944378527.78,
+        "food_expenditure": 1130798305.56,
+        "medical_expenditure": 1265198250.0,
+        "education_expenditure": 776311055.56,
+        "leisure_expenditure": 628075805.56,
+        "transport_expenditure": 315585000.0
+      },
+      "2020": {
+        "average_monthly_income": 3556134.22,
+        "total_expenditure": 16067380888.89,
+        "food_expenditure": 849070888.89,
+        "medical_expenditure": 804198305.56,
+        "education_expenditure": 535356652.78,
+        "leisure_expenditure": 11790315166.67,
+        "transport_expenditure": 293609111.11
+      },
+      "2021": {
+        "average_monthly_income": 3556134.22,
+        "total_expenditure": 15560558444.44,
+        "food_expenditure": 840063888.89,
+        "medical_expenditure": 914104000.0,
+        "education_expenditure": 595080347.22,
+        "leisure_expenditure": 11003096569.44,
+        "transport_expenditure": 349645152.78
+      },
+      "2022": {
+        "average_monthly_income": 3556134.22,
+        "total_expenditure": 10475347958.33,
+        "food_expenditure": 1012685458.33,
+        "medical_expenditure": 1043575013.89,
+        "education_expenditure": 657538652.78,
+        "leisure_expenditure": 5404381833.33,
+        "transport_expenditure": 416654152.78
+      },
+      "2023": {
+        "average_monthly_income": 3556134.22,
+        "total_expenditure": 5934600736.11,
+        "food_expenditure": 1132207958.33,
+        "medical_expenditure": 1134864902.78,
+        "education_expenditure": 718832625.0,
+        "leisure_expenditure": 620387902.78,
+        "transport_expenditure": 326346097.22
+      }
+    }
+  },
+  "강서구": {
+    "average_monthly_income": 3080256.0,
+    "total_expenditure": 11291394600.0,
+    "food_expenditure": 1755878775.0,
+    "medical_expenditure": 1688821300.0,
+    "education_expenditure": 358651625.0,
+    "leisure_expenditure": 2924048900.0,
+    "transport_expenditure": 1569845550.0,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3160831.35,
+        "total_expenditure": 10499688675.0,
+        "food_expenditure": 1485998950.0,
+        "medical_expenditure": 1303343350.0,
+        "education_expenditure": 292043575.0,
+        "leisure_expenditure": 3165810625.0,
+        "transport_expenditure": 1431613525.0
+      },
+      "2024": {
+        "average_monthly_income": 3080256.0,
+        "total_expenditure": 7736671812.5,
+        "food_expenditure": 1257620737.5,
+        "medical_expenditure": 1108916087.5,
+        "education_expenditure": 235684500.0,
+        "leisure_expenditure": 1780371462.5,
+        "transport_expenditure": 1216486937.5
+      },
+      "2025": {
+        "average_monthly_income": 3080256.0,
+        "total_expenditure": 11291394600.0,
+        "food_expenditure": 1755878775.0,
+        "medical_expenditure": 1688821300.0,
+        "education_expenditure": 358651625.0,
+        "leisure_expenditure": 2924048900.0,
+        "transport_expenditure": 1569845550.0
+      },
+      "2020": {
+        "average_monthly_income": 3080256.0,
+        "total_expenditure": 8340159387.5,
+        "food_expenditure": 1352588337.5,
+        "medical_expenditure": 2346926925.0,
+        "education_expenditure": 256162650.0,
+        "leisure_expenditure": 830854525.0,
+        "transport_expenditure": 712886950.0
+      },
+      "2021": {
+        "average_monthly_income": 3080256.0,
+        "total_expenditure": 9360486325.0,
+        "food_expenditure": 1339509325.0,
+        "medical_expenditure": 2863899925.0,
+        "education_expenditure": 277536900.0,
+        "leisure_expenditure": 967173887.5,
+        "transport_expenditure": 1000924837.5
+      },
+      "2022": {
+        "average_monthly_income": 3080256.0,
+        "total_expenditure": 10769551312.5,
+        "food_expenditure": 1664799362.5,
+        "medical_expenditure": 2737407950.0,
+        "education_expenditure": 295974525.0,
+        "leisure_expenditure": 1301287512.5,
+        "transport_expenditure": 1619589812.5
+      },
+      "2023": {
+        "average_monthly_income": 3080256.0,
+        "total_expenditure": 10753371850.0,
+        "food_expenditure": 1837561800.0,
+        "medical_expenditure": 1847265087.5,
+        "education_expenditure": 321708050.0,
+        "leisure_expenditure": 1732457175.0,
+        "transport_expenditure": 1785032375.0
+      }
+    }
+  },
+  "구로구": {
+    "average_monthly_income": 2909084.62,
+    "total_expenditure": 120466460531.25,
+    "food_expenditure": 1375560156.25,
+    "medical_expenditure": 1517577656.25,
+    "education_expenditure": 237752218.75,
+    "leisure_expenditure": 114900037281.25,
+    "transport_expenditure": 254454281.25,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3016718.72,
+        "total_expenditure": 42340006515.62,
+        "food_expenditure": 1206671468.75,
+        "medical_expenditure": 1402727984.38,
+        "education_expenditure": 194044703.12,
+        "leisure_expenditure": 37370135000.0,
+        "transport_expenditure": 443397406.25
+      },
+      "2024": {
+        "average_monthly_income": 2909084.62,
+        "total_expenditure": 71752786015.62,
+        "food_expenditure": 950004640.62,
+        "medical_expenditure": 1002409218.75,
+        "education_expenditure": 161205453.12,
+        "leisure_expenditure": 67930733812.5,
+        "transport_expenditure": 195068578.12
+      },
+      "2025": {
+        "average_monthly_income": 2909084.62,
+        "total_expenditure": 120466460531.25,
+        "food_expenditure": 1375560156.25,
+        "medical_expenditure": 1517577656.25,
+        "education_expenditure": 237752218.75,
+        "leisure_expenditure": 114900037281.25,
+        "transport_expenditure": 254454281.25
+      },
+      "2020": {
+        "average_monthly_income": 2909084.62,
+        "total_expenditure": 59941312093.75,
+        "food_expenditure": 1042375562.5,
+        "medical_expenditure": 1121257328.12,
+        "education_expenditure": 172076343.75,
+        "leisure_expenditure": 55428564203.12,
+        "transport_expenditure": 273756515.62
+      },
+      "2021": {
+        "average_monthly_income": 2909084.62,
+        "total_expenditure": 64176279312.5,
+        "food_expenditure": 1000849468.75,
+        "medical_expenditure": 1219767031.25,
+        "education_expenditure": 206316828.12,
+        "leisure_expenditure": 59492569500.0,
+        "transport_expenditure": 199331343.75
+      },
+      "2022": {
+        "average_monthly_income": 2909084.62,
+        "total_expenditure": 80958053312.5,
+        "food_expenditure": 1219455562.5,
+        "medical_expenditure": 1291511203.12,
+        "education_expenditure": 216722468.75,
+        "leisure_expenditure": 75868832671.88,
+        "transport_expenditure": 216828281.25
+      },
+      "2023": {
+        "average_monthly_income": 2909084.62,
+        "total_expenditure": 87459516109.38,
+        "food_expenditure": 1361517234.38,
+        "medical_expenditure": 1428762890.62,
+        "education_expenditure": 234634171.88,
+        "leisure_expenditure": 81996972593.75,
+        "transport_expenditure": 207346515.62
+      }
+    }
+  },
+  "금천구": {
+    "average_monthly_income": 2569717.0,
+    "total_expenditure": 7067503400.0,
+    "food_expenditure": 1336040750.0,
+    "medical_expenditure": 946434800.0,
+    "education_expenditure": 146060750.0,
+    "leisure_expenditure": 1138452050.0,
+    "transport_expenditure": 376033750.0,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2024": {
+        "average_monthly_income": 2569717.0,
+        "total_expenditure": 5045153025.0,
+        "food_expenditure": 922862225.0,
+        "medical_expenditure": 639749975.0,
+        "education_expenditure": 102293200.0,
+        "leisure_expenditure": 812183300.0,
+        "transport_expenditure": 248153000.0
+      },
+      "2019": {
+        "average_monthly_income": 2654402.95,
+        "total_expenditure": 11354585175.0,
+        "food_expenditure": 1174799525.0,
+        "medical_expenditure": 717851125.0,
+        "education_expenditure": 157033175.0,
+        "leisure_expenditure": 474081425.0,
+        "transport_expenditure": 317295400.0
+      },
+      "2023": {
+        "average_monthly_income": 2569717.0,
+        "total_expenditure": 7439893675.0,
+        "food_expenditure": 1358362225.0,
+        "medical_expenditure": 890977550.0,
+        "education_expenditure": 152530000.0,
+        "leisure_expenditure": 931916775.0,
+        "transport_expenditure": 377564300.0
+      },
+      "2025": {
+        "average_monthly_income": 2569717.0,
+        "total_expenditure": 7067503400.0,
+        "food_expenditure": 1336040750.0,
+        "medical_expenditure": 946434800.0,
+        "education_expenditure": 146060750.0,
+        "leisure_expenditure": 1138452050.0,
+        "transport_expenditure": 376033750.0
+      },
+      "2020": {
+        "average_monthly_income": 2569717.0,
+        "total_expenditure": 11043104025.0,
+        "food_expenditure": 1085192975.0,
+        "medical_expenditure": 781505825.0,
+        "education_expenditure": 133256150.0,
+        "leisure_expenditure": 392796900.0,
+        "transport_expenditure": 291255950.0
+      },
+      "2021": {
+        "average_monthly_income": 2569717.0,
+        "total_expenditure": 10258775550.0,
+        "food_expenditure": 1064469775.0,
+        "medical_expenditure": 742191300.0,
+        "education_expenditure": 132167000.0,
+        "leisure_expenditure": 477313150.0,
+        "transport_expenditure": 341908500.0
+      },
+      "2022": {
+        "average_monthly_income": 2569717.0,
+        "total_expenditure": 6960470975.0,
+        "food_expenditure": 1261141100.0,
+        "medical_expenditure": 830442950.0,
+        "education_expenditure": 137163475.0,
+        "leisure_expenditure": 596937550.0,
+        "transport_expenditure": 422937775.0
+      }
+    }
+  },
+  "영등포구": {
+    "average_monthly_income": 3351857.28,
+    "total_expenditure": 94258698805.56,
+    "food_expenditure": 2559561861.11,
+    "medical_expenditure": 1493521666.67,
+    "education_expenditure": 213371694.44,
+    "leisure_expenditure": 81792517222.22,
+    "transport_expenditure": 4747132222.22,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3451040.9,
+        "total_expenditure": 11734212319.44,
+        "food_expenditure": 1997731875.0,
+        "medical_expenditure": 792260000.0,
+        "education_expenditure": 193909416.67,
+        "leisure_expenditure": 1425779222.22,
+        "transport_expenditure": 3419169138.89
+      },
+      "2024": {
+        "average_monthly_income": 3351857.28,
+        "total_expenditure": 22279506847.22,
+        "food_expenditure": 1799950291.67,
+        "medical_expenditure": 965828180.56,
+        "education_expenditure": 148373333.33,
+        "leisure_expenditure": 14079527777.78,
+        "transport_expenditure": 2910109333.33
+      },
+      "2025": {
+        "average_monthly_income": 3351857.28,
+        "total_expenditure": 94258698805.56,
+        "food_expenditure": 2559561861.11,
+        "medical_expenditure": 1493521666.67,
+        "education_expenditure": 213371694.44,
+        "leisure_expenditure": 81792517222.22,
+        "transport_expenditure": 4747132222.22
+      },
+      "2020": {
+        "average_monthly_income": 3351857.28,
+        "total_expenditure": 16251673583.33,
+        "food_expenditure": 1759390972.22,
+        "medical_expenditure": 859897125.0,
+        "education_expenditure": 152683347.22,
+        "leisure_expenditure": 1514613958.33,
+        "transport_expenditure": 8203431722.22
+      },
+      "2021": {
+        "average_monthly_income": 3351857.28,
+        "total_expenditure": 17676237430.56,
+        "food_expenditure": 1800439888.89,
+        "medical_expenditure": 984122833.33,
+        "education_expenditure": 156572069.44,
+        "leisure_expenditure": 1842894250.0,
+        "transport_expenditure": 8922243472.22
+      },
+      "2022": {
+        "average_monthly_income": 3351857.28,
+        "total_expenditure": 14256546486.11,
+        "food_expenditure": 2302378888.89,
+        "medical_expenditure": 1121226541.67,
+        "education_expenditure": 174293527.78,
+        "leisure_expenditure": 2093335416.67,
+        "transport_expenditure": 4330028513.89
+      },
+      "2023": {
+        "average_monthly_income": 3351857.28,
+        "total_expenditure": 12209266305.56,
+        "food_expenditure": 2616997944.44,
+        "medical_expenditure": 1297696027.78,
+        "education_expenditure": 194521347.22,
+        "leisure_expenditure": 2468733833.33,
+        "transport_expenditure": 2018913138.89
+      }
+    }
+  },
+  "동작구": {
+    "average_monthly_income": 3353506.47,
+    "total_expenditure": 10915218633.33,
+    "food_expenditure": 1609699600.0,
+    "medical_expenditure": 1209852133.33,
+    "education_expenditure": 291139733.33,
+    "leisure_expenditure": 294008766.67,
+    "transport_expenditure": 5205542700.0,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3460501.77,
+        "total_expenditure": 10272990333.33,
+        "food_expenditure": 1347520650.0,
+        "medical_expenditure": 867877716.67,
+        "education_expenditure": 308376266.67,
+        "leisure_expenditure": 333753083.33,
+        "transport_expenditure": 5623719800.0
+      },
+      "2024": {
+        "average_monthly_income": 3353506.47,
+        "total_expenditure": 8101421466.67,
+        "food_expenditure": 1112311983.33,
+        "medical_expenditure": 768058000.0,
+        "education_expenditure": 195270600.0,
+        "leisure_expenditure": 195809766.67,
+        "transport_expenditure": 4265702050.0
+      },
+      "2025": {
+        "average_monthly_income": 3353506.47,
+        "total_expenditure": 10915218633.33,
+        "food_expenditure": 1609699600.0,
+        "medical_expenditure": 1209852133.33,
+        "education_expenditure": 291139733.33,
+        "leisure_expenditure": 294008766.67,
+        "transport_expenditure": 5205542700.0
+      },
+      "2020": {
+        "average_monthly_income": 3353506.47,
+        "total_expenditure": 9518086800.0,
+        "food_expenditure": 1105358733.33,
+        "medical_expenditure": 861224966.67,
+        "education_expenditure": 248253466.67,
+        "leisure_expenditure": 284516450.0,
+        "transport_expenditure": 5177723916.67
+      },
+      "2021": {
+        "average_monthly_income": 3353506.47,
+        "total_expenditure": 9792386933.33,
+        "food_expenditure": 1035271016.67,
+        "medical_expenditure": 967220083.33,
+        "education_expenditure": 253081200.0,
+        "leisure_expenditure": 325724016.67,
+        "transport_expenditure": 5326201700.0
+      },
+      "2022": {
+        "average_monthly_income": 3353506.47,
+        "total_expenditure": 11293336666.67,
+        "food_expenditure": 1323815966.67,
+        "medical_expenditure": 1048385983.33,
+        "education_expenditure": 263691833.33,
+        "leisure_expenditure": 380273350.0,
+        "transport_expenditure": 6194631300.0
+      },
+      "2023": {
+        "average_monthly_income": 3353506.47,
+        "total_expenditure": 12062254916.67,
+        "food_expenditure": 1535187866.67,
+        "medical_expenditure": 1141863400.0,
+        "education_expenditure": 278923750.0,
+        "leisure_expenditure": 324531966.67,
+        "transport_expenditure": 6515274633.33
+      }
+    }
+  },
+  "관악구": {
+    "average_monthly_income": 2782049.29,
+    "total_expenditure": 5486348166.67,
+    "food_expenditure": 1418596047.62,
+    "medical_expenditure": 889336071.43,
+    "education_expenditure": 678743928.57,
+    "leisure_expenditure": 336228547.62,
+    "transport_expenditure": 150621761.9,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 2901024.29,
+        "total_expenditure": 4877933571.43,
+        "food_expenditure": 1287192845.24,
+        "medical_expenditure": 566808726.19,
+        "education_expenditure": 677211297.62,
+        "leisure_expenditure": 316475690.48,
+        "transport_expenditure": 117968416.67
+      },
+      "2024": {
+        "average_monthly_income": 2782049.29,
+        "total_expenditure": 3830884035.71,
+        "food_expenditure": 996450476.19,
+        "medical_expenditure": 599011000.0,
+        "education_expenditure": 467006595.24,
+        "leisure_expenditure": 270844761.9,
+        "transport_expenditure": 92758738.1
+      },
+      "2025": {
+        "average_monthly_income": 2782049.29,
+        "total_expenditure": 5486348166.67,
+        "food_expenditure": 1418596047.62,
+        "medical_expenditure": 889336071.43,
+        "education_expenditure": 678743928.57,
+        "leisure_expenditure": 336228547.62,
+        "transport_expenditure": 150621761.9
+      },
+      "2020": {
+        "average_monthly_income": 2782049.29,
+        "total_expenditure": 4539137321.43,
+        "food_expenditure": 1099896226.19,
+        "medical_expenditure": 609943880.95,
+        "education_expenditure": 604415440.48,
+        "leisure_expenditure": 253872678.57,
+        "transport_expenditure": 114937166.67
+      },
+      "2021": {
+        "average_monthly_income": 2782049.29,
+        "total_expenditure": 4569526928.57,
+        "food_expenditure": 1034364690.48,
+        "medical_expenditure": 660453583.33,
+        "education_expenditure": 648016202.38,
+        "leisure_expenditure": 264427583.33,
+        "transport_expenditure": 128870273.81
+      },
+      "2022": {
+        "average_monthly_income": 2782049.29,
+        "total_expenditure": 5218244083.33,
+        "food_expenditure": 1306531035.71,
+        "medical_expenditure": 730229000.0,
+        "education_expenditure": 672713273.81,
+        "leisure_expenditure": 307776297.62,
+        "transport_expenditure": 148776107.14
+      },
+      "2023": {
+        "average_monthly_income": 2782049.29,
+        "total_expenditure": 5588071678.57,
+        "food_expenditure": 1441370416.67,
+        "medical_expenditure": 807717678.57,
+        "education_expenditure": 680927250.0,
+        "leisure_expenditure": 395271309.52,
+        "transport_expenditure": 137124083.33
+      }
+    }
+  },
+  "서초구": {
+    "average_monthly_income": 4955825.56,
+    "total_expenditure": 35936647472.22,
+    "food_expenditure": 2601234944.44,
+    "medical_expenditure": 3834782027.78,
+    "education_expenditure": 704529638.89,
+    "leisure_expenditure": 15861981277.78,
+    "transport_expenditure": 338944083.33,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 5071489.14,
+        "total_expenditure": 22157017680.56,
+        "food_expenditure": 2490365361.11,
+        "medical_expenditure": 2716488291.67,
+        "education_expenditure": 748131944.44,
+        "leisure_expenditure": 5789412861.11,
+        "transport_expenditure": 447522722.22
+      },
+      "2024": {
+        "average_monthly_income": 4955825.56,
+        "total_expenditure": 23374387680.56,
+        "food_expenditure": 1846748222.22,
+        "medical_expenditure": 2475327722.22,
+        "education_expenditure": 492927958.33,
+        "leisure_expenditure": 9639799430.56,
+        "transport_expenditure": 234597763.89
+      },
+      "2025": {
+        "average_monthly_income": 4955825.56,
+        "total_expenditure": 35936647472.22,
+        "food_expenditure": 2601234944.44,
+        "medical_expenditure": 3834782027.78,
+        "education_expenditure": 704529638.89,
+        "leisure_expenditure": 15861981277.78,
+        "transport_expenditure": 338944083.33
+      },
+      "2020": {
+        "average_monthly_income": 4955825.56,
+        "total_expenditure": 25426691486.11,
+        "food_expenditure": 1983119972.22,
+        "medical_expenditure": 3067442069.44,
+        "education_expenditure": 657755722.22,
+        "leisure_expenditure": 8239607319.44,
+        "transport_expenditure": 334250583.33
+      },
+      "2021": {
+        "average_monthly_income": 4955825.56,
+        "total_expenditure": 29910068819.44,
+        "food_expenditure": 1921427666.67,
+        "medical_expenditure": 3540614638.89,
+        "education_expenditure": 669990611.11,
+        "leisure_expenditure": 11646965875.0,
+        "transport_expenditure": 395184763.89
+      },
+      "2022": {
+        "average_monthly_income": 4955825.56,
+        "total_expenditure": 33062687138.89,
+        "food_expenditure": 2463883583.33,
+        "medical_expenditure": 3699431944.44,
+        "education_expenditure": 698462708.33,
+        "leisure_expenditure": 13085206236.11,
+        "transport_expenditure": 398147361.11
+      },
+      "2023": {
+        "average_monthly_income": 4955825.56,
+        "total_expenditure": 33911363500.0,
+        "food_expenditure": 2666077527.78,
+        "medical_expenditure": 3709164055.56,
+        "education_expenditure": 723666569.44,
+        "leisure_expenditure": 13566119902.78,
+        "transport_expenditure": 342326833.33
+      }
+    }
+  },
+  "강남구": {
+    "average_monthly_income": 4847903.27,
+    "total_expenditure": 121569309886.36,
+    "food_expenditure": 3552770500.0,
+    "medical_expenditure": 6351407386.36,
+    "education_expenditure": 1656003636.36,
+    "leisure_expenditure": 65074342500.0,
+    "transport_expenditure": 1161468431.82,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 4929082.59,
+        "total_expenditure": 82000068568.18,
+        "food_expenditure": 3584767738.64,
+        "medical_expenditure": 4730937420.45,
+        "education_expenditure": 1376169488.64,
+        "leisure_expenditure": 40935415761.36,
+        "transport_expenditure": 1573984204.55
+      },
+      "2024": {
+        "average_monthly_income": 4847903.27,
+        "total_expenditure": 83518083011.36,
+        "food_expenditure": 2580875931.82,
+        "medical_expenditure": 4089832215.91,
+        "education_expenditure": 1153988750.0,
+        "leisure_expenditure": 43557213943.18,
+        "transport_expenditure": 859367636.36
+      },
+      "2025": {
+        "average_monthly_income": 4847903.27,
+        "total_expenditure": 121569309886.36,
+        "food_expenditure": 3552770500.0,
+        "medical_expenditure": 6351407386.36,
+        "education_expenditure": 1656003636.36,
+        "leisure_expenditure": 65074342500.0,
+        "transport_expenditure": 1161468431.82
+      },
+      "2020": {
+        "average_monthly_income": 4847903.27,
+        "total_expenditure": 90680282181.82,
+        "food_expenditure": 3093226102.27,
+        "medical_expenditure": 5178618818.18,
+        "education_expenditure": 1181570909.09,
+        "leisure_expenditure": 44182237420.45,
+        "transport_expenditure": 1616387613.64
+      },
+      "2021": {
+        "average_monthly_income": 4847903.27,
+        "total_expenditure": 99104021715.91,
+        "food_expenditure": 3028983965.91,
+        "medical_expenditure": 5862904602.27,
+        "education_expenditure": 1285517181.82,
+        "leisure_expenditure": 46589256022.73,
+        "transport_expenditure": 1375985375.0
+      },
+      "2022": {
+        "average_monthly_income": 4847903.27,
+        "total_expenditure": 115917448511.36,
+        "food_expenditure": 3778784806.82,
+        "medical_expenditure": 6330882079.55,
+        "education_expenditure": 1542978556.82,
+        "leisure_expenditure": 57024887750.0,
+        "transport_expenditure": 1403904250.0
+      },
+      "2023": {
+        "average_monthly_income": 4847903.27,
+        "total_expenditure": 119525530443.18,
+        "food_expenditure": 3974251681.82,
+        "medical_expenditure": 6205920556.82,
+        "education_expenditure": 1649830045.45,
+        "leisure_expenditure": 61946436227.27,
+        "transport_expenditure": 1330281102.27
+      }
+    }
+  },
+  "송파구": {
+    "average_monthly_income": 3971246.37,
+    "total_expenditure": 12570624870.37,
+    "food_expenditure": 1782674296.3,
+    "medical_expenditure": 1466368925.93,
+    "education_expenditure": 397495370.37,
+    "leisure_expenditure": 6386638259.26,
+    "transport_expenditure": 304445796.3,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 4000766.34,
+        "total_expenditure": 6235309314.81,
+        "food_expenditure": 1394116277.78,
+        "medical_expenditure": 1056479694.44,
+        "education_expenditure": 315539805.56,
+        "leisure_expenditure": 866532101.85,
+        "transport_expenditure": 304095555.56
+      },
+      "2024": {
+        "average_monthly_income": 3971246.37,
+        "total_expenditure": 9312284574.07,
+        "food_expenditure": 1232603444.44,
+        "medical_expenditure": 1023638648.15,
+        "education_expenditure": 270233675.93,
+        "leisure_expenditure": 4970956842.59,
+        "transport_expenditure": 224777805.56
+      },
+      "2023": {
+        "average_monthly_income": 3971246.37,
+        "total_expenditure": 7492153407.41,
+        "food_expenditure": 1737026685.19,
+        "medical_expenditure": 1463016796.3,
+        "education_expenditure": 383352185.19,
+        "leisure_expenditure": 1139083203.7,
+        "transport_expenditure": 352442092.59
+      },
+      "2025": {
+        "average_monthly_income": 3971246.37,
+        "total_expenditure": 12570624870.37,
+        "food_expenditure": 1782674296.3,
+        "medical_expenditure": 1466368925.93,
+        "education_expenditure": 397495370.37,
+        "leisure_expenditure": 6386638259.26,
+        "transport_expenditure": 304445796.3
+      },
+      "2020": {
+        "average_monthly_income": 3971246.37,
+        "total_expenditure": 5934155444.44,
+        "food_expenditure": 1233014472.22,
+        "medical_expenditure": 1179921416.67,
+        "education_expenditure": 283680981.48,
+        "leisure_expenditure": 712842509.26,
+        "transport_expenditure": 321754490.74
+      },
+      "2021": {
+        "average_monthly_income": 3971246.37,
+        "total_expenditure": 6337580962.96,
+        "food_expenditure": 1219056768.52,
+        "medical_expenditure": 1295142861.11,
+        "education_expenditure": 332969768.52,
+        "leisure_expenditure": 856963037.04,
+        "transport_expenditure": 386636046.3
+      },
+      "2022": {
+        "average_monthly_income": 3971246.37,
+        "total_expenditure": 7184041750.0,
+        "food_expenditure": 1552608138.89,
+        "medical_expenditure": 1425861259.26,
+        "education_expenditure": 358338518.52,
+        "leisure_expenditure": 1046848981.48,
+        "transport_expenditure": 416160916.67
+      }
+    }
+  },
+  "강동구": {
+    "average_monthly_income": 3350772.28,
+    "total_expenditure": 8649097750.0,
+    "food_expenditure": 1361282055.56,
+    "medical_expenditure": 1235827333.33,
+    "education_expenditure": 376414111.11,
+    "leisure_expenditure": 3715622888.89,
+    "transport_expenditure": 180228944.44,
+    "resident_population": 0.0,
+    "total_stores": 0,
+    "yearly_data": {
+      "2019": {
+        "average_monthly_income": 3433370.19,
+        "total_expenditure": 8898172444.44,
+        "food_expenditure": 1101689611.11,
+        "medical_expenditure": 778216013.89,
+        "education_expenditure": 269381652.78,
+        "leisure_expenditure": 5054595375.0,
+        "transport_expenditure": 152981611.11
+      },
+      "2024": {
+        "average_monthly_income": 3350772.28,
+        "total_expenditure": 5803519208.33,
+        "food_expenditure": 938705388.89,
+        "medical_expenditure": 831995736.11,
+        "education_expenditure": 256061486.11,
+        "leisure_expenditure": 2390678125.0,
+        "transport_expenditure": 133266763.89
+      },
+      "2023": {
+        "average_monthly_income": 3350772.28,
+        "total_expenditure": 8755280611.11,
+        "food_expenditure": 1320732097.22,
+        "medical_expenditure": 1122050777.78,
+        "education_expenditure": 354690972.22,
+        "leisure_expenditure": 3858045611.11,
+        "transport_expenditure": 206670472.22
+      },
+      "2025": {
+        "average_monthly_income": 3350772.28,
+        "total_expenditure": 8649097750.0,
+        "food_expenditure": 1361282055.56,
+        "medical_expenditure": 1235827333.33,
+        "education_expenditure": 376414111.11,
+        "leisure_expenditure": 3715622888.89,
+        "transport_expenditure": 180228944.44
+      },
+      "2020": {
+        "average_monthly_income": 3350772.28,
+        "total_expenditure": 9025030916.67,
+        "food_expenditure": 1037353291.67,
+        "medical_expenditure": 836736861.11,
+        "education_expenditure": 243444680.56,
+        "leisure_expenditure": 5104969638.89,
+        "transport_expenditure": 160034236.11
+      },
+      "2021": {
+        "average_monthly_income": 3350772.28,
+        "total_expenditure": 8842689847.22,
+        "food_expenditure": 1001778791.67,
+        "medical_expenditure": 945992944.44,
+        "education_expenditure": 277009902.78,
+        "leisure_expenditure": 4763138513.89,
+        "transport_expenditure": 192296777.78
+      },
+      "2022": {
+        "average_monthly_income": 3350772.28,
+        "total_expenditure": 8719139263.89,
+        "food_expenditure": 1190528250.0,
+        "medical_expenditure": 1040783333.33,
+        "education_expenditure": 304996458.33,
+        "leisure_expenditure": 4170329375.0,
+        "transport_expenditure": 208798236.11
+      }
+    }
+  }
+}
