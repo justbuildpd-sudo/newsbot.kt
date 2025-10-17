@@ -1,29 +1,23 @@
 {
   "rewrites": [
     {
+      "source": "/app.js",
+      "destination": "/frontend/app.js"
+    },
+    {
       "source": "/(.*)",
-      "destination": "/frontend/index.html"
+      "destination": "/frontend/$1"
     }
   ],
   "headers": [
     {
-      "source": "/frontend/(.*)",
+      "source": "/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
           "value": "public, max-age=3600"
         }
       ]
-    }
-  ],
-  "routes": [
-    {
-      "src": "/app.js",
-      "dest": "/frontend/app.js"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/frontend/$1"
     }
   ]
 }
