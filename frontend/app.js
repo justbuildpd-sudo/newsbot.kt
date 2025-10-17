@@ -1,7 +1,9 @@
 // API 베이스 URL
-const API_BASE = window.location.hostname === 'localhost' 
-    ? 'http://localhost:8000' 
-    : 'http://192.168.219.2:8000';
+const API_BASE = window.API_BASE_URL || (
+    window.location.hostname === 'localhost' 
+        ? 'http://localhost:8000' 
+        : 'http://192.168.219.2:8000'
+);
 
 // 전역 상태
 let allRegions = [];
